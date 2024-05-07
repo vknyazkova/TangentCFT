@@ -2,6 +2,8 @@ import os
 import unicodedata
 from abc import ABC
 
+from tqdm import tqdm
+
 from DataReader.abstract_data_reader import AbstractDataReader
 from TangentS.math_tan.math_document import MathDocument
 from TangentS.math_tan.math_extractor import MathExtractor
@@ -27,8 +29,8 @@ class WikiDataReader(AbstractDataReader, ABC):
             temp_address = root + "/" + directory + "/"
             if not os.path.isdir(temp_address):
                 continue
-            
-            for filename in os.listdir(temp_address):
+            print(f"Processing {directory}")
+            for filename in tqdm(os.listdir(temp_address)):
                 file_path = temp_address + filename
                 parts = filename.split('/')
                 file_name = os.path.splitext(parts[len(parts) - 1])[0]
@@ -42,9 +44,9 @@ class WikiDataReader(AbstractDataReader, ABC):
                     for key in formulas:
                         tuples = formulas[key].get_pairs(window=2, eob=True)
                         dictionary_formula_tuples[file_name + ":" + str(key)] = tuples
-                except:
+                except Exception as e:
                     except_count += 1
-                    print(file_name)
+        print(f'Number of exceptions during reading collection: {except_count}')
         return dictionary_formula_tuples
 
     def get_query(self, ):

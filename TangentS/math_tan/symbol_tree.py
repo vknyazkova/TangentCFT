@@ -52,7 +52,8 @@ class SymbolTree:
             if not (len(p)>200):
                 pairs.append(p)
             else:
-                print("pair "+ p +"is longer than 200 characters" , file=sys.stderr)
+                ...
+                # print("pair "+ p +"is longer than 200 characters" , file=sys.stderr)
         return pairs
 
 ##    def get_symbols(self):

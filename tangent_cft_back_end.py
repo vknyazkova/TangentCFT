@@ -29,15 +29,18 @@ class TangentCFTBackEnd:
         """
         self.module = TangentCFTModule()
         if os.path.isfile(map_file_path):
+            print(f"Using encoder map file {map_file_path}")
             self.__load_encoder_map(map_file_path)
+
         dictionary_formula_tuples_collection = self.__encode_train_tuples(embedding_type, ignore_full_relative_path,
                                                                           tokenize_all, tokenize_number)
+
         self.__save_encoder_map(map_file_path)
-        print("training the fast text model...")
+        print("Training the fast text model...")
         self.module.train_model(self.config, list(dictionary_formula_tuples_collection.values()))
 
         if model_file_path is not None:
-            print("saving the fast text model...")
+            print("Saving the fast text model...")
             self.module.save_model(model_file_path)
         return dictionary_formula_tuples_collection
 
@@ -113,10 +116,10 @@ class TangentCFTBackEnd:
         The return value is dictionary of formula_id and list of encoded tuples
         """
         dictionary_lst_encoded_tuples = {}
-        print("reading train data...")
+        print("Reading train data...")
         dictionary_formula_slt_tuple = self.data_reader.get_collection()
-        print(len(dictionary_formula_slt_tuple.keys()))
-        print("encoding train data...")
+        print("Number of retrieved formulas:", len(dictionary_formula_slt_tuple.keys()))
+        print("Encoding train data...")
         for formula in dictionary_formula_slt_tuple:
             dictionary_lst_encoded_tuples[formula] = self.__encode_lst_tuples(dictionary_formula_slt_tuple[formula],
                                                                               embedding_type, ignore_full_relative_path,
@@ -133,7 +136,6 @@ class TangentCFTBackEnd:
             TupleEncoder.encode_tuples(self.encoder_map_node, self.encoder_map_edge, self.node_id, self.edge_id,
                                        list_of_tuples, embedding_type, ignore_full_relative_path, tokenize_all,
                                        tokenize_number)
-
         self.node_id = node_id
         self.edge_id = edge_id
         self.encoder_map_node.update(update_map_node)
