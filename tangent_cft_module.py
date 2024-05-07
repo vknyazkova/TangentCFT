@@ -51,7 +51,8 @@ class TangentCFTModule:
             except:
                 continue
         temp = numpy.concatenate(numpy_lst, axis=0)
-        tensor_values = Variable(torch.tensor(temp).double()).cuda()
+        tensor_values = Variable(torch.tensor(temp).double())
+        # tensor_values = Variable(torch.tensor(temp).double()).cuda()
         return tensor_values, index_formula_id
 
     def index_collection_to_numpy(self, dictionary_formula_lst_encoded_tuples):
@@ -78,7 +79,8 @@ class TangentCFTModule:
             query_vector: formula query vector representation in numpy
         """
         query_vector = query_vector.reshape(1, 300)
-        query_vec = Variable(torch.tensor(query_vector).double()).cuda()
+        # query_vec = Variable(torch.tensor(query_vector).double()).cuda()
+        query_vec = Variable(torch.tensor(query_vector).double())
         # input("wait here")
         dist = F.cosine_similarity(collection_tensor, query_vec)
         index_sorted = torch.sort(dist, descending=True)[1]
