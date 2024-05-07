@@ -1,0 +1,10115 @@
+N	V!	60000
+N	ℱ	60001
+N	0!	60002
+N		60003
+N	Ω	60004
+N	a	60005
+N	=	60006
+N	M!	60007
+N	()1x3	60008
+N	z	60009
+N	x	60010
+N	+	60011
+N	i	60012
+N	y	60013
+N	.	60014
+N	…	60015
+N	N!	60016
+N	1	60017
+N	&comma;	60018
+N	n	60019
+N	T	60020
+N	{}1x1	60021
+N	∈	60022
+N	ℂ	60023
+N	∣	60024
+N	A	60025
+N	ch	60026
+N	∫	60027
+N	||1x1	60028
+N	F	60029
+N	p	60030
+N	d	60031
+N	<	60032
+N	∞	60033
+N	()1x1	60034
+N	ℝ	60035
+N	sup	60036
+N	f	60037
+N	2	60038
+N	e	60039
+N	-	60040
+N	4	60041
+N	π	60042
+N	⋅	60043
+N	t	60044
+N	⟹	60045
+N	T!	60046
+N	for all	60047
+N	>	60048
+N	0	60049
+N	lim	60050
+N	→	60051
+N	ω	60052
+N	Γ	60053
+N	⟨	60054
+N	τ	60055
+N	⟩	60056
+N	:	60057
+N	P	60058
+N	⇔	60059
+N	and	60060
+N	ϕ	60061
+N	⊢	60062
+N	⊧	60063
+N	O!	60064
+N	divide	60065
+N	∴	60066
+N	←	60067
+N	C	60068
+N	g	60069
+N	B	60070
+N	()1x2	60071
+N	X	60072
+N	q	60073
+N	|	60074
+N	K	60075
+N	∏	60076
+N	M	60077
+N	V	60078
+N	L	60079
+N	!	60080
+N	/	60081
+N	&lsqb;&rsqb;1x2	60082
+N	log	60083
+N	≤	60084
+N	7	60085
+N	max	60086
+N	6	60087
+N	m	60088
+N	˙	60089
+N	ϵ	60090
+N	c	60091
+N	root	60092
+N	≈	60093
+N	S	60094
+N	∑	60095
+N	v	60096
+N	&lsqb;&rsqb;1x1	60097
+N	≡	60098
+N	k	60099
+N	W	60100
+N	l	60101
+N	J	60102
+N	3	60103
+N	s	60104
+N	η	60105
+N	Δ	60106
+N	o	60107
+N	Y	60108
+N	Z	60109
+N	b	60110
+N	×	60111
+N	{}1x3	60112
+N	5	60113
+N	9	60114
+N	≠	60115
+N	H	60116
+N	∪	60117
+N	UB	60118
+N	⋯	60119
+N	h	60120
+N	G	60121
+N	′	60122
+N	ψ	60123
+N	∗	60124
+N	w	60125
+N	W!	60126
+N	∂	60127
+N	j	60128
+N	Φ	60129
+N	σ	60130
+N	U	60131
+N	†	60132
+N	↓	60133
+N	↑	60134
+N	Hubbard	60135
+N	1x1	60136
+N	loc	60137
+N	⏟	60138
+N	μ	60139
+N	mix	60140
+N	bath	60141
+N	AIM	60142
+N	imp	60143
+N	Σ	60144
+N	𝒢	60145
+N	α	60146
+N	β	60147
+N	r	60148
+N	Q	60149
+N	N	60150
+N	γ	60151
+N	¯	60152
+N	*	60153
+N	I	60154
+N	θ	60155
+N	R	60156
+N	()1x4	60157
+N	ρ	60158
+N	ℚ	60159
+N	℘	60160
+N	exp	60161
+N	if	60162
+N	;	60163
+N	otherwise	60164
+N	𝒮	60165
+N	𝒩	60166
+N	ξ	60167
+N	^	60168
+N	D	60169
+N	:=	60170
+N	(	60171
+N	&lsqb;)1x1	60172
+N	&lsqb;	60173
+N	&rsqb;	60174
+N	ss	60175
+N	φ	60176
+N	∇	60177
+N	χ	60178
+N	ℏ	60179
+N	E	60180
+N	collision	60181
+N	ln	60182
+N	δ	60183
+N	Vol	60184
+N	±	60185
+N	{	60186
+N	2x2	60187
+N	Umklapp-process	60188
+N	λ	60189
+N	tot	60190
+N	sin	60191
+N	cos	60192
+N	eff	60193
+N	schr	60194
+N	∼	60195
+N	Var	60196
+N	ε	60197
+N	′′	60198
+N	photon	60199
+N	grating	60200
+N	surf	60201
+N	tan	60202
+N	op	60203
+N	∀	60204
+N	Mor	60205
+N	⊆	60206
+N	𝐌	60207
+N	𝐇	60208
+N	−	60209
+N	𝐡	60210
+N	u	60211
+N	∽	60212
+N	⊂	60213
+N	↪	60214
+N	⊕	60215
+N	ℳ	60216
+N	O	60217
+N	SO	60218
+N	GL	60219
+N	𝔤	60220
+N	𝔩	60221
+N	𝔰	60222
+N	𝔬	60223
+N	𝔪	60224
+N	Ad	60225
+N	()2x1	60226
+N	≥	60227
+N	ℓ	60228
+N	Cov	60229
+N	𝐏	60230
+N	↦	60231
+N	Θ	60232
+N	□	60233
+N	𝖠	60234
+N	◀	60235
+N	ent	60236
+N	𝔼	60237
+N	𝔞	60238
+N	⌊	60239
+N	⌋	60240
+N	⌈	60241
+N	⌉	60242
+N	&lsqb;&rsqb;4x4	60243
+N	&lsqb;&rsqb;3x3	60244
+N	&lsqb;&rsqb;2x2	60245
+N	det	60246
+N	Λ	60247
+N	∝	60248
+N	⊙	60249
+N	yr	60250
+N	pc	60251
+N	⊗	60252
+N	3x2	60253
+N	1x2	60254
+N	8	60255
+N	ℰ	60256
+N	∩	60257
+N	ˇ	60258
+N	∖	60259
+N	𝐁	60260
+N	sinh	60261
+N	cosh	60262
+N	tanh	60263
+N	≪	60264
+N	coth	60265
+N	∥∥1x1	60266
+N	𝒫	60267
+N	()1x5	60268
+N	𝐞	60269
+N	&lsqb;&rsqb;4x1	60270
+N	&lsqb;&rsqb;1x4	60271
+N	ns	60272
+N	earth	60273
+N	gps	60274
+N	ν	60275
+N	~	60276
+N	implies	60277
+N	is an input	60278
+N	otherwise&comma;	60279
+N	ℕ	60280
+N	Path	60281
+N	ζ	60282
+N	sec	60283
+N	Vertical	60284
+N	≫	60285
+N	⋆	60286
+N	ASUI	60287
+N	ASAI	60288
+N	SAIDI	60289
+N	gap cost	60290
+N	Pic	60291
+N	End	60292
+N	∘	60293
+N	NS	60294
+N	Ψ	60295
+N	inc	60296
+N	ℤ	60297
+N	&lsqb;)1x2	60298
+N	E!	60299
+N	LV	60300
+N	SV	60301
+N	SL	60302
+N	MHz	60303
+N	RCA	60304
+N	min	60305
+N	{}1x2	60306
+N	Pr	60307
+N	𝐀	60308
+N	𝐢	60309
+N	𝐣	60310
+N	𝐤	60311
+N	||2x2	60312
+N	||3x3	60313
+N	𝐂	60314
+N	𝐃	60315
+N	𝟐	60316
+N	&lsqb;&rsqb;1x3	60317
+N	∧	60318
+N	Π	60319
+N	Re	60320
+N	Drilling Time(T)	60321
+N	𝐑	60322
+N	ℒ	60323
+N	κ	60324
+N	2x3	60325
+N	copies of	60326
+N	5x2	60327
+N	for	60328
+N	2x1	60329
+N	copies of 1	60330
+N	)	60331
+N	3x4	60332
+N	Li	60333
+N	Im	60334
+N	arg	60335
+N	∙	60336
+N	⟶	60337
+N	Spec	60338
+N	coker	60339
+N	BGM	60340
+N	Tor	60341
+N	ℍ	60342
+N	 	60343
+N	⋃	60344
+N	⊤	60345
+N	𝔸	60346
+N	¬	60347
+N	cot	60348
+N	MASE	60349
+N	mod	60350
+N	lcm	60351
+N	∃	60352
+N	gcd	60353
+N	𝟙	60354
+N	prime dividing	60355
+N	≢	60356
+N	≃	60357
+N	trace	60358
+N	XeF	60359
+N	Cd	60360
+N	Xe	60361
+N	CdF	60362
+N	Me	60363
+N	SiCN	60364
+N	XeCN	60365
+N	SiF	60366
+N	XeC	60367
+N	BF	60368
+N	CH	60369
+N	Cl	60370
+N	𝔭	60371
+N	Reg	60372
+N	𝐐	60373
+N	em	60374
+N	𝔣	60375
+N	str	60376
+N	tr	60377
+N	ker	60378
+N	𝐙	60379
+N	\	60380
+N	()1x6	60381
+N	𝐲	60382
+N	𝐅	60383
+N	()4x1	60384
+N	⋮	60385
+N	𝟎	60386
+N	𝐮	60387
+N	𝐯	60388
+N	↛	60389
+N	lim sup	60390
+N	5x3	60391
+N	ℜ	60392
+N	def	60393
+N	()1x10	60394
+N	||	60395
+N	()1x7	60396
+N	′′′	60397
+N	Total radiation emitted from	60398
+N	Energy absorbed at	60399
+N	originating as emission at	60400
+N	⇒	60401
+N	seq	60402
+N	{}1x4	60403
+N	⟵	60404
+N	⋱	60405
+N	𝐱	60406
+N	𝒆	60407
+N	ext	60408
+N	&lsqb;&rsqb;3x1	60409
+N	 	60410
+N	¨	60411
+N	b:air	60412
+N	Tr	60413
+N	Diag	60414
+N	ℙ	60415
+N	⊇	60416
+N	∅	60417
+N	int	60418
+N	∉	60419
+N	inf	60420
+N	is the price of a self-financing portfolio at each time	60421
+N	𝐗	60422
+N	⪰	60423
+N	&comma; and	60424
+N	∥	60425
+N	⪯	60426
+N	𝐳	60427
+N	𝐘	60428
+N	𝐀𝐁	60429
+N	𝐈	60430
+N	𝚵	60431
+N	Euler	60432
+N	erf	60433
+N	Sym	60434
+N	where	60435
+N	meridian distance	60436
+N	𝒯	60437
+N	𝒞	60438
+N	𝒜	60439
+N	ℬ	60440
+N	𝒪	60441
+N	Wind	60442
+N	𝔖	60443
+N	Fl	60444
+N	(&rsqb;1x4	60445
+N	∮	60446
+N	𝛀	60447
+N	𝐒	60448
+N	↔	60449
+N	||1x2	60450
+N	𝐫	60451
+N	i.e.	60452
+N	3x3	60453
+N	↖	60454
+N	↗	60455
+N	⊥	60456
+N	⏞	60457
+N	()2x2	60458
+N	()4x4	60459
+N	LiBe	60460
+N	BeLi	60461
+N	Be	60462
+N	LiNa	60463
+N	LiMg	60464
+N	BeNa	60465
+N	BeMg	60466
+N	NaLi	60467
+N	NaBe	60468
+N	MgLi	60469
+N	MgBe	60470
+N	Na	60471
+N	NaMg	60472
+N	MgNa	60473
+N	Mg	60474
+N	Semiperimeter	60475
+N	Area	60476
+N	𝑨	60477
+N	𝒂	60478
+N	𝑻	60479
+N	TF	60480
+N	sinc	60481
+N	out	60482
+N	in	60483
+N	dB	60484
+N	iT	60485
+N	L1	60486
+N	L2	60487
+N	𝕩	60488
+N	≅	60489
+N	⟼	60490
+N	6x2	60491
+N	Poiss	60492
+N	argmin	60493
+N	𝛽	60494
+N	⇌	60495
+N	RCl	60496
+N	Official	60497
+N	UK	60498
+N	Unemployment	60499
+N	Rate	60500
+N	All	60501
+N	those	60502
+N	aged	60503
+N	over	60504
+N	classed	60505
+N	as	60506
+N	unemployed	60507
+N	employed	60508
+N	or	60509
+N	𝟏	60510
+N	▽	60511
+N	∔	60512
+N	dL	60513
+N	33	60514
+N	15	60515
+N	31	60516
+N	maj	60517
+N	8x8	60518
+N	pefsu	60519
+N	number of heqats of grain	60520
+N	number loaves of bread (or jugs of beer)	60521
+N	cov	60522
+N	Maximum stress failure criterion:	60523
+N	Quadratic failure criterion:	60524
+N	f6	60525
+N	f4	60526
+N	1x3	60527
+N	Indeterminate	60528
+N	Davis	60529
+N	Planck	60530
+N	𝔽	60531
+N	ℐ	60532
+N	ℛ	60533
+N	⩾	60534
+N	&comma; if	60535
+N	4x2	60536
+N	is the abscissa of	60537
+N	𝐜	60538
+N	&quest;	60539
+N	at	60540
+N	on	60541
+N	is an interval	60542
+N	is continuous&comma;	60543
+N	base	60544
+N	ℋ	60545
+N	{}3x1	60546
+N	(equivalent forms)	60547
+N	lam	60548
+N	for almost every	60549
+N	Qcoh	60550
+N	Hom	60551
+N	Mod	60552
+N	Funct	60553
+N	Add	60554
+N	()3x3	60555
+N	rank	60556
+N	𝐦	60557
+N	𝐉	60558
+N	orb	60559
+N	𝐋	60560
+N	spin	60561
+N	BZ	60562
+N	𝐩	60563
+N	⋀	60564
+N	◁	60565
+N	𝕋	60566
+N	↶	60567
+N	Vertices	60568
+N	△	60569
+N	PCSA	60570
+N	fiber length	60571
+N	muscle volume	60572
+N	muscle mass	60573
+N	Total force	60574
+N	Specific tension	60575
+N	Muscle force	60576
+N	model	60577
+N	data	60578
+N	𝐕	60579
+N	reconstruction	60580
+N	𝝂	60581
+N	𝒉	60582
+N	𝑾	60583
+N	𝒙	60584
+N	𝒚	60585
+N	𝒛	60586
+N	𝑯	60587
+N	𝑿	60588
+N	𝑼	60589
+N	product	60590
+N	auxiliary	60591
+N	prod	60592
+N	aux	60593
+N	{}1x5	60594
+N	#	60595
+N	4x1	60596
+N	&lsqb;&rsqb;3x4	60597
+N	arctan	60598
+N	var	60599
+N	𝐷𝐼	60600
+N	⩽	60601
+N	is bounded&comma; 1-Lipschitz and has	60602
+N	subject to	60603
+N	arcosh	60604
+N	csc	60605
+N	𝐚	60606
+N	CGHS	60607
+N	RST	60608
+N	admissible	60609
+N	exists a.s.	60610
+N	𝐖	60611
+N	𝐄	60612
+N	𝐓	60613
+N	𝐝𝐬	60614
+N	𝐬	60615
+N	Constant	60616
+N	𝐧	60617
+N	𝐀𝐃	60618
+N	𝐁𝐂	60619
+N	Efficiency of Conversion for ingested food(ECI)	60620
+N	Food Calories	60621
+N	Net Production(Calories)	60622
+N	%	60623
+N	corresponds to	60624
+N	CO2 emitted	60625
+N	antilog	60626
+N	UL	60627
+N	dim	60628
+N	↠	60629
+N	QSym	60630
+N	⊨	60631
+N	span	60632
+N	EXP	60633
+N	NEXP	60634
+N	7x7	60635
+N	()6x6	60636
+N	Arg	60637
+N	th	60638
+N	𝒬	60639
+N	CI	60640
+N	IMC	60641
+N	IP	60642
+N	ID	60643
+N	ICS	60644
+N	Co	60645
+N	CoO	60646
+N	ℌ	60647
+N	𝒟	60648
+N	Aff	60649
+N	⋊	60650
+N	}	60651
+N	∋	60652
+N	⟂	60653
+N	Phase 1	60654
+N	from figure	60655
+N	Phase2	60656
+N	Real wages	60657
+N	Constant institutional wages (CIW)	60658
+N	Phase3	60659
+N	MP	60660
+N	CIW	60661
+N	–	60662
+N	𝑺	60663
+N	𝑹	60664
+N	∬	60665
+N	source	60666
+N	≲	60667
+N	&lsqb;&rsqb;2x1	60668
+N	𝑓	60669
+N	𝐶	60670
+N	𝛼	60671
+N	Seats	60672
+N	𝜽	60673
+N	𝝋	60674
+N	spt	60675
+N	⊑	60676
+N	𝕀	60677
+N	cavity term	60678
+N	atomic term	60679
+N	interaction term	60680
+N	JC	60681
+N	rate	60682
+N	‡	60683
+N	2x4	60684
+N	𝒱	60685
+N	𝒦	60686
+N	Ind	60687
+N	PGL	60688
+N	vol	60689
+N	∓	60690
+N	area	60691
+N	diam	60692
+N	resistance	60693
+N	reluctance	60694
+N	∨	60695
+N	𝐱𝐱	60696
+N	&lsqb;&rsqb;5x5	60697
+N	ph	60698
+N	𝐒𝐓𝐅𝐓	60699
+N	𝐬𝐩𝐞𝐜𝐭𝐫𝐨𝐠𝐫𝐚𝐦	60700
+N	𝜶	60701
+N	BkO	60702
+N	Bk	60703
+N	year n	60704
+N	year 2	60705
+N	year 1	60706
+N	𝒵	60707
+N	PerfMatch	60708
+N	pf	60709
+N	sgn	60710
+N	id	60711
+N	by	60712
+N	𝐰	60713
+N	6x3	60714
+N	≧	60715
+N	7x3	60716
+N	&comma; etc.	60717
+N	FS	60718
+N	SF	60719
+N	KF	60720
+N	KSO	60721
+N	NO	60722
+N	SOF	60723
+N	for all but finitely many primes.	60724
+N	𝕣	60725
+N	else	60726
+N	cm	60727
+N	minute	60728
+N	standard	60729
+N	litre	60730
+N	Pa	60731
+N	{}1x6	60732
+N	𝐍	60733
+N	𝐊	60734
+N	𝚫	60735
+N	ion	60736
+N	neutral	60737
+N	ad	60738
+N	Hz	60739
+N	÷	60740
+N	cents	60741
+N	Katz	60742
+N	Maxwell	60743
+N	term	60744
+N	𝕕	60745
+N	𝕄	60746
+N	𝔹	60747
+N	𝕂	60748
+N	(&rsqb;1x2	60749
+N	with	60750
+N	4x5	60751
+N	ann	60752
+N	⊊	60753
+N	soc	60754
+N	Frac	60755
+N	Beta	60756
+N	Is	60757
+N	≻	60758
+N	⊁	60759
+N	plyr	60760
+N	PTS	60761
+N	FGA	60762
+N	REB	60763
+N	AST	60764
+N	STL	60765
+N	BLK	60766
+N	PF	60767
+N	TO	60768
+N	team	60769
+N	wins	60770
+N	()5x5	60771
+N	𝐊𝐀	60772
+N	𝐔	60773
+N	ROI	60774
+N	off	60775
+N	Component test coverage	60776
+N	Total	60777
+N	of components tested	60778
+N	of components	60779
+N	PCBA shorts test coverage	60780
+N	of accessible nodes	60781
+N	of PCBA nodes	60782
+N	Ξ	60783
+N	𝐀𝐱	60784
+N	𝐛	60785
+N	Some initial guess	60786
+N	𝐀𝐩	60787
+N	AB	60788
+N	assuming	60789
+N	0x01	60790
+N	0x02	60791
+N	core	60792
+N	∠	60793
+N	right angles	60794
+N	𝔻	60795
+N	(women with at least	60796
+N	children ever borne)	60797
+N	children ever born)	60798
+N	Map	60799
+N	Res	60800
+N	poles	60801
+N	csch	60802
+N	sech	60803
+N	𝐠	60804
+N	𝔱	60805
+N	𝔲	60806
+N	𝔳	60807
+N	rad	60808
+N	𝝎	60809
+N	rot	60810
+N	grad	60811
+N	corr	60812
+N	Id	60813
+N	flat	60814
+N	ℵ	60815
+N	⌢	60816
+N	Throughput	60817
+N	RTT	60818
+N	RWIN	60819
+N	 	60820
+N	𝐪	60821
+N	2x5	60822
+N	𝐓𝐑	60823
+N	axial	60824
+N	radial	60825
+N	𝝀	60826
+N	Da	60827
+N	TPW	60828
+N	par	60829
+N	PRESS	60830
+N	quantized	60831
+N	change	60832
+N	kinetic	60833
+N	energy	60834
+N	spacing	60835
+N	of	60836
+N	HO	60837
+N	𝝁	60838
+N	𝐝	60839
+N	𝝉	60840
+N	𝕡	60841
+N	𝕚	60842
+N	𝟘	60843
+N	total	60844
+N	dip	60845
+N	quad	60846
+N	𝕟	60847
+N	Tot	60848
+N	Trans	60849
+N	Rot	60850
+N	miles	60851
+N	ritorno	60852
+N	avanzo	60853
+N	red	60854
+N	green	60855
+N	blue	60856
+N	is a (simple) path	60857
+N	𝕊	60858
+N	KL	60859
+N	Flow Rate of N2 at the same pressure	60860
+N	Specific Gravity	60861
+N	≺	60862
+N	3x1	60863
+N	𝟑	60864
+N	𝟒	60865
+N	KS	60866
+N	Real option value	60867
+N	average	60868
+N	operating profit	60869
+N	launch costs	60870
+N	MI	60871
+N	PNP	60872
+N	ei	60873
+N	Observed	60874
+N	Intrinsic	60875
+N	Dom	60876
+N	ip	60877
+N	DC	60878
+N	discharge	60879
+N	loss	60880
+N	loaded	60881
+N	charge	60882
+N	≜	60883
+N	deg	60884
+N	recc	60885
+N	⋂	60886
+N	()3x1	60887
+N	kg	60888
+N	sign	60889
+N	TP	60890
+N	PV	60891
+N	since	60892
+N	stdev	60893
+N	MSE	60894
+N	MLE	60895
+N	MM	60896
+N	UMVUE	60897
+N	noncentral	60898
+N	Potential	60899
+N	distance	60900
+N	electric	60901
+N	Mp	60902
+N	Sp	60903
+N	st	60904
+N	𝔥	60905
+N	𝔫	60906
+N	seed	60907
+N	()1x8	60908
+N	is assumed.	60909
+N	mol	60910
+N	constant	60911
+N	natural	60912
+N	units	60913
+N	stat	60914
+N	syst	60915
+N	𝔛	60916
+N	𝐬𝐢𝐠𝐧	60917
+N	{)1x1	60918
+N	wr	60919
+N	◇	60920
+N	℧	60921
+N	ϑ	60922
+N	for odd	60923
+N	for even	60924
+N	⊠	60925
+N	1.22\n                  \n                  21	60926
+N	1.25\n                  \n                  24	60927
+N	nMe	60928
+N	mC	60929
+N	&lsqb;&rsqb;5x1	60930
+N	for each	60931
+N	Gumbel	60932
+N	EV	60933
+N	Frechet	60934
+N	eV	60935
+N	cosech	60936
+N	√	60937
+N	𝐻𝑒	60938
+N	𝑴	60939
+N	𝒌	60940
+N	𝒗	60941
+N	𝒖	60942
+N	𝒄	60943
+N	1&comma;2	60944
+N	P1&comma;2	60945
+N	1&comma;2&comma;e	60946
+N	e1&comma;e2	60947
+N	’s	60948
+N	∭	60949
+N	⊃	60950
+N	ι	60951
+N	⊦	60952
+N	barn	60953
+N	Si	60954
+N	OH	60955
+N	polymerization	60956
+N	slowfracture	60957
+N	HOH	60958
+N	Value of an MLA vote	60959
+N	Total number of elected members	60960
+N	Total population of the state	60961
+N	Value of an MP vote	60962
+N	The sum of elected members of both the houses of Parliament	60963
+N	The sum of vote value of elected members of all the Legislative Assemblies	60964
+N	𝐆	60965
+N	SSMD	60966
+N	SSMD*	60967
+N	comm	60968
+N	has finite index in both	60969
+N	atm	60970
+N	LSND	60971
+N	diag	60972
+N	()3x2	60973
+N	GeV	60974
+N	⟸	60975
+N	𝜼	60976
+N	𝝌	60977
+N	()1x9	60978
+N	♯	60979
+N	ℑ	60980
+N	SCL	60981
+N	𝒳	60982
+N	𝒴	60983
+N	𝒃	60984
+N	rand	60985
+N	_	60986
+N	degree	60987
+N	nil	60988
+N	MRRT rate	60989
+N	Extraction factor	60990
+N	dX	60991
+N	km	60992
+N	linear	60993
+N	&lsqb;&rsqb;2x3	60994
+N	springs	60995
+N	nodes	60996
+N	&lsqb;&rsqb;3x2	60997
+N	Ci	60998
+N	OL	60999
+N	Cf	61000
+N	zf	61001
+N	are q-flats	61002
+N	ions	61003
+N	perm	61004
+N	Volume	61005
+N	𝐗𝐁	61006
+N	𝒰	61007
+N	diagonal	61008
+N	ind	61009
+N	opt	61010
+N	Inertia (per volume)	61011
+N	Divergence of stress	61012
+N	𝐟	61013
+N	Other	61014
+N	body	61015
+N	forces	61016
+N	Viscosity	61017
+N	Pressure	61018
+N	gradient	61019
+N	Advection	61020
+N	Eulerian	61021
+N	acceleration	61022
+N	𝔠	61023
+N	𝔟	61024
+N	𝔡	61025
+N	≰	61026
+N	𝔯	61027
+N	≦	61028
+N	Shear Force	61029
+N	Convective Inertial Force	61030
+N	Transient Inertial Force	61031
+N	transient inertial forces + convective inertial forces	61032
+N	gravitational force + Pressure force + viscous forces	61033
+N	leadless	61034
+N	𝖳	61035
+N	sq	61036
+N	dg	61037
+N	𝐭	61038
+N	arcsin	61039
+N	(&rsqb;1x1	61040
+N	𝒓	61041
+N	𝒏	61042
+N	NERD	61043
+N	SwStrk	61044
+N	Strike	61045
+N	LUCK	61046
+N	FIP	61047
+N	AGE	61048
+N	BAT	61049
+N	HR	61050
+N	FB	61051
+N	SBA	61052
+N	BL	61053
+N	UZR	61054
+N	PAY	61055
+N	SBR	61056
+N	XBT	61057
+N	test rejects	61058
+N	4x4	61059
+N	variable	61060
+N	application	61061
+N	abstraction	61062
+N	𝚕𝚎𝚝	61063
+N	𝚒𝚗	61064
+N	5x5	61065
+N	mono	61066
+N	poly	61067
+N	quantifier	61068
+N	𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗	61069
+N	𝚛𝚎𝚝𝚞𝚛𝚗	61070
+N	𝚎𝚗𝚍	61071
+N	𝚒𝚗𝚝	61072
+N	𝚜𝚝𝚛𝚒𝚗𝚐	61073
+N	𝙼𝚊𝚙	61074
+N	𝚂𝚎𝚝	61075
+N	𝟸	61076
+N	𝟷	61077
+N	𝟶	61078
+N	free	61079
+N	𝐥𝐞𝐭	61080
+N	𝑏𝑎𝑟	61081
+N	𝐢𝐧	61082
+N	𝑓𝑜𝑜	61083
+N	𝑖𝑛𝑡	61084
+N	Context	61085
+N	𝚎𝚖𝚙𝚝𝚢	61086
+N	Typing	61087
+N	9x3	61088
+N	Predicate	61089
+N	Judgment	61090
+N	Premise	61091
+N	Conclusion	61092
+N	Rule	61093
+N	𝙽𝚊𝚖𝚎	61094
+N	13x2	61095
+N	𝚅𝚊𝚛	61096
+N	𝙰𝚙𝚙	61097
+N	𝙰𝚋𝚜	61098
+N	𝙻𝚎𝚝	61099
+N	𝙸𝚗𝚜𝚝	61100
+N	𝙶𝚎𝚗	61101
+N	5x4	61102
+N	true	61103
+N	7x2	61104
+N	⇐	61105
+N	𝚞𝚗𝚒𝚘𝚗	61106
+N	𝚏𝚒𝚗𝚍	61107
+N	𝑖𝑛𝑠𝑡	61108
+N	𝑛𝑒𝑤𝑣𝑎𝑟	61109
+N	𝑢𝑛𝑖𝑓𝑦	61110
+N	𝑓𝑖𝑥	61111
+N	𝚛𝚎𝚌	61112
+N	𝚁𝚎𝚌	61113
+N	𝚊𝚗𝚍	61114
+N	Electric monopole	61115
+N	Electric dipole	61116
+N	Magnetic dipole / Electric quadrupole	61117
+N	effective	61118
+N	Magnetic dipole	61119
+N	Electric quadrupole	61120
+N	𝚿	61121
+N	Benini	61122
+N	Rayleigh	61123
+N	then	61124
+N	DP	61125
+N	7x1	61126
+N	nm	61127
+N	is critical point of	61128
+N	is a critical point of	61129
+N	P5	61130
+N	In	61131
+N	py	61132
+N	Baux  score	61133
+N	Percent  body  surface  burned	61134
+N	Patient’s  age	61135
+N	υ	61136
+N	𝑡𝑟	61137
+N	rate(initiation)	61138
+N	rate(propagation)	61139
+N	rate(termination)	61140
+N	rate(chain transfer)	61141
+N	·	61142
+N	Bernoulli	61143
+N	Binomial	61144
+N	times	61145
+N	𝐑𝐯	61146
+N	𝐔𝐒𝐕	61147
+N	𝐔𝐌𝐕	61148
+N	CTC	61149
+N	cyclic	61150
+N	CML	61151
+N	ς	61152
+N	{}1x7	61153
+N	chord	61154
+N	radians	61155
+N	18x7	61156
+N	arc	61157
+N	sixtieths	61158
+N	9x9	61159
+N	alpha	61160
+N	iota	61161
+N	ϱ	61162
+N	rho	61163
+N	beta	61164
+N	kappa	61165
+N	gamma	61166
+N	lambda	61167
+N	delta	61168
+N	mu	61169
+N	epsilon	61170
+N	nu	61171
+N	stigma	61172
+N	archaic	61173
+N	xi	61174
+N	zeta	61175
+N	omicron	61176
+N	eta	61177
+N	pi	61178
+N	theta	61179
+N	koppa	61180
+N	’	61181
+N	15x1	61182
+N	‘	61183
+N	15x3	61184
+N	15x4	61185
+N	6x1	61186
+N	6x4	61187
+N	GIG	61188
+N	GNIG	61189
+N	Lip	61190
+N	()2x7	61191
+N	()2x9	61192
+N	()2x6	61193
+N	step	61194
+N	avg	61195
+N	ES	61196
+N	EM	61197
+N	sr	61198
+N	aer	61199
+N	BH	61200
+N	km/h	61201
+N	𝕁	61202
+N	𝔾	61203
+N	NbF	61204
+N	dCov	61205
+N	dVar	61206
+N	dCor	61207
+N	Aut	61208
+N	length	61209
+N	minimize	61210
+N	is minimum	61211
+N	s.t.	61212
+N	(Assuming in Low Rank Approximation&comma; we are approximating via a matrix whose rank	61213
+N	null	61214
+N	vec	61215
+N	there are	61216
+N	such that	61217
+N	there is full row rank	61218
+N	⊺	61219
+N	for integers	61220
+N	odd	61221
+N	even	61222
+N	ord	61223
+N	𝐥𝐚𝐭	61224
+N	𝐯𝐞𝐫𝐭	61225
+N	𝐟𝐨𝐫𝐰𝐚𝐫𝐝	61226
+N	MISE	61227
+N	AMISE	61228
+N	PI	61229
+N	𝕏	61230
+N	SCV	61231
+N	MIAE	61232
+N	MUAE	61233
+N	MKL	61234
+N	MH	61235
+N	(Eq. 1)	61236
+N	Maximize:	61237
+N	(Eq. 2)	61238
+N	Subject to:	61239
+N	&lsqb;&rsqb;6x6	61240
+N	(Eq. 3)	61241
+N	(Eq. 4)	61242
+N	(Eq. 5)	61243
+N	(Eq. 6)	61244
+N	𝑸	61245
+N	(Eq. 7)	61246
+N	Maximize	61247
+N	Subjectto	61248
+N	(Eq. 8)	61249
+N	(Eq. 9)	61250
+N	(Eq. 10)	61251
+N	with probability 1	61252
+N	𝝈	61253
+N	𝒑	61254
+N	𝕧	61255
+N	𝕃	61256
+N	Diff	61257
+N	𝐑𝐑	61258
+N	hip circumference in m	61259
+N	height in m	61260
+N	height	61261
+N	random	61262
+N	there exists a vector	61263
+N	all	61264
+N	POT	61265
+N	KIN	61266
+N	Lomax	61267
+N	If	61268
+N	qExp	61269
+N	Pareto	61270
+N	elasticity	61271
+N	Rossby number	61272
+N	is an	61273
+N	-path from	61274
+N	to	61275
+N	is a twisted	61276
+N	is a nonintersecting twisted	61277
+N	||4x4	61278
+N	𝒥	61279
+N	𝑙𝑙	61280
+N	etc.&comma;	61281
+N	t1	61282
+N	Ann	61283
+N	normal	61284
+N	Ch	61285
+N	mat	61286
+N	Total biocide release	61287
+N	𝔢	61288
+N	DE9IM	61289
+N	bin	61290
+N	rel	61291
+N	net	61292
+N	thrust	61293
+N	𝔇	61294
+N	3x5	61295
+N	𝔓	61296
+N	maximize	61297
+N	the decision being made&comma; chosen from space	61298
+N	the uncertain quantity&comma; with true value in space	61299
+N	the utility function	61300
+N	your prior subjective probability distribution (density function) on	61301
+N	erfc	61302
+N	erfcx	61303
+N	mean	61304
+N	median	61305
+N	standard deviation	61306
+N	whenever	61307
+N	Undefined for	61308
+N	but only if	61309
+N	Mult	61310
+N	WSM-score	61311
+N	peak	61312
+N	sum	61313
+N	pieces	61314
+N	run	61315
+N	solid	61316
+N	QCD	61317
+N	keV	61318
+N	(1)	61319
+N	(2)	61320
+N	𝗂𝖽	61321
+N	⪆	61322
+N	𝐽𝐵	61323
+N	≿	61324
+N	4x3	61325
+N	𝑑	61326
+N	NB	61327
+N	BNB	61328
+N	()2x20	61329
+N	2x20	61330
+N	top	61331
+N	𝐒𝐞𝐭	61332
+N	Distance	61333
+N	mes	61334
+N	recall	61335
+N	(supercritical flow)	61336
+N	efficiency	61337
+N	efficient	61338
+N	if necessary&comma; this is an alternate way to calculate	61339
+N	𝚷	61340
+N	GF	61341
+N	the	61342
+N	position of	61343
+N	is a	61344
+N	NiF	61345
+N	XF	61346
+N	aHF	61347
+N	AsF	61348
+N	Ni	61349
+N	⊩	61350
+N	salt mass	61351
+N	total mass	61352
+N	M/M/	61353
+N	M/G/	61354
+N	5x1	61355
+N	Cell	61356
+N	Amplitude	61357
+N	Frequency	61358
+N	Rejection	61359
+N	Doppler	61360
+N	Transmit	61361
+N	Main	61362
+N	Lobe	61363
+N	Side	61364
+N	Lock criteria	61365
+N	Threshold	61366
+N	Doppler Frequency	61367
+N	Transmit Frequency	61368
+N	Imag	61369
+N	NA	61370
+N	clad	61371
+N	CNR	61372
+N	bound	61373
+N	data written to the flash memory	61374
+N	write amplification	61375
+N	data written by the host	61376
+N	physical capacity	61377
+N	user capacity	61378
+N	over-provision	61379
+N	Pl	61380
+N	Risk	61381
+N	𝐮𝐮	61382
+N	𝐮𝐱	61383
+N	()2x4	61384
+N	()2x8	61385
+N	étale	61386
+N	𝔅	61387
+N	sat	61388
+N	()4x3	61389
+N	{}1x9	61390
+N	𝕜	61391
+N	Th	61392
+N	Pb	61393
+N	Bi	61394
+N	𝕦	61395
+N	𝕘	61396
+N	HA	61397
+N	aq	61398
+N	𝐁𝐳	61399
+N	supp	61400
+N	point	61401
+N	logit	61402
+N	𝚺	61403
+N	𝐕𝐚𝐫	61404
+N	ess	61405
+N	subject	61406
+N	(for	61407
+N	argmax	61408
+N	𝐌𝐀	61409
+N	𝐍𝐀	61410
+N	MSD	61411
+N	&	61412
+N	is a host of	61413
+N	SCl	61414
+N	SOCl	61415
+N	dom	61416
+N	epi	61417
+N	Gr	61418
+N	𝑝	61419
+N	𝑗	61420
+N	𝑘	61421
+N	free part of	61422
+N	pd	61423
+N	depth	61424
+N	succ	61425
+N	next	61426
+N	first	61427
+N	CD	61428
+N	CO	61429
+N	⇄	61430
+N	Methylation	61431
+N	Undigested Fragments + Digested Fragments	61432
+N	Digested Fragments	61433
+N	String	61434
+N	Spin	61435
+N	⇓	61436
+N	pfd	61437
+N	std	61438
+N	Υ	61439
+N	Diagnostic odds ratio&comma; DOR	61440
+N	SE	61441
+N	DOR	61442
+N	sensitivity	61443
+N	specificity	61444
+N	PPV	61445
+N	NPV	61446
+N	low	61447
+N	high	61448
+N	𝕆	61449
+N	Ha	61450
+N	Free	61451
+N	and integer for	61452
+N	𝑥	61453
+N	&lsqb;&rsqb;1x5	61454
+N	()6x4	61455
+N	Frequency of most common item	61456
+N	Frequency of this item	61457
+N	Bayes	61458
+N	µ	61459
+N	𝐾𝑎	61460
+N	ESL	61461
+N	ESR	61462
+N	𝐁𝐁	61463
+N	𝐾𝐸	61464
+N	Weight	61465
+N	𝑃𝐸	61466
+N	𝐹𝑟	61467
+N	𝐶𝑟𝑖𝑡𝑖𝑐𝑎𝑙	61468
+N	𝑆𝑢𝑏𝑐𝑟𝑖𝑡𝑖𝑐𝑎𝑙	61469
+N	𝑆𝑢𝑝𝑒𝑟𝑐𝑟𝑖𝑡𝑖𝑐𝑎𝑙	61470
+N	ft	61471
+N	||1x3	61472
+N	issue occurring	61473
+N	issue not occurring	61474
+N	codim	61475
+N	slightly bigger coin	61476
+N	smaller coin	61477
+N	x&comma;t	61478
+N	gap	61479
+N	Corr	61480
+N	constraints	61481
+N	ϖ	61482
+N	cl	61483
+N	co	61484
+N	&lsqb;&rsqb;8x8	61485
+N	qri	61486
+N	cone	61487
+N	is a linear subspace	61488
+N	ri	61489
+N	Gal	61490
+N	amf	61491
+N	⟺	61492
+N	⇎	61493
+N	res	61494
+N	div	61495
+N	NTIME	61496
+N	CSS	61497
+N	EMM	61498
+N	{}2x1	61499
+N	P(II)	61500
+N	when	61501
+N	SOS	61502
+N	𝔉	61503
+N	not	61504
+N	or not	61505
+N	and not	61506
+N	cor	61507
+N	is prime	61508
+N	Direct labor cost	61509
+N	job time	61510
+N	wage	61511
+N	a.s.	61512
+N	∥∥4x20	61513
+N	∥∥5x20	61514
+N	MMH	61515
+N	Conv	61516
+N	Graph	61517
+N	CAI	61518
+N	synonymous codons for amino acid	61519
+N	ran	61520
+N	normalized	61521
+N	count	61522
+N	capture	61523
+N	fusion	61524
+N	conduction	61525
+N	radiation	61526
+N	crit	61527
+N	atmospheres	61528
+N	pmi	61529
+N	Sim	61530
+N	number of cycles of	61531
+N	signbit	61532
+N	exponentbits	61533
+N	truesignificand	61534
+N	Years to maturity	61535
+N	Clean price	61536
+N	Annual coupon payments	61537
+N	𝜷	61538
+N	versin	61539
+N	phase	61540
+N	group	61541
+N	IQHE	61542
+N	𝐒𝐩𝐞𝐜	61543
+N	𝐏𝐫𝐢𝐞𝐬	61544
+N	𝐏𝐒𝐭𝐨𝐧𝐞	61545
+N	↘	61546
+N	octaves	61547
+N	number of octaves	61548
+N	Mag	61549
+N	dB/octave	61550
+N	kHz	61551
+N	bar	61552
+N	water	61553
+N	otherwise.	61554
+N	vers	61555
+N	ver	61556
+N	vercosin	61557
+N	coversin	61558
+N	cvs	61559
+N	covercosin	61560
+N	haversin	61561
+N	havercosin	61562
+N	hacoversin	61563
+N	hacovercosin	61564
+N	exsec	61565
+N	excsc	61566
+N	crd	61567
+N	arccos	61568
+N	is odd	61569
+N	is even	61570
+N	half circle&comma;	61571
+N	right angle (quarter circle)&comma;	61572
+N	half circle&comma; then:	61573
+N	atan2	61574
+N	cis	61575
+N	arccis	61576
+N	𝑖𝑛𝑗𝑒𝑐𝑡𝑒𝑑	61577
+N	𝑎𝑐𝑡𝑖𝑣𝑖𝑡𝑦	61578
+N	𝑏𝑜𝑑𝑦	61579
+N	𝑤𝑒𝑖𝑔ℎ𝑡	61580
+N	Vanna	61581
+N	Volga	61582
+N	ATM	61583
+N	RR	61584
+N	Call	61585
+N	Put	61586
+N	VV	61587
+N	=vega&comma; vanna&comma; volga	61588
+N	vanna	61589
+N	volga	61590
+N	DF	61591
+N	tod	61592
+N	⊔	61593
+N	╱	61594
+N	almost everywhere	61595
+N	𝑖𝑙	61596
+N	𝐻𝐻	61597
+N	𝑛𝐼	61598
+N	𝐺𝐹	61599
+N	𝑝𝑛	61600
+N	𝑥𝑁	61601
+N	𝑥𝐾	61602
+N	𝑚𝑖𝑛	61603
+N	𝑅𝐶	61604
+N	𝑚𝑎𝑥	61605
+N	const	61606
+N	⟷	61607
+N	MeV	61608
+N	𝑱	61609
+N	accept	61610
+N	im	61611
+N	LWE	61612
+N	&lsqb;&rsqb;8x3	61613
+N	(}1x1	61614
+N	|}1x1	61615
+N	defective	61616
+N	&lsqb;&rsqb;5x6	61617
+N	RF	61618
+N	IF	61619
+N	SC	61620
+N	()8x7	61621
+N	fitting	61622
+N	ppmv	61623
+N	mg	61624
+N	wet	61625
+N	basis	61626
+N	dry	61627
+N	reference	61628
+N	volume	61629
+N	measured	61630
+N	Jacobian	61631
+N	⇀	61632
+N	↽	61633
+N	⊖	61634
+N	⇋	61635
+N	reduced species	61636
+N	oxidized species	61637
+N	organic phase	61638
+N	aqueous phase	61639
+N	pm	61640
+N	in kV	61641
+N	CAL	61642
+N	Comp2	61643
+N	Comp1	61644
+N	𝑆𝑡𝑟𝑢𝑐	61645
+N	𝑀𝑒𝑚	61646
+N	𝑜𝑏𝑗𝑒𝑐𝑡	61647
+N	𝑒𝑣𝑜𝑙𝑢𝑡𝑖𝑜𝑛	61648
+N	𝑒𝑛𝑑𝑜𝑐𝑦𝑡𝑜𝑠𝑖𝑠	61649
+N	𝑒𝑥𝑜𝑐𝑦𝑡𝑜𝑠𝑖𝑠	61650
+N	𝑝𝑖𝑛𝑜𝑐𝑦𝑡𝑜𝑠𝑖𝑠	61651
+N	𝑝ℎ𝑎𝑔𝑜𝑐𝑦𝑡𝑜𝑠𝑖𝑠	61652
+N	↛	61653
+N	y-intercept	61654
+N	apparent	61655
+N	slope	61656
+N	MIS	61657
+N	⊞	61658
+N	ROV	61659
+N	Pos	61660
+N	Neg	61661
+N	rect	61662
+N	&lsqb;&rsqb;7x7	61663
+N	John	61664
+N	see	61665
+N	did	61666
+N	who	61667
+N	see y	61668
+N	John see y	61669
+N	did John see y	61670
+N	x did John see y	61671
+N	who did John see	61672
+N	𝐣𝐣	61673
+N	()9x8	61674
+N	Protective index	61675
+N	ED	61676
+N	TD	61677
+N	ijkl	61678
+N	cc	61679
+N	ij	61680
+N	cv	61681
+N	bs	61682
+N	XX	61683
+N	𝐲𝐲	61684
+N	𝐳𝐳	61685
+N	State	61686
+N	Part IFIF	61687
+N	Part IVλIVλ	61688
+N	Part IIIUIIIU	61689
+N	Part IIλIIλ	61690
+N	sym	61691
+N	Arcsine	61692
+N	besselj	61693
+N	BesselJ	61694
+N	𝜒	61695
+N	ab	61696
+N	Trace	61697
+N	ı	61698
+N	Wb/A.m	61699
+N	𝒇	61700
+N	𝒈	61701
+N	𝜺	61702
+N	gf	61703
+N	global	61704
+N	QED	61705
+N	&lsqb;)1x3	61706
+N	geom	61707
+N	galvani	61708
+N	internal	61709
+N	quantum	61710
+N	with probability	61711
+N	&comma; for	61712
+N	&comma; for all	61713
+N	Subject to	61714
+N	𝐦𝐱𝐦	61715
+N	𝐧𝐱	61716
+N	𝐧𝐦𝐱𝐦𝐧	61717
+N	𝐧𝐦	61718
+N	𝐦𝐧𝐧𝐦	61719
+N	𝐦𝐦	61720
+N	𝐦𝐧	61721
+N	&comma; where	61722
+N	score	61723
+N	time	61724
+N	size	61725
+N	TOP	61726
+N	Average days to sell the inventory	61727
+N	Inventory Turnover Ratio	61728
+N	365 days	61729
+N	Ai	61730
+N	ARV	61731
+N	RMS	61732
+N	BMI	61733
+N	meters	61734
+N	kilograms	61735
+N	pounds	61736
+N	inches	61737
+N	body fat percentage	61738
+N	age	61739
+N	gender	61740
+N	flatness	61741
+N	for some	61742
+N	↚	61743
+N	𝐄𝐪	61744
+N	𝟓	61745
+N	𝟔	61746
+N	𝟕	61747
+N	()5x1	61748
+N	𝟖	61749
+N	𝟗	61750
+N	PDF	61751
+N	𝜸	61752
+N	RE	61753
+N	MSe	61754
+N	constants	61755
+N	"	61756
+N	Der	61757
+N	dist	61758
+N	&lsqb;&rsqb;4x2	61759
+N	ds	61760
+N	()9x9	61761
+N	Ei	61762
+N	li	61763
+N	FA	61764
+N	CCVS	61765
+N	CVS	61766
+N	color	61767
+N	DG	61768
+N	f(t)	61769
+N	metres	61770
+N	converges for any	61771
+N	where Re	61772
+N	converges absolutely for any	61773
+N	Ric	61774
+N	MAD	61775
+N	Inv	61776
+N	Int	61777
+N	⩞	61778
+N	𝑃	61779
+N	MPC	61780
+N	CMS	61781
+N	Resolution	61782
+N	viscous forces	61783
+N	inertial forces	61784
+N	annulus	61785
+N	Eu	61786
+N	Prob	61787
+N	total number of fission neutrons	61788
+N	number of fission neutrons from just thermal fissions	61789
+N	number of neutrons in preceding generation	61790
+N	number of neutrons in one generation	61791
+N	≏	61792
+N	number of invites sent by each customer	61793
+N	percent conversion of each invite	61794
+N	𝐬𝟏	61795
+N	𝐬𝟐	61796
+N	𝐮𝐆	61797
+N	𝐇𝐱	61798
+N	()6x1	61799
+N	()9x1	61800
+N	&lsqb;&rsqb;2x6	61801
+N	■	61802
+N	TRUE/FALSE	61803
+N	prime	61804
+N	in particular	61805
+N	and cyclically	61806
+N	Ry	61807
+N	ii	61808
+N	iii	61809
+N	ground	61810
+N	rank of element	61811
+N	𝑩	61812
+N	𝑳	61813
+N	surface	61814
+N	up	61815
+N	PoS	61816
+N	value of optimal solution	61817
+N	value of best Nash equilibrium	61818
+N	if both	61819
+N	heating beam on	61820
+N	heating beam off	61821
+N	background&comma; no particle	61822
+N	abs	61823
+N	vir	61824
+N	factors	61825
+N	no disaster	61826
+N	disaster	61827
+N	𝒊	61828
+N	𝒋	61829
+N	link	61830
+N	For all	61831
+N	and for all	61832
+N	sum of squares	61833
+N	𝐯𝐮	61834
+N	𝐮𝐯	61835
+N	adj	61836
+N	Proj	61837
+N	𝔨	61838
+N	𝐎	61839
+N	is constant (i.e. does not depend on	61840
+N	𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭	61841
+N	means not depending on	61842
+N	PWV	61843
+N	𝔦	61844
+N	is a von Neumann regular ideal	61845
+N	cr	61846
+N	Sun-Earth	61847
+N	Earth-Sun	61848
+N	&lsqb;&rsqb;4x3	61849
+N	lim inf	61850
+N	⋁	61851
+N	⨌	61852
+N	aniso	61853
+N	overlap	61854
+N	EOT	61855
+N	high-k	61856
+N	SiO	61857
+N	𝑖	61858
+N	SINADR	61859
+N	signal	61860
+N	quantizationError	61861
+N	randomNoise	61862
+N	distortion	61863
+N	jiva	61864
+N	sara	61865
+N	Differential	61866
+N	⊐	61867
+N	𝐃𝐱	61868
+N	&lsqb;&rsqb;4x5	61869
+N	𝐋𝐜	61870
+N	𝐃𝐗	61871
+N	Factor of safety	61872
+N	gr	61873
+N	TC	61874
+N	NC	61875
+N	AC	61876
+N	Kep	61877
+N	Gvm	61878
+N	⌣	61879
+N	inv	61880
+N	𝐜𝐨𝐧𝐯	61881
+N	𝐥	61882
+N	RCO	61883
+N	number of inconsistent entities	61884
+N	number of entities	61885
+N	𝖦	61886
+N	RHC	61887
+N	Rh	61888
+N	RCH	61889
+N	PPh	61890
+N	CHO	61891
+N	PhNO	61892
+N	PhNHCOPh	61893
+N	≱	61894
+N	Assets	61895
+N	Liabilities	61896
+N	Owner’s Equity	61897
+N	chir	61898
+N	𝐗𝐫	61899
+N	1x4	61900
+N	&lsqb;&rsqb;5x4	61901
+N	is singular	61902
+N	attempts	61903
+N	monomers	61904
+N	reach	61905
+N	exists a unique closest point	61906
+N	air	61907
+N	film	61908
+N	oil	61909
+N	coating	61910
+N	FTLE	61911
+N	radius	61912
+N	moon	61913
+N	from	61914
+N	asteroid	61915
+N	center	61916
+N	return	61917
+N	Just	61918
+N	bind	61919
+N	Nothing	61920
+N	fmap	61921
+N	join	61922
+N	mplus	61923
+N	&lsqb;&rsqb;2x20	61924
+N	&lsqb;&rsqb;1x20	61925
+N	3x20	61926
+N	&lsqb;&rsqb;4x20	61927
+N	ap	61928
+N	𝑭	61929
+N	𝑬	61930
+N	links to	61931
+N	𝐄𝐑	61932
+N	𝐏𝟏	61933
+N	𝐏𝐃	61934
+N	iterative	61935
+N	algebraic	61936
+N	power	61937
+N	probability of the accident occurring	61938
+N	expected loss in case of the accident	61939
+N	For all accidents	61940
+N	Change in NFA	61941
+N	Current Account	61942
+N	Valuation Effects	61943
+N	Sing	61944
+N	reg	61945
+N	ClC	61946
+N	HNO	61947
+N	𝝍	61948
+N	is even&comma;	61949
+N	is even.	61950
+N	sexp	61951
+N	is odd.	61952
+N	km.	61953
+N	DQE	61954
+N	NEQ	61955
+N	SNR	61956
+N	smallest integer for which	61957
+N	PLi	61958
+N	X-Y	61959
+N	P-X	61960
+N	LiY	61961
+N	𝐋𝐧	61962
+N	ET	61963
+N	SHE	61964
+N	C+	61965
+N	A-	61966
+N	𝑓𝑢𝑠	61967
+N	J mol	61968
+N	J K	61969
+N	()12x12	61970
+N	adh	61971
+N	&lsqb;&rsqb;10x10	61972
+N	ERH	61973
+N	MFSL	61974
+N	$	61975
+N	simple	61976
+N	Range	61977
+N	noise	61978
+N	Lap	61979
+N	pdf	61980
+N	variance	61981
+N	VD	61982
+N	DS	61983
+N	CVR	61984
+N	NVR	61985
+N	NHR	61986
+N	32	61987
+N	480	61988
+N	1080	61989
+N	1920	61990
+N	4.21	61991
+N	𝐀𝐌	61992
+N	𝐀𝐐	61993
+N	Brainweight	61994
+N	0.12	61995
+N	Bodyweight	61996
+N	𝐸𝑟	61997
+N	▷	61998
+N	lbm	61999
+N	slug	62000
+N	mL	62001
+N	kPa	62002
+N	𝐹	62003
+N	ᵢ	62004
+N	𝛾	62005
+N	vbl	62006
+N	ball	62007
+N	g&comma; Earth	62008
+N	supply	62009
+N	(otherwise)	62010
+N	secular	62011
+N	McCutcheon index	62012
+N	Displacement	62013
+N	Pois	62014
+N	Binom	62015
+N	Multinom	62016
+N	Poisson	62017
+N	integer	62018
+N	Po	62019
+N	Gamma	62020
+N	iL	62021
+N	VSWR	62022
+N	failure: f cannot apply&comma; no S to rewrite	62023
+N	failure: h cannot apply&comma; no A to rewrite	62024
+N	||5x4	62025
+N	Pin	62026
+N	cf	62027
+N	ot	62028
+N	lb	62029
+N	kip	62030
+N	𝓐	62031
+N	partial	62032
+N	Securities issued by country i	62033
+N	securities issued by country i in currency i	62034
+N	Securities	62035
+N	loans issued by country i in major currencies	62036
+N	loans issued by country i	62037
+N	Securities in currency i (regardless of the nationality of the issuer)	62038
+N	cn	62039
+N	sn	62040
+N	iv	62041
+N	pot	62042
+N	number	62043
+N	people	62044
+N	have	62045
+N	solved	62046
+N	it	62047
+N	error term	62048
+N	𝒘	62049
+N	𝑽	62050
+N	&lsqb;&rsqb;5x2	62051
+N	𝑷	62052
+N	5x6	62053
+N	chain	62054
+N	𝐥𝐨𝐠	62055
+N	kJ	62056
+N	Therefore displacement	62057
+N	cd	62058
+N	≀	62059
+N	𝑪	62060
+N	𝑑𝑖𝑓𝑓𝑒𝑟	62061
+N	()7x7	62062
+N	COVV	62063
+N	VAV	62064
+N	RV	62065
+N	j is even.	62066
+N	j is odd.	62067
+N	if j is even.	62068
+N	otherwise if j is odd.	62069
+N	if j is odd.	62070
+N	and n is even.	62071
+N	otherwise if j is even.	62072
+N	eq	62073
+N	evaluations of the function	62074
+N	add	62075
+N	mul	62076
+N	tet	62077
+N	𝐞𝐟𝐟	62078
+N	𝒅	62079
+N	MWh	62080
+N	MW	62081
+N	h/yr	62082
+N	tons	62083
+N	gallons	62084
+N	1x8	62085
+N	||4x1	62086
+N	lbf	62087
+N	Lie	62088
+N	↙	62089
+N	artanh	62090
+N	crimes	62091
+N	nd	62092
+N	∐	62093
+N	Rep	62094
+N	dR	62095
+N	HT	62096
+N	´	62097
+N	cris	62098
+N	Current Index	62099
+N	&lsqb;P(t)	62100
+N	IS	62101
+N	FAF	62102
+N	CF&rsqb;	62103
+N	Yesterday’s Closing Index	62104
+N	&lsqb;P(t-1)	62105
+N	EZ	62106
+N	NZ	62107
+N	HFS	62108
+N	storage efficiency	62109
+N	raw capacity	62110
+N	effective capacity	62111
+N	free capacity	62112
+N	ROC	62113
+N	focal length	62114
+N	⊄	62115
+N	&lsqb;&rsqb;9x3	62116
+N	&lsqb;&rsqb;9x12	62117
+N	Emb	62118
+N	Imm	62119
+N	ħ	62120
+N	ac	62121
+N	ki	62122
+N	&lsqb;&rsqb;6x1	62123
+N	&lsqb;&rsqb;6x3	62124
+N	ref	62125
+N	Scope	62126
+N	MaxScope	62127
+N	RawScope	62128
+N	Population	62129
+N	Victims	62130
+N	GNP	62131
+N	Monetary Losses	62132
+N	Volume before the event	62133
+N	Volume after the event	62134
+N	Time	62135
+N	Losses	62136
+N	- wave impedance	62137
+N	- DOS impedance	62138
+N	plano	62139
+N	subducere	62140
+N	residua erit	62141
+N	quadratum	62142
+N	planum in	62143
+N	quadrato in	62144
+N	planum	62145
+N	Rbis in	62146
+N	aequabitur	62147
+N	oxide	62148
+N	metal	62149
+N	PB	62150
+N	Rate Ratio	62151
+N	Incidence Rate 2	62152
+N	Incidence Rate 1	62153
+N	Incidence Rate	62154
+N	person time	62155
+N	events	62156
+N	MPE	62157
+N	mean&comma; L-mean or L-location	62158
+N	L-scale	62159
+N	arbitrary	62160
+N	is connected and	62161
+N	𝐷𝐵	62162
+N	DIC	62163
+N	HCO	62164
+N	somb	62165
+N	number of statements executed by the test data	62166
+N	total number of executable statements	62167
+N	number of control-flow branches executed by the test data	62168
+N	total number of control-flow branches	62169
+N	number of LCSAJs executed by the test data	62170
+N	total number of LCSAJs	62171
+N	clock&comma;sv	62172
+N	clock	62173
+N	orbit-relativ	62174
+N	rec	62175
+N	atmos	62176
+N	meas-err	62177
+N	()2x3	62178
+N	clock&comma;rec	62179
+N	rec&comma;ECEF	62180
+N	ECEF	62181
+N	&lsqb;&rsqb;7x1	62182
+N	&lsqb;&rsqb;1x6	62183
+N	⋐	62184
+N	Ecological Debt Day	62185
+N	World Biocapacity	62186
+N	World Ecological Footprint	62187
+N	is	62188
+N	interval	62189
+N	decade	62190
+N	Frob	62191
+N	𝕍	62192
+N	↝	62193
+N	sanger	62194
+N	solexa-prior to v.1.3	62195
+N	10	62196
+N	phred	62197
+N	∥∥2x2	62198
+N	Op	62199
+N	↕	62200
+N	CLASSICAL	62201
+N	DYNAMICS	62202
+N	QUANTUM	62203
+N	LCOE	62204
+N	sum of electricity produced over lifetime	62205
+N	sum of costs over lifetime	62206
+N	He	62207
+N	smoothstep	62208
+N	smootherstep	62209
+N	arcminutes&comma;	62210
+N	arcseconds&comma;	62211
+N	sixtieths of an arcsecond	62212
+N	PSU	62213
+N	PSp	62214
+N	PSL	62215
+N	SU	62216
+N	sock	62217
+N	𝑮	62218
+N	&lsqb;&rsqb;9x1	62219
+N	𝑰	62220
+N	pivot	62221
+N	𝑫	62222
+N	𝐕𝐞𝐜𝐭	62223
+N	Char	62224
+N	change in quantity demanded	62225
+N	change in spending on advertising	62226
+N	Advertising expenditure	62227
+N	or&comma; symbolically&comma;	62228
+N	Sales revenue	62229
+N	polylog	62230
+N	hypergeom	62231
+N	has property	62232
+N	2.15 dBi	62233
+N	diff	62234
+N	larger radius	62235
+N	smaller radius	62236
+N	area of cross-section at height	62237
+N	FWER	62238
+N	NOA	62239
+N	operating assets	62240
+N	operating liabilities	62241
+N	Operating assets	62242
+N	total assets	62243
+N	cash	62244
+N	Operating liabilities	62245
+N	total liabilities	62246
+N	short-term notes	62247
+N	long-term notes	62248
+N	DAOE	62249
+N	WACC	62250
+N	NOPAT	62251
+N	BVD	62252
+N	FCF	62253
+N	Change in NOA	62254
+N	DCF	62255
+N	⋄	62256
+N	or&comma; equivalently&comma;	62257
+N	arccot	62258
+N	&lsqb;&rsqb;1x14	62259
+N	vl	62260
+N	vpr	62261
+N	PC	62262
+N	BC	62263
+N	atan	62264
+N	PA	62265
+N	sqrt	62266
+N	psi	62267
+N	gal	62268
+N	US	62269
+N	4x6	62270
+N	HEL	62271
+N	intact	62272
+N	fracture	62273
+N	initial	62274
+N	Compression	62275
+N	Tension	62276
+N	pend	62277
+N	coll	62278
+N	ce	62279
+N	⋔	62280
+N	∕	62281
+N	antisymmetric	62282
+N	electrostatic	62283
+N	el	62284
+N	higher terms	62285
+N	HCl	62286
+N	refl	62287
+N	fl	62288
+N	before	62289
+N	after	62290
+N	𝒲	62291
+N	meas	62292
+N	sect	62293
+N	rms	62294
+N	PoP	62295
+N	codeg	62296
+N	tube	62297
+N	fluid	62298
+N	nom	62299
+N	2 variance	62300
+N	𝐾𝑆	62301
+N	𝑃𝑅𝐼𝑀𝐸𝑆	62302
+N	𝐾𝑃	62303
+N	Kendrick mass	62304
+N	IUPAC mass	62305
+N	Kendrick mass (F)	62306
+N	(observed mass)	62307
+N	exact mass F	62308
+N	nominal mass F	62309
+N	Kendrick mass defect	62310
+N	nominal Kendrick mass	62311
+N	nominal mass	62312
+N	Kendrick exact mass	62313
+N	BTU	62314
+N	STC	62315
+N	()9x2	62316
+N	pre	62317
+N	♠	62318
+N	⋪	62319
+N	14x2	62320
+N	LS	62321
+N	ℭ	62322
+N	ℶ	62323
+N	Ext	62324
+N	for the universal set	62325
+N	for any event	62326
+N	provided that	62327
+N	𝐆𝐫	62328
+N	𝐆𝐋	62329
+N	Rad	62330
+N	gl	62331
+N	the f-product	62332
+N	also	62333
+N	Exp	62334
+N	days	62335
+N	inactivity	62336
+N	hits	62337
+N	bills	62338
+N	entered	62339
+N	memory-bounded	62340
+N	value	62341
+N	Fe	62342
+N	OIPh	62343
+N	IPh	62344
+N	emission	62345
+N	absorption	62346
+N	obs	62347
+N	𝐻𝐼𝐶	62348
+N	except	62349
+N	𝑵	62350
+N	𝒔	62351
+N	𝒐	62352
+N	𝒕	62353
+N	are not empty	62354
+N	is empty	62355
+N	bdy	62356
+N	(See Fig. 6).	62357
+N	dual	62358
+N	||5x5	62359
+N	Put all	62360
+N	calculate as if all commute	62361
+N	on the left&comma; while all derivations on the right	62362
+N	Calculate as if all commute	62363
+N	on the left&comma; with all derivations on the right	62364
+N	PUE	62365
+N	IT Equipment Energy	62366
+N	Total Facility Energy	62367
+N	CK	62368
+N	Sper	62369
+N	dA	62370
+N	dV	62371
+N	SMAPE	62372
+N	CVA	62373
+N	PD	62374
+N	EE	62375
+N	db	62376
+N	dt	62377
+N	ARR	62378
+N	Average investment	62379
+N	Average return during period	62380
+N	Book value at beginning of year 1 + Book value at end of useful life	62381
+N	a neighborhood of	62382
+N	HF	62383
+N	core-dist	62384
+N	UNDEFINED	62385
+N	-th smallest distance to	62386
+N	reachability-dist	62387
+N	if  program	62388
+N	halts on input	62389
+N	undefined	62390
+N	0x1BD11BDAA9FC1A22	62391
+N	⋘	62392
+N	𝐝𝐬𝐝𝐬	62393
+N	𝐫𝐝𝐬	62394
+N	strike	62395
+N	realized	62396
+N	′′′′	62397
+N	′′′′′	62398
+N	FARMER	62399
+N	DONKEY	62400
+N	BEAT	62401
+N	OWNS	62402
+N	monad	62403
+N	is infinitesimal	62404
+N	Inj	62405
+N	of these	62406
+N	𝑲	62407
+N	mi	62408
+N	exact	62409
+N	ROHF	62410
+N	UHF	62411
+N	⇉	62412
+N	Ell	62413
+N	𝔜	62414
+N	⇏	62415
+N	in a.u.	62416
+N	a.u.	62417
+N	∥∥1x2	62418
+N	converges in	62419
+N	observed value	62420
+N	fitted value	62421
+N	hypotenuse	62422
+N	opposite	62423
+N	adjacent	62424
+N	Droop	62425
+N	No	62426
+N	load	62427
+N	speed	62428
+N	Full	62429
+N	IVX Call	62430
+N	IVX Call April	62431
+N	IVX Call May	62432
+N	𝔄	62433
+N	not all zero.	62434
+N	²	62435
+N	full	62436
+N	FWHM	62437
+N	ty	62438
+N	higher order terms	62439
+N	𝐁𝐰	62440
+N	𝐂𝐱	62441
+N	relative to	62442
+N	psin	62443
+N	boundary	62444
+N	isochoric	62445
+N	constant)	62446
+N	at constant pressure.	62447
+N	system	62448
+N	compensated	62449
+N	uncompensated	62450
+N	surroundings	62451
+N	overall	62452
+N	second	62453
+N	law	62454
+N	nullity	62455
+N	IT	62456
+N	PT	62457
+N	cost	62458
+N	ratio	62459
+N	Rent	62460
+N	Price	62461
+N	Expenses	62462
+N	Principal	62463
+N	monthly	62464
+N	payment	62465
+N	Foot1	62466
+N	Foot4	62467
+N	Foot2	62468
+N	Foot3	62469
+N	Foot5	62470
+N	FootVI	62471
+N	Foot7	62472
+N	Foot8	62473
+N	Brahma	62474
+N	Foot9	62475
+N	FootX	62476
+N	Foot11	62477
+N	Ic	62478
+N	IIc	62479
+N	IIIc	62480
+N	𝒁	62481
+N	𝗀	62482
+N	𝖨	62483
+N	Red	62484
+N	Excess	62485
+N	{}1x11	62486
+N	Partial	62487
+N	HClO	62488
+N	FClO	62489
+N	NF	62490
+N	ClO	62491
+N	random noise	62492
+N	xx	62493
+N	const.	62494
+N	VBN	62495
+N	Blend	62496
+N	circ	62497
+N	elong	62498
+N	comp	62499
+N	cvx	62500
+N	wav	62501
+N	8x2	62502
+N	BL1	62503
+N	BL2	62504
+N	BL3	62505
+N	BL4	62506
+N	BL5a	62507
+N	BL5b	62508
+N	BL6	62509
+N	BL7	62510
+N	Maximum load in given time period	62511
+N	Average load	62512
+N	Maximum possible load	62513
+N	𝑀	62514
+N	with given	62515
+N	Zn	62516
+N	Cu	62517
+N	IZnCH	62518
+N	𝐆𝐓	62519
+N	𝐆𝐏	62520
+N	𝐆𝐐	62521
+N	is a Borel measure and	62522
+N	ELF	62523
+N	𝔘	62524
+N	Td	62525
+N	Points Earned	62526
+N	Number of games won in extra time or on penalties	62527
+N	Number of games won in normal time	62528
+N	Points earned in 2008	62529
+N	Points earned in 2009	62530
+N	Points earned in 2010	62531
+N	𝑒𝑓𝑓	62532
+N	PL	62533
+N	Ker	62534
+N	Ran	62535
+N	swap-regret	62536
+N	index	62537
+N	RPM	62538
+N	actual rotor-speed	62539
+N	maximum rotor-speed	62540
+N	Strictness property	62541
+N	Monotonicity property	62542
+N	Modularity property	62543
+N	Μ	62544
+N	Ι	62545
+N	Ν	62546
+N	3x6	62547
+N	𝗅	62548
+N	𝖺	62549
+N	𝖻	62550
+N	𝖼	62551
+N	𝗂	62552
+N	Integral transform	62553
+N	Spectral terms	62554
+N	𝑀𝑆𝐸	62555
+N	𝑆𝑆	62556
+N	forecast	62557
+N	is a connected region	62558
+N	for any adjacent region	62559
+N	TRUE	62560
+N	coni	62561
+N	tf	62562
+N	df	62563
+N	po	62564
+N	av	62565
+N	collateral price	62566
+N	inverse price	62567
+N	floater price	62568
+N	turbulent flow	62569
+N	♢	62570
+N	◆	62571
+N	&lsqb;&rsqb;6x5	62572
+N	(3)	62573
+N	spike	62574
+N	spikes	62575
+N	𝛿	62576
+N	for all functionals	62577
+N	hyp	62578
+N	curl	62579
+N	𝖫	62580
+N	𝖲	62581
+N	𝖱	62582
+N	SURE	62583
+N	&lsqb;&rsqb;6x10	62584
+N	𝕓	62585
+N	𝕪	62586
+N	𝕫	62587
+N	𝕨	62588
+N	𝔐	62589
+N	Gode	62590
+N	𝐔𝐧	62591
+N	𝚽	62592
+N	(net income + depreciation + all other non-cash charges)&comma;	62593
+N	external force per gram particle	62594
+N	face	62595
+N	beam	62596
+N	topface	62597
+N	botface	62598
+N	|)1x1	62599
+N	𝝃	62600
+N	classical	62601
+N	╲	62602
+N	Α	62603
+N	Ρ	62604
+N	Η	62605
+N	Ο	62606
+N	sol	62607
+N	irrot	62608
+N	since&comma;	62609
+N	density of body	62610
+N	weight of body	62611
+N	weight of immersed body	62612
+N	density of water	62613
+N	residual lung volume	62614
+N	100 ml	62615
+N	ls	62616
+N	ZnS	62617
+N	ZnO	62618
+N	ZnSO	62619
+N	element of	62620
+N	⊛	62621
+N	ozone	62622
+N	wind	62623
+N	vis	62624
+N	Χ	62625
+N	THD	62626
+N	𝚯	62627
+N	˘	62628
+N	iii) Inv	62629
+N	tri.	62630
+N	pent.	62631
+N	quad.	62632
+N	iff	62633
+N	Rank	62634
+N	𝐒𝐡𝐯	62635
+N	Br	62636
+N	BrO	62637
+N	INL	62638
+N	𝐚𝐯	62639
+N	𝐛𝐯	62640
+N	𝐜𝐯	62641
+N	MD	62642
+N	exists	62643
+N	does not exist	62644
+N	exists and	62645
+N	is not divisible by	62646
+N	for any integer	62647
+N	is positive	62648
+N	Ave	62649
+N	monic	62650
+N	deg(f)=n	62651
+N	&comma; f monic	62652
+N	LHS	62653
+N	RHS	62654
+N	for some prime monic	62655
+N	and integer	62656
+N	Games	62657
+N	behind	62658
+N	TeamA	62659
+N	TeamB	62660
+N	losses	62661
+N	floor	62662
+N	Dehn	62663
+N	freely reduced	62664
+N	neutral element in	62665
+N	Sc	62666
+N	CFCS	62667
+N	𝕐	62668
+N	and/or	62669
+N	rev	62670
+N	Diameter Ratio	62671
+N	partitions	62672
+N	sing	62673
+N	sys	62674
+N	Typical Price	62675
+N	shortcut distance	62676
+N	rewiring probability	62677
+N	Coh	62678
+N	MS	62679
+N	𝐚𝐭	62680
+N	𝐮𝐭	62681
+N	𝐚𝐬	62682
+N	𝐭𝐨	62683
+N	𝐦𝐚	62684
+N	𝐦𝐯	62685
+N	𝔙	62686
+N	inside	62687
+N	outside	62688
+N	Div	62689
+N	Princ	62690
+N	𝑔	62691
+N	⊎	62692
+N	is an integer	62693
+N	energy out	62694
+N	energy in	62695
+N	𝕔	62696
+N	gyr	62697
+N	Gyr	62698
+N	yields	62699
+N	radii	62700
+N	parent	62701
+N	children	62702
+N	𝐴	62703
+N	𝐵	62704
+N	55&comma;48&comma;73	62705
+N	7&comma;24&comma;25	62706
+N	35&comma;12&comma;37	62707
+N	11&comma;60&comma;61	62708
+N	SLI	62709
+N	HEP	62710
+N	Alg	62711
+N	Set	62712
+N	Perm	62713
+N	hadrons	62714
+N	for small samples	62715
+N	SR	62716
+N	mex	62717
+N	Ass	62718
+N	Supp	62719
+N	snh	62720
+N	Hg	62721
+N	NH	62722
+N	is a pair of adjacent vertices of	62723
+N	Let	62724
+N	be a linear operator from	62725
+N	. Then	62726
+N	exists almost everywhere for all	62727
+N	𝜿	62728
+N	Minimize	62729
+N	≳	62730
+N	𝑟𝑒𝑐	62731
+N	⪅	62732
+N	open	62733
+N	membrane	62734
+N	rd	62735
+N	♭	62736
+N	spark	62737
+N	for every closed set	62738
+N	plane strain	62739
+N	plane stress	62740
+N	ave	62741
+N	hold	62742
+N	with remainder	62743
+N	Cor	62744
+N	𝖡𝖯	62745
+N	𝖯	62746
+N	𝖯𝖧	62747
+N	(4)	62748
+N	(5)	62749
+N	pack	62750
+N	met	62751
+N	𝖠𝖡	62752
+N	𝖡𝖠	62753
+N	(in flowfield)	62754
+N	(on body surface)	62755
+N	𝐀𝐉	62756
+N	and all	62757
+N	sb	62758
+N	nit	62759
+N	millinit	62760
+N	asb	62761
+N	blondel	62762
+N	sk	62763
+N	bril	62764
+N	fL	62765
+N	end	62766
+N	ht	62767
+N	𝔮	62768
+N	⊋	62769
+N	M is a finite module	62770
+N	regular	62771
+N	gk	62772
+N	J⋅s	62773
+N	eV⋅s	62774
+N	hi	62775
+N	OC	62776
+N	Irr	62777
+N	jets	62778
+N	Voronoi cell	62779
+N	(acidic region)	62780
+N	(equivalence point)	62781
+N	(alkaline region)	62782
+N	vs.	62783
+N	(before equivalence)	62784
+N	(after equivalence)	62785
+N	change in demand	62786
+N	change in income	62787
+N	DFT	62788
+N	PSPACE	62789
+N	TQBF	62790
+N	Orbital	62791
+N	Planetary	62792
+N	escape	62793
+N	velocity	62794
+N	required (design) value	62795
+N	allowable (test) value	62796
+N	&lsqb;&rsqb;9x9	62797
+N	&lsqb;&rsqb;58x9	62798
+N	&comma; then	62799
+N	no. of defects for	62800
+N	Bias	62801
+N	Ratio	62802
+N	BR	62803
+N	Count	62804
+N	is an event to which probabilities are assigned.	62805
+N	Flux	62806
+N	has to hold	62807
+N	𝖢	62808
+N	⊈	62809
+N	𝖵	62810
+N	○	62811
+N	FO4	62812
+N	||1x4	62813
+N	sample	62814
+N	diffusion	62815
+N	advective	62816
+N	drift	62817
+N	a.e.	62818
+N	b.hp.	62819
+N	i.hp.	62820
+N	avg. f.hp.	62821
+N	Sun	62822
+N	𝐒𝐕	62823
+N	𝐀𝐂	62824
+N	ncl	62825
+N	ols	62826
+N	𝐗𝐯	62827
+N	𝐗𝐗	62828
+N	pr	62829
+N	set	62830
+N	𝐰𝐡𝐢𝐥𝐞	62831
+N	𝐝𝐨	62832
+N	is well-founded	62833
+N	𝐁𝐒	62834
+N	𝐁𝐬	62835
+N	ZC	62836
+N	length of sequence.	62837
+N	pen	62838
+N	skin	62839
+N	(SI)	62840
+N	(cgs)	62841
+N	𝕌	62842
+N	Hypothesis	62843
+N	No leak	62844
+N	Leak	62845
+N	if flow	62846
+N	leaves node	62847
+N	enters node	62848
+N	is not incident with node	62849
+N	𝐀𝐅	62850
+N	{}1x10	62851
+N	()1x11	62852
+N	⊓	62853
+N	TM-score	62854
+N	aligned	62855
+N	target	62856
+N	fat	62857
+N	ts	62858
+N	⋉	62859
+N	&lsqb;&rsqb;6x7	62860
+N	char	62861
+N	for all secrets properly shared	62862
+N	inh	62863
+N	↾	62864
+N	Spf	62865
+N	area of	62866
+N	-gon	62867
+N	area of circle	62868
+N	≊	62869
+N	Income	62870
+N	Capital Gain	62871
+N	Total Return	62872
+N	Dividend Yield	62873
+N	Growth	62874
+N	Cost Of Equity	62875
+N	square	62876
+N	Graff	62877
+N	CG	62878
+N	DCG	62879
+N	nDCG	62880
+N	IDCG	62881
+N	𝐚𝐛	62882
+N	𝐢𝐢	62883
+N	𝐢𝐣	62884
+N	𝐢𝐤	62885
+N	𝐣𝐢	62886
+N	𝐣𝐤	62887
+N	𝐤𝐢	62888
+N	𝐤𝐣	62889
+N	𝐤𝐤	62890
+N	𝐜𝐝	62891
+N	𝐚𝐝	62892
+N	8x4	62893
+N	potential	62894
+N	notional	62895
+N	time of a cash flow	62896
+N	time at the start of the deal	62897
+N	fixed rate at t of currency1. A set of rates for every t are fixed at time 0.	62898
+N	fixed rate at t of currency2. A set of rates for every t are fixed at time 0.	62899
+N	exchange rate between currency1 and currency2	62900
+N	if and only if	62901
+N	Np	62902
+N	Pu	62903
+N	centripetal	62904
+N	fict	62905
+N	Fict	62906
+N	Centripetal	62907
+N	Cfgl	62908
+N	𝖢𝖠	62909
+N	𝖠𝖢	62910
+N	𝖡𝖨	62911
+N	urf	62912
+N	AGM	62913
+N	independent	62914
+N	dependent	62915
+N	nC	62916
+N	yellow	62917
+N	bandwidth	62918
+N	nt	62919
+N	wt	62920
+N	𝐬𝐨	62921
+N	resultant	62922
+N	prem	62923
+N	↚	62924
+N	vp	62925
+N	𝖤	62926
+N	𝒒	62927
+N	p0	62928
+N	(6)	62929
+N	thermal regime	62930
+N	shock regime	62931
+N	CAIFI	62932
+N	Number of Distinct Customers Interrupted	62933
+N	Total Number of Customer Interruptions	62934
+N	xy	62935
+N	(c.g.i)	62936
+N	(S.I.)	62937
+N	kin	62938
+N	so	62939
+N	𝟢	62940
+N	()5x4	62941
+N	Total rides	62942
+N	Total points	62943
+N	smooth	62944
+N	pos	62945
+N	GEP	62946
+N	PR	62947
+N	False	62948
+N	discovery	62949
+N	FDR	62950
+N	Number	62951
+N	Median	62952
+N	falsely	62953
+N	called	62954
+N	genes	62955
+N	percentile	62956
+N	significant	62957
+N	according as	62958
+N	NCzS	62959
+N	stored	62960
+N	1x5	62961
+N	Receiver	62962
+N	Carnot	62963
+N	absorbed	62964
+N	lost	62965
+N	solar	62966
+N	Optics	62967
+N	PPI	62968
+N	savings	62969
+N	probability of success	62970
+N	time of completion	62971
+N	Proof	62972
+N	neg	62973
+N	Pvbl	62974
+N	per	62975
+N	𝐶𝑉	62976
+N	traces	62977
+N	frk	62978
+N	acc	62979
+N	that is	62980
+N	is bounded to	62981
+N	match	62982
+N	sig	62983
+N	LO	62984
+N	𝕛	62985
+N	𝕤	62986
+N	Fr	62987
+N	𝕗	62988
+N	cyc in	62989
+N	SI	62990
+N	downvalley length	62991
+N	channel length	62992
+N	HCOOH	62993
+N	cell voltage	62994
+N	sim	62995
+N	≐	62996
+N	original length	62997
+N	extension	62998
+N	∤	62999
+N	Sense	63000
+N	Collocation	63001
+N	NSPACE	63002
+N	DSPACE	63003
+N	mmHg	63004
+N	⋈	63005
+N	cap	63006
+N	RADF	63007
+N	versus	63008
+N	start	63009
+N	Gini	63010
+N	bg	63011
+N	bkg	63012
+N	RMS noise	63013
+N	Rord	63014
+N	Ab	63015
+N	round	63016
+N	malignant	63017
+N	positive	63018
+N	ill	63019
+N	well	63020
+N	negative	63021
+N	𝐬𝐢𝐠	63022
+N	P1	63023
+N	P2	63024
+N	is linear for	63025
+N	𝑒𝑥𝑝	63026
+N	𝑇𝑟	63027
+N	E(E +	63028
+N	else&comma;	63029
+N	Specific Force	63030
+N	Mass	63031
+N	Force	63032
+N	non	63033
+N	gravitational	63034
+N	pair	63035
+N	bulk	63036
+N	particle	63037
+N	We	63038
+N	Hur	63039
+N	()6x3	63040
+N	𝐌𝐒	63041
+N	error	63042
+N	𝑙𝑒𝑓𝑡	63043
+N	𝑟𝑖𝑔ℎ𝑡	63044
+N	𝐷𝑇𝑊𝐴	63045
+N	𝑇𝑊𝐴	63046
+N	𝑅𝐸𝐺	63047
+N	init	63048
+N	final	63049
+N	ISCO	63050
+N	NP	63051
+N	DTIME	63052
+N	Residuals	63053
+N	parsecs	63054
+N	parallax	63055
+N	milliarcseconds	63056
+N	LR	63057
+N	Shannon	63058
+N	plane	63059
+N	strain	63060
+N	stress	63061
+N	daysToDelivery	63062
+N	PurchasePriceOfBond	63063
+N	PCS	63064
+N	FO	63065
+N	pooled	63066
+N	½	63067
+N	•	63068
+N	ϝ	63069
+N	𝑢	63070
+N	°	63071
+N	Enrichment ratio	63072
+N	Protein concentration in the initial feed	63073
+N	Protein concentration in the foam	63074
+N	Separation ratio	63075
+N	Protein concentration in the outlet stream	63076
+N	Recovery	63077
+N	Mass of protein in the initial feed	63078
+N	Mass of protein in the foam	63079
+N	matrices	63080
+N	BW	63081
+N	JW	63082
+N	LLpeak	63083
+N	dc	63084
+N	Al	63085
+N	⇆	63086
+N	LiMn	63087
+N	lg	63088
+N	Exalcomm	63089
+N	★	63090
+N	(link to the root)	63091
+N	(number of links traversed where the buckets are different)	63092
+N	(number of links traversed where the buckets are the same).	63093
+N	imm	63094
+N	TMRCA	63095
+N	ps	63096
+N	cu	63097
+N	is a basis of	63098
+N	conv	63099
+N	is an independent set of	63100
+N	is a flag in	63101
+N	pcr	63102
+N	Cost at A	63103
+N	Cost at B	63104
+N	index at B	63105
+N	index at A	63106
+N	induced	63107
+N	⇁	63108
+N	Length	63109
+N	Duration	63110
+N	&lsqb;&rsqb;8x1	63111
+N	Â	63112
+N	𝕙	63113
+N	𝕒	63114
+N	edges	63115
+N	𝑶	63116
+N	𝐏𝐁	63117
+N	Fermi decay	63118
+N	Gamow–Teller Decay	63119
+N	up quark	63120
+N	down quark	63121
+N	2x8	63122
+N	Ne	63123
+N	GT	63124
+N	(Phase Space)	63125
+N	Daughter	63126
+N	Parent	63127
+N	spont	63128
+N	stim	63129
+N	rest	63130
+N	Shelf Life at temperature ( T°C + 10°C )	63131
+N	Shelf Life at temperature T°C	63132
+N	𝐸𝑋𝑀𝐾𝑇	63133
+N	𝐻𝑀𝐿	63134
+N	𝑆𝑀𝐵	63135
+N	𝑈𝑀𝐷	63136
+N	𝐀𝐗𝐁	63137
+N	𝐀𝐌𝐁	63138
+N	𝐖𝐙	63139
+N	𝐒𝐖	63140
+N	𝔈	63141
+N	Ra	63142
+N	cog	63143
+N	Myr	63144
+N	()5x2	63145
+N	LG	63146
+N	SG	63147
+N	Min	63148
+N	subjected to:	63149
+N	where:	63150
+N	lm	63151
+N	RAT	63152
+N	∆	63153
+N	cat	63154
+N	for all process	63155
+N	for all component	63156
+N	FCR	63157
+N	CI constructed	63158
+N	card	63159
+N	(entries in the same column commute)	63160
+N	(cross commutation relation)	63161
+N	is a Manin matrix	63162
+N	color1	63163
+N	color0	63164
+N	color3	63165
+N	color2	63166
+N	ww	63167
+N	kdv	63168
+N	fw	63169
+N	𝑎𝑟𝑔𝑢𝑚𝑒𝑛𝑡	63170
+N	𝑙𝑎𝑏𝑒𝑙	63171
+N	𝑖𝑛	63172
+N	𝑜𝑢𝑡	63173
+N	𝑢𝑛𝑑𝑒𝑐	63174
+N	𝐸𝑄	63175
+N	⊬	63176
+N	𝐏𝐅	63177
+N	latitude	63178
+N	logTr	63179
+N	err	63180
+N	ex	63181
+N	beat	63182
+N	nat	63183
+N	Boltzmann	63184
+N	Obj	63185
+N	dn	63186
+N	Skewness	63187
+N	optimal cell size	63188
+N	optimal cell size - cell size	63189
+N	Skewness ( for a quad )	63190
+N	Equiangle Skew	63191
+N	scalars	63192
+N	vectors	63193
+N	Ca	63194
+N	Ar	63195
+N	6x10	63196
+N	GKdim	63197
+N	Mary	63198
+N	dog	63199
+N	Lie factor	63200
+N	size of effect shown in data	63201
+N	size of effect shown in graphic	63202
+N	size of effect	63203
+N	first value	63204
+N	second value	63205
+N	graph discrepancy index	63206
+N	percentage change depicted in graph	63207
+N	percentage change in data	63208
+N	data-ink ratio	63209
+N	total “ink” used to display the graphic	63210
+N	“ink” used to display the data	63211
+N	data density	63212
+N	area of data graphic	63213
+N	number of entries in data matrix	63214
+N	are relatively prime	63215
+N	Minimize:	63216
+N	Observe:	63217
+N	optimal time average penalty for the problem	63218
+N	Choose	63219
+N	𝝆	63220
+N	𝜹	63221
+N	MOON	63222
+N	e-act	63223
+N	amb	63224
+N	result from specimen in inert environment	63225
+N	result from specimen in test environment	63226
+N	dS	63227
+N	𝖧	63228
+N	System	63229
+N	scatter	63230
+N	meV	63231
+N	where each	63232
+N	is in	63233
+N	for some fixed positive integer	63234
+N	1.	63235
+N	2.	63236
+N	3.	63237
+N	𝔷	63238
+N	uniaxial compressive strength of concrete	63239
+N	MPa	63240
+N	2700 K	63241
+N	creep	63242
+N	h.c.	63243
+N	RVB	63244
+N	almost surely	63245
+N	𝐰𝐗	63246
+N	𝐏𝐃𝐏	63247
+N	LOOP	63248
+N	DO	63249
+N	END	63250
+N	𝐹𝑜𝑟𝑒𝑔𝑟𝑜𝑢𝑛𝑑	63251
+N	𝐵𝑎𝑐𝑘𝑔𝑟𝑜𝑢𝑛𝑑	63252
+N	STr	63253
+N	gh	63254
+N	scalar	63255
+N	vector	63256
+N	pump on	63257
+N	pump off	63258
+N	𝐫𝐚𝐧𝐤	63259
+N	𝐬𝐞𝐥𝐞𝐜𝐭	63260
+N	𝐚𝐜𝐜𝐞𝐬𝐬	63261
+N	&lsqb;&rsqb;9x10	63262
+N	REC	63263
+N	Conversion	63264
+N	Visitors	63265
+N	Goal	63266
+N	Achievements	63267
+N	𝒎	63268
+N	applied	63269
+N	tension	63270
+N	arsinh	63271
+N	hV	63272
+N	find	63273
+N	𝒀	63274
+N	MVLG	63275
+N	MVGB	63276
+N	ADS	63277
+N	ADSc	63278
+N	positive integers	63279
+N	integers	63280
+N	one hit in B	63281
+N	𝐒𝐋	63282
+N	𝐊𝐁	63283
+N	𝐊𝐔	63284
+N	Problem	63285
+N	𝐊𝐜	63286
+N	has a non-zero solution	63287
+N	if not.	63288
+N	VAR	63289
+N	As	63290
+N	Also	63291
+N	clause	63292
+N	left	63293
+N	piv	63294
+N	right	63295
+N	aut	63296
+N	fix	63297
+N	samp	63298
+N	space	63299
+N	reaction time	63300
+N	diffusion time	63301
+N	elec.	63302
+N	heat	63303
+N	electricity	63304
+N	kJ / mol	63305
+N	kJ/mol	63306
+N	C/mol	63307
+N	act	63308
+N	trans	63309
+N	ohm	63310
+N	cell	63311
+N	mr	63312
+N	compact	63313
+N	CodeValue	63314
+N	nuc	63315
+N	𝖌	63316
+N	𝖙	63317
+N	𝖆	63318
+N	𝖓	63319
+N	𝐀𝐍	63320
+N	𝐅𝐗	63321
+N	𝐅𝐅	63322
+N	GCI	63323
+N	11x2	63324
+N	frequency	63325
+N	expected	63326
+N	observed	63327
+N	count in cell	63328
+N	SAW	63329
+N	mineral	63330
+N	ASE	63331
+N	line of	63332
+N	circle of	63333
+N	(line)	63334
+N	(circle)	63335
+N	advance	63336
+N	ruin	63337
+N	()4x2	63338
+N	divides	63339
+N	R-X	63340
+N	𝐣𝐗	63341
+N	𝐣𝐁	63342
+N	Velocity function:	63343
+N	frank	63344
+N	Isentropic    enthalpy    change   in   stage	63345
+N	Isentropic    enthalpy    change   in    rotor	63346
+N	Isentropic    heat    drop   in   stage	63347
+N	Isentropic    heat    drop   in    rotor	63348
+N	Total    pressure    rise   in   stage	63349
+N	Static    pressure    rise   in    rotor	63350
+N	H    Rotor	63351
+N	H    Stage	63352
+N	Or	63353
+N	dh	63354
+N	dp	63355
+N	ReS	63356
+N	𝚪	63357
+N	component	63358
+N	along	63359
+N	isotropic	63360
+N	conductivity	63361
+N	temperatures	63362
+N	phonon	63363
+N	scattering	63364
+N	only	63365
+N	vib	63366
+N	translational	63367
+N	vibrational	63368
+N	rotational	63369
+N	monatomic	63370
+N	ideal	63371
+N	gas	63372
+N	diatomic	63373
+N	nonlinear	63374
+N	polyatomic	63375
+N	SB	63376
+N	VB	63377
+N	CB	63378
+N	Hi	63379
+N	NL	63380
+N	ter	63381
+N	for every	63382
+N	trefoil	63383
+N	Ideal Power	63384
+N	Actual Power	63385
+N	Lift	63386
+N	Drag	63387
+N	Torque	63388
+N	is bounded	63389
+N	𝗁	63390
+N	Total balance in voucher currency	63391
+N	Total balance in company currency	63392
+N	new funds in company currency	63393
+N	new funds in voucher currency	63394
+N	and there is an	63395
+N	and there is no such	63396
+N	is not an	63397
+N	-th power	63398
+N	may or may not be an	63399
+N	Prize gained	63400
+N	No. of wrong answers	63401
+N	5.21	63402
+N	&lsqb; &rsqb;	63403
+N	HK	63404
+N	Part I→I→	63405
+N	Part IItIIt	63406
+N	Part III→III→	63407
+N	Part IVtIVt	63408
+N	Part V→V→	63409
+N	Part VItVIt	63410
+N	et	63411
+N	(higher order terms)	63412
+N	rate-of-expansion tensor	63413
+N	rate-of-shear tensor	63414
+N	aperture	63415
+N	bol	63416
+N	Capture (3D)	63417
+N	Separation	63418
+N	new	63419
+N	Capture (2D)	63420
+N	Append	63421
+N	Size	63422
+N	Velocity	63423
+N	JD	63424
+N	sec&comma;man	63425
+N	cmb	63426
+N	sec&comma;core	63427
+N	man	63428
+N	𝟤	63429
+N	𝖾	63430
+N	𝟨	63431
+N	𝖮	63432
+N	𝟫	63433
+N	𝗈	63434
+N	𝖢𝖾	63435
+N	𝖮𝖧	63436
+N	𝟥	63437
+N	&lsqb;&rsqb;3x7	63438
+N	Fix	63439
+N	𝜀	63440
+N	There exists a	63441
+N	module	63442
+N	THz	63443
+N	si	63444
+N	fb	63445
+N	fc	63446
+N	{)1x2	63447
+N	()4x9	63448
+N	likes	63449
+N	watch	63450
+N	movies	63451
+N	too	63452
+N	football	63453
+N	𝑎	63454
+N	𝜇	63455
+N	entropy	63456
+N	mV	63457
+N	vs	63458
+N	is convex and	63459
+N	𝐅𝐀	63460
+N	𝐮𝐀	63461
+N	Ec	63462
+N	7x5	63463
+N	person	63464
+N	year	63465
+N	income	63466
+N	sex	63467
+N	i.i.d.	63468
+N	Newton	63469
+N	Zone	63470
+N	Hemi	63471
+N	molecular (mass) diffusion rate	63472
+N	viscous diffusion rate	63473
+N	pp	63474
+N	there is some	63475
+N	and some	63476
+N	is not in	63477
+N	⊉	63478
+N	nuclei	63479
+N	orbitals	63480
+N	idf	63481
+N	tfidf	63482
+N	𝗍𝗁𝗂𝗌	63483
+N	𝖾𝗑𝖺𝗆𝗉𝗅𝖾	63484
+N	∥∥3x1	63485
+N	SSTr	63486
+N	SSE	63487
+N	&comma; 0 otherwise	63488
+N	Dagum	63489
+N	SinghMaddala	63490
+N	LL	63491
+N	Cut	63492
+N	a limit point of	63493
+N	Theil	63494
+N	Mev	63495
+N	monotone	63496
+N	graph	63497
+N	matter	63498
+N	grav	63499
+N	shm	63500
+N	permitted	63501
+N	Luk	63502
+N	(1-a)	63503
+N	(1-b)	63504
+N	&lsqb;&rsqb;3x5	63505
+N	()3x5	63506
+N	𝐓𝐨𝐩	63507
+N	Find	63508
+N	Unknown	63509
+N	ys	63510
+N	ms	63511
+N	zs	63512
+N	state1	63513
+N	state2	63514
+N	(symmetric case)	63515
+N	(antisymmetric case)	63516
+N	average delay (	63517
+N	total number of delayed vehicles	63518
+N	total delay experienced by	63519
+N	vehicles	63520
+N	average queue (	63521
+N	duration of congestion	63522
+N	Points	63523
+N	percentage	63524
+N	Overtime	63525
+N	Wins	63526
+N	Played	63527
+N	possible	63528
+N	points	63529
+N	pref	63530
+N	bismuth	63531
+N	𝐷	63532
+N	dart	63533
+N	monkey	63534
+N	bias	63535
+N	𝐂𝐏	63536
+N	|&rsqb;1x1	63537
+N	test	63538
+N	DR	63539
+N	FeO	63540
+N	PSNR	63541
+N	peak to peak value of original data	63542
+N	cells	63543
+N	symbol rate	63544
+N	Coriolis	63545
+N	cash-on-cash return	63546
+N	total cash invested	63547
+N	annual before-tax cash flow	63548
+N	60&comma;000	63549
+N	300&comma;000	63550
+N	36&comma;000	63551
+N	there exists	63552
+N	number of de-excitations via gamma-ray emission	63553
+N	number of de-excitations via electron emission	63554
+N	actual displacement	63555
+N	rolling displacement	63556
+N	𝐒𝐡	63557
+N	codom	63558
+N	Energy dissipated per cycle	63559
+N	Peak Energy Stored	63560
+N	Initial	63561
+N	Final	63562
+N	bloch	63563
+N	ADC	63564
+N	vector length	63565
+N	diffusion vector angle between	63566
+N	𝐝𝐮	63567
+N	𝒍	63568
+N	𝐑𝐔	63569
+N	𝐕𝐑	63570
+N	𝐑𝐍	63571
+N	Green-Lagrangian strain tensor	63572
+N	Biot strain tensor	63573
+N	Logarithmic strain&comma; Natural strain&comma; True strain&comma; or Hencky strain	63574
+N	Almansi strain	63575
+N	refresh cycle interval	63576
+N	refresh time	63577
+N	number of rows	63578
+N	refresh overhead	63579
+N	refresh interval&comma; ms	63580
+N	time required for refresh&comma; ms	63581
+N	length of refresh cycle	63582
+N	time required for refresh	63583
+N	rows	63584
+N	emittance	63585
+N	width	63586
+N	eg	63587
+N	RWA	63588
+N	EMV	63589
+N	EVPI	63590
+N	accepts	63591
+N	starting at	63592
+N	reject	63593
+N	wt-avg	63594
+N	accepts w starting at	63595
+N	SAT	63596
+N	is a CNF-formula with exactly	63597
+N	satisfying assignments	63598
+N	is true	63599
+N	bonded	63600
+N	nonbonded	63601
+N	bond	63602
+N	angle	63603
+N	dihedral	63604
+N	van der Waals	63605
+N	NaN	63606
+N	votes	63607
+N	seats	63608
+N	𝐅𝐫𝐨𝐛	63609
+N	charpoly	63610
+N	Capital	63611
+N	⊬	63612
+N	cont	63613
+N	𝐀𝐛	63614
+N	hash	63615
+N	today	63616
+N	Orig	63617
+N	Now	63618
+N	such that every inextensible&comma; past-directed&comma; non-spacelike curve through	63619
+N	intersects	63620
+N	iff there is an	63621
+N	iff every	63622
+N	is such that	63623
+N	normalization	63624
+N	Kr	63625
+N	arctan2	63626
+N	ROCE	63627
+N	Capital Employed	63628
+N	Earning Before Interest and Tax (EBIT)	63629
+N	Bez	63630
+N	mA	63631
+N	td	63632
+N	𝐚𝐚𝐚𝐚𝐚𝐚	63633
+N	𝐻	63634
+N	DAF40	63635
+N	𝑅	63636
+N	sgfnyd	63637
+N	ECF10	63638
+N	𝐤𝐢𝐞𝐛𝐠𝐭	63639
+N	FB107E70	63640
+N	bvtdll	63641
+N	EE80890	63642
+N	mm	63643
+N	background	63644
+N	resonances	63645
+N	DET	63646
+N	LAM	63647
+N	ENTR	63648
+N	TREND	63649
+N	Vec	63650
+N	PAM	63651
+N	𝑅𝑒	63652
+N	𝐫𝐫	63653
+N	𝒻	63654
+N	ℊ	63655
+N	𝒿	63656
+N	𝓀	63657
+N	infinite	63658
+N	rcon	63659
+N	CPI	63660
+N	Effective processor performance	63661
+N	MIPS	63662
+N	clock frequency	63663
+N	Execution time	63664
+N	Instruction count	63665
+N	clock time	63666
+N	Instruction Count	63667
+N	for Re	63668
+N	is nilpotent for all representations	63669
+N	sl	63670
+N	eE	63671
+N	iE	63672
+N	sE	63673
+N	HB	63674
+N	precisely 1/7 of the characters in	63675
+N	are 3’s	63676
+N	𝐿𝐶𝑆𝑢𝑓𝑓	63677
+N	𝐿𝐶𝑆𝑢𝑏𝑠𝑡𝑟	63678
+N	𝐏𝐒	63679
+N	let	63680
+N	lift	63681
+N	de	63682
+N	make	63683
+N	call	63684
+N	FV	63685
+N	vars	63686
+N	tran	63687
+N	drop	63688
+N	params	63689
+N	merge	63690
+N	apply	63691
+N	process	63692
+N	choice	63693
+N	none	63694
+N	false	63695
+N	anon	63696
+N	named	63697
+N	sink	63698
+N	build	63699
+N	param	63700
+N	list	63701
+N	lists	63702
+N	equate	63703
+N	ask	63704
+N	formal	63705
+N	{}3x4	63706
+N	N.	63707
+N	Games Behind	63708
+N	TeamA’s wins - TeamB’s wins	63709
+N	TeamB’s losses - TeamA’s losses	63710
+N	angular	63711
+N	resolution	63712
+N	Rf	63713
+N	Real	63714
+N	Interest	63715
+N	CouponRate	63716
+N	Factor	63717
+N	CouponFactor	63718
+N	Freq	63719
+N	Days	63720
+N	Date1	63721
+N	Date2	63722
+N	Date3	63723
+N	Days not in leap year	63724
+N	Days in leap year	63725
+N	DiY	63726
+N	𝑘𝑖𝑛	63727
+N	Concentration	63728
+N	II	63729
+N	𝐀𝐀	63730
+N	III	63731
+N	⊻	63732
+N	𝐬𝐤𝐢𝐩	63733
+N	prim	63734
+N	primary	63735
+N	molecules	63736
+N	decomposed	63737
+N	photons	63738
+N	emitted	63739
+N	fixed	63740
+N	𝐼𝑛𝑡	63741
+N	(in I and III)	63742
+N	(in II and IV)	63743
+N	CNOT	63744
+N	||2x1	63745
+N	dev	63746
+N	eng	63747
+N	with respect to	63748
+N	PE	63749
+N	cells on day 1	63750
+N	cells plated on day 0	63751
+N	colonies counted	63752
+N	cells inoculated	63753
+N	CTR	63754
+N	Impressions	63755
+N	Clicks	63756
+N	Ma	63757
+N	are non-zero and both are squares or both are non-squares	63758
+N	arccosh	63759
+N	()2x10	63760
+N	()8x8	63761
+N	FillRad	63762
+N	stsys	63763
+N	CIN	63764
+N	v&comma;parcel	63765
+N	v&comma;env	63766
+N	bottom	63767
+N	Ion	63768
+N	torque	63769
+N	force	63770
+N	Kumaraswamy	63771
+N	Exponential	63772
+N	GB1	63773
+N	𝑛𝑢𝑚𝑏𝑒𝑟	63774
+N	𝑜𝑓	63775
+N	𝑛𝑜𝑑𝑒𝑠	63776
+N	Ta	63777
+N	Ĥ	63778
+N	x̂	63779
+N	p̂	63780
+N	appears at	63781
+N	LTE	63782
+N	GTE	63783
+N	Up	63784
+N	Left	63785
+N	Down	63786
+N	Right	63787
+N	Lim	63788
+N	Cart	63789
+N	𝐎𝐏	63790
+N	IN	63791
+N	OUT	63792
+N	added	63793
+N	epicycloid:	63794
+N	hypocycloid:	63795
+N	cusps	63796
+N	≮	63797
+N	Iterator	63798
+N	hasNext	63799
+N	smax	63800
+N	𝐏𝐓	63801
+N	𝐏𝐌	63802
+N	𝐏𝐍	63803
+N	𝐏𝐀	63804
+N	𝐆𝐎𝐏	63805
+N	𝐆𝐀𝐏	63806
+N	emf	63807
+N	anode	63808
+N	cathode	63809
+N	emit	63810
+N	De	63811
+N	eval	63812
+N	osmol	63813
+N	boson	63814
+N	fermion	63815
+N	Sq	63816
+N	Pt	63817
+N	Hg(l)	63818
+N	(s)	63819
+N	sp	63820
+N	SM	63821
+N	EW	63822
+N	Hadron	63823
+N	||5x3	63824
+N	BIC	63825
+N	⋙	63826
+N	TSS	63827
+N	𝐷𝐼𝐶	63828
+N	𝐼𝐶	63829
+N	GCE	63830
+N	hom	63831
+N	TeVeS	63832
+N	gramm	63833
+N	s.g.	63834
+N	degrees	63835
+N	Baum	63836
+N	On	63837
+N	box	63838
+N	table	63839
+N	𝐯𝐯	63840
+N	𝐮𝐰	63841
+N	𝐰𝐮	63842
+N	𝐰𝐰	63843
+N	number of elements in the sample	63844
+N	Quick (Acid Test) Ratio	63845
+N	Current Liabilities	63846
+N	Cash and Cash Equivalent	63847
+N	Marketable Securities	63848
+N	Accounts Receivable	63849
+N	Acid Test Ratio	63850
+N	(Current Assets	63851
+N	Inventory	63852
+N	w2	63853
+N	w1	63854
+N	f2	63855
+N	f1	63856
+N	if and only if there is an	63857
+N	minus	63858
+N	plus	63859
+N	dBm	63860
+N	dBV	63861
+N	Vect	63862
+N	sm	63863
+N	Bun	63864
+N	SSIM	63865
+N	DSSIM	63866
+N	Lan	63867
+N	colim	63868
+N	Perrin	63869
+N	hr	63870
+N	𝐑𝐚𝐭𝐢𝐧𝐠	63871
+N	batch	63872
+N	aver	63873
+N	∵	63874
+N	Capitalization Rate	63875
+N	cost (or value)	63876
+N	annual net operating income	63877
+N	bel	63878
+N	pl	63879
+N	env	63880
+N	scale	63881
+N	shift	63882
+N	arcsch	63883
+N	base area	63884
+N	𝐊𝐫	63885
+N	xc	63886
+N	HCHO	63887
+N	CH2	63888
+N	rate(prop)	63889
+N	M-H	63890
+N	H-X	63891
+N	number of base pairs	63892
+N	mass in pg	63893
+N	pg	63894
+N	Mb	63895
+N	EBC	63896
+N	SRM	63897
+N	if by stage	63898
+N	has been enumerated into	63899
+N	if not	63900
+N	converges in at most	63901
+N	steps.	63902
+N	(fixed end)	63903
+N	(free end)	63904
+N	Charles	63905
+N	folding	63906
+N	calling	63907
+N	big bets	63908
+N	Arnold	63909
+N	Charles folds	63910
+N	Charles calls	63911
+N	Pythagorean wins	63912
+N	Points For	63913
+N	Games Played	63914
+N	Points Against	63915
+N	time-slots	63916
+N	transmit antennas	63917
+N	&lsqb;&rsqb;8x4	63918
+N	𝑝𝑠	63919
+N	Input	63920
+N	Output	63921
+N	Accumulation	63922
+N	Generation	63923
+N	Consumption	63924
+N	PROD	63925
+N	ACC	63926
+N	Carbon	63927
+N	mass	63928
+N	Hydrogen	63929
+N	Sulfur	63930
+N	fuel	63931
+N	excess	63932
+N	combustion	63933
+N	MAC	63934
+N	CBC-MAC-ELB	63935
+N	CBC-MAC	63936
+N	Area(inner)	63937
+N	Area(outer)	63938
+N	Side(outer)	63939
+N	Ber	63940
+N	Artin	63941
+N	cycles	63942
+N	4.54	63943
+N	(mod	63944
+N	Hecke	63945
+N	Sales Won	63946
+N	Sales Lost	63947
+N	Sales Abandoned	63948
+N	𝖢𝖺	63949
+N	𝖧𝖢𝖮	63950
+N	𝖢𝖺𝖢𝖮	63951
+N	𝖢𝖮	63952
+N	rate of	63953
+N	re-entrainment of	63954
+N	unconsolidated deposit	63955
+N	deposition	63956
+N	deposit	63957
+N	accumulation	63958
+N	consolidation of	63959
+N	accumulation of	63960
+N	initial margin requirement	63961
+N	maintenance margin requirement	63962
+N	opamp	63963
+N	INIC	63964
+N	NIC	63965
+N	(i.e.&comma; when	63966
+N	prior	63967
+N	selection	63968
+N	Hol	63969
+N	Inn	63970
+N	iso	63971
+N	if the belief update with arguments	63972
+N	returns	63973
+N	𝜋	63974
+N	range	63975
+N	origin	63976
+N	all mapped into the unit square.	63977
+N	Le	63978
+N	NCO	63979
+N	HNCO	63980
+N	17x10	63981
+N	ku	63982
+N	zDIN	63983
+N	zJIS	63984
+N	spontaneous	63985
+N	absorb	63986
+N	erg	63987
+N	2x6	63988
+N	EQ	63989
+N	XOR	63990
+N	arb	63991
+N	x quus y	63992
+N	x + y	63993
+N	pred	63994
+N	actual	63995
+N	(|1x1	63996
+N	exposure	63997
+N	or root of	63998
+N	&lsqb;&rsqb;1x19	63999
+N	(mod 3)	64000
+N	(mod 4)	64001
+N	storage rate	64002
+N	diffusive transport rate	64003
+N	𝐹𝑜	64004
+N	MRS	64005
+N	MRT	64006
+N	MB	64007
+N	MC	64008
+N	SCF	64009
+N	ACF	64010
+N	OA	64011
+N	OB	64012
+N	OX	64013
+N	𝐟𝐁	64014
+N	FP	64015
+N	ins	64016
+N	circumference	64017
+N	diameter	64018
+N	Cliff	64019
+N	Sr	64020
+N	ώ	64021
+N	𝑅𝐺𝐵	64022
+N	LDA	64023
+N	LSDA	64024
+N	at equilibrium.	64025
+N	&lsqb;&rsqb;1x7	64026
+N	for odd degree	64027
+N	for even degree	64028
+N	dif	64029
+N	com	64030
+N	are functions of time.	64031
+N	is an unknot	64032
+N	equator	64033
+N	zero	64034
+N	sentences	64035
+N	words	64036
+N	characters	64037
+N	pH	64038
+N	updiagonalstrike	64039
+N	so that	64040
+N	𝑎𝑙𝑔	64041
+N	volts	64042
+N	𝐌𝐨𝐝	64043
+N	𝔗	64044
+N	FROG	64045
+N	gate	64046
+N	SHG FROG	64047
+N	flattening	64048
+N	𝕖	64049
+N	(SI units)	64050
+N	(cgs units)	64051
+N	ret	64052
+N	IOPS	64053
+N	TransferSizeInBytes	64054
+N	BytesPerSec	64055
+N	𝔑	64056
+N	One event occurs in the time-interval	64057
+N	One event occurs in	64058
+N	Hav.  MZD	64059
+N	Hav. TZD  -  Hav.H  Cos.L  Cos.D	64060
+N	Domain	64061
+N	CHCOOCH	64062
+N	ArCH	64063
+N	COOC	64064
+N	CPME	64065
+N	TBAB	64066
+N	CsCl	64067
+N	COOCH	64068
+N	DMF	64069
+N	CsNO	64070
+N	(a power tower of height 65&comma;536)	64071
+N	(a power tower of height 7&comma;625&comma;597&comma;484&comma;987)	64072
+N	input	64073
+N	secret	64074
+N	output	64075
+N	mult	64076
+N	multiply	64077
+N	con	64078
+N	val	64079
+N	predicate	64080
+N	xor	64081
+N	IsZero	64082
+N	LEQ	64083
+N	isnil	64084
+N	cons	64085
+N	head	64086
+N	tail	64087
+N	extract	64088
+N	samenum	64089
+N	divide1	64090
+N	convert	64091
+N	OneZero	64092
+N	OneZ	64093
+N	divZ	64094
+N	Euler transformation	64095
+N	Pfaff transformation	64096
+N	m/s	64097
+N	O1	64098
+N	O2	64099
+N	m2	64100
+N	m1	64101
+N	BET	64102
+N	ads	64103
+N	des	64104
+N	fixes	64105
+N	splits completely in	64106
+N	LMA	64107
+N	is a minimal model of	64108
+N	CIRC	64109
+N	∄	64110
+N	change open	64111
+N	coin	64112
+N	white area	64113
+N	black area	64114
+N	CaCO	64115
+N	absolute margin of victory	64116
+N	normalized margin of victory	64117
+N	𝐢𝐟	64118
+N	𝐭𝐡𝐞𝐧	64119
+N	𝐞𝐥𝐬𝐞	64120
+N	𝑦	64121
+N	entropic	64122
+N	external	64123
+N	enthalpic	64124
+N	𝐨	64125
+N	Number of Grids	64126
+N	N combinations for B2	64127
+N	Sb.z	64128
+N	Sb.n	64129
+N	PH	64130
+N	𝖭𝖯	64131
+N	𝗉𝗈𝗅𝗒	64132
+N	𝖠𝖬	64133
+N	𝖬𝖠	64134
+N	𝖲𝖨𝖹𝖤	64135
+N	𝖲𝖠𝖳	64136
+N	𝖯𝖯	64137
+N	𝖹𝖯𝖯	64138
+N	spacetime-like	64139
+N	spacelike	64140
+N	timelike	64141
+N	COM	64142
+N	MK	64143
+N	cal	64144
+N	neutralization	64145
+N	is a unit&comma; simple&comma;	64146
+N	-vector	64147
+N	{}1x13	64148
+N	zq	64149
+N	Weekly	64150
+N	day	64151
+N	mmol/L	64152
+N	L per exchange or	64153
+N	L/day	64154
+N	close	64155
+N	Lin	64156
+N	Ord	64157
+N	for all i	64158
+N	higher	64159
+N	order	64160
+N	terms	64161
+N	IA	64162
+N	IB	64163
+N	agm	64164
+N	true range	64165
+N	prev	64166
+N	ideal gas	64167
+N	BE	64168
+N	𝐏𝐫𝐨𝐣	64169
+N	𝐒𝐲𝐦	64170
+N	MSS	64171
+N	ATRP	64172
+N	R-P	64173
+N	-X	64174
+N	&lsqb;&rsqb;5x11	64175
+N	Bad	64176
+N	static	64177
+N	stagnation	64178
+N	event when exposed	64179
+N	event when non-exposed	64180
+N	confidence	64181
+N	sample size	64182
+N	GHY	64183
+N	EH	64184
+N	odds	64185
+N	Euc	64186
+N	ESS	64187
+N	∁	64188
+N	prime&comma;	64189
+N	{}1x12	64190
+N	mas/y	64191
+N	km/s.	64192
+N	RS	64193
+N	Majority	64194
+N	𝐲𝐱	64195
+N	𝐱𝐲	64196
+N	Amplitude (or height)	64197
+N	Cauchy	64198
+N	||8x10	64199
+N	||7x8	64200
+N	GDP Deflator	64201
+N	Real GDP	64202
+N	Nominal GDP	64203
+N	ob	64204
+N	is the interval	64205
+N	is finite	64206
+N	5x7	64207
+N	6x7	64208
+N	Grade of Service	64209
+N	number of offered calls	64210
+N	number of successful calls	64211
+N	code	64212
+N	has weight	64213
+N	Maximum possible demand	64214
+N	Demand	64215
+N	axis	64216
+N	95 years	64217
+N	for integer	64218
+N	(integers)	64219
+N	one	64220
+N	two	64221
+N	three	64222
+N	for some deterministic polynomial-time Turing machine	64223
+N	number of steps	64224
+N	takes to halt on input	64225
+N	COMPOSITE	64226
+N	ion-ion	64227
+N	MA	64228
+N	pulse	64229
+N	4.9\n                  \n                  8	64230
+N	the inner product of ket	64231
+N	with ket	64232
+N	OR	64233
+N	α̂	64234
+N	reverse	64235
+N	short	64236
+N	01	64237
+N	YG	64238
+N	REA	64239
+N	HCW	64240
+N	percent KPH	64241
+N	adjusted fat thickness	64242
+N	az&comma;right	64243
+N	pulse dispersion	64244
+N	c.c.	64245
+N	change in	64246
+N	Jac	64247
+N	PS	64248
+N	TT	64249
+N	𝑉𝑠	64250
+N	𝐶𝑇	64251
+N	a complex cube root of 1	64252
+N	&lsqb;&rsqb;2x4	64253
+N	DJIA	64254
+N	old	64255
+N	ƒ	64256
+N	≔	64257
+N	src	64258
+N	dst	64259
+N	𝐬𝐮	64260
+N	n̂	64261
+N	m̂	64262
+N	k̂	64263
+N	Energy lost per cycle	64264
+N	Energy stored	64265
+N	(overdamping)	64266
+N	(critical damping)	64267
+N	(underdamping)	64268
+N	seconds	64269
+N	𝑅𝐷	64270
+N	substance	64271
+N	Deflection	64272
+N	Gravity	64273
+N	Spring Constant	64274
+N	WaterLine	64275
+N	Cylinder	64276
+N	object	64277
+N	Ref	64278
+N	Material	64279
+N	Inequality	64280
+N	LOP	64281
+N	TH	64282
+N	RB	64283
+N	LOP1	64284
+N	LOP2	64285
+N	||3x1	64286
+N	MUF	64287
+N	critical frequency	64288
+N	the path goes from city	64289
+N	to city	64290
+N	th Bernoulli number	64291
+N	Insertion loss (dB)	64292
+N	⊣	64293
+N	Sub	64294
+N	𝜂	64295
+N	specific	64296
+N	is valid	64297
+N	𝑒	64298
+N	Fourier	64299
+N	()10x10	64300
+N	number of outcomes in sample space	64301
+N	number of outcomes in event	64302
+N	Lower fence	64303
+N	IQR	64304
+N	Upper fence	64305
+N	𝐺𝑀	64306
+N	norm	64307
+N	Maximum ambient pressure of the dive	64308
+N	Maximum acceptable partial pressure of oxygen	64309
+N	{}4x1	64310
+N	displacement	64311
+N	{}6x1	64312
+N	{}8x1	64313
+N	{}7x1	64314
+N	general	64315
+N	register	64316
+N	pH(X)	64317
+N	pH(S)	64318
+N	pOH	64319
+N	pK	64320
+N	pqr	64321
+N	pI	64322
+N	a1	64323
+N	a2	64324
+N	MOH	64325
+N	MO	64326
+N	Power (W)	64327
+N	Am	64328
+N	Cm	64329
+N	BkF	64330
+N	LiF	64331
+N	rise	64332
+N	Speed	64333
+N	𝑚𝑘𝑡	64334
+N	Reliability	64335
+N	Bandwidth	64336
+N	Delay	64337
+N	Load	64338
+N	Part IITIIT	64339
+N	Part IVIV	64340
+N	Part IVTIVT	64341
+N	Part III(III(	64342
+N	thermal diffusion rate	64343
+N	bits	64344
+N	bits per symbol.	64345
+N	symbols	64346
+N	bit	64347
+N	Ba	64348
+N	gen	64349
+N	Bm	64350
+N	Bo	64351
+N	rw	64352
+N	BK	64353
+N	Du	64354
+N	Ek	64355
+N	Eo	64356
+N	Er	64357
+N	Fo	64358
+N	Ga	64359
+N	Gz	64360
+N	A0	64361
+N	phys	64362
+N	Ir	64363
+N	Ja	64364
+N	Ka	64365
+N	Kn	64366
+N	Ku	64367
+N	La	64368
+N	sound	64369
+N	Mo	64370
+N	Nu	64371
+N	Oh	64372
+N	Pe	64373
+N	Adhesive force	64374
+N	Restoring force	64375
+N	Power Loss	64376
+N	Energy Stored	64377
+N	arc length	64378
+N	Ri	64379
+N	Ro	64380
+N	St	64381
+N	Sh	64382
+N	Ste	64383
+N	Stk	64384
+N	Va	64385
+N	Wea	64386
+N	Wi	64387
+N	is constructible	64388
+N	last	64389
+N	profit	64390
+N	obsv	64391
+N	now	64392
+N	receiver	64393
+N	expansion	64394
+N	B̂	64395
+N	Î	64396
+N	ƒ̂	64397
+N	heating	64398
+N	hot	64399
+N	cool	64400
+N	cooling	64401
+N	𝔧	64402
+N	and all complex	64403
+N	dk	64404
+N	number of sidereal days per orbital period	64405
+N	number of solar days per orbital period	64406
+N	length of solar day	64407
+N	length of sidereal day	64408
+N	orbital period	64409
+N	ATP	64410
+N	ADP	64411
+N	square meters	64412
+N	meters/second	64413
+N	ev	64414
+N	is not a non-positive integer (one term dominates unless	64415
+N	is imaginary)	64416
+N	is a negative integer	64417
+N	↮	64418
+N	throughput	64419
+N	sales revenue	64420
+N	totally variable costs	64421
+N	throughput accounting ratio	64422
+N	factory hours	64423
+N	Contribution Margin Ratio	64424
+N	Sales - Variable Costs	64425
+N	Sales	64426
+N	there is a cover of	64427
+N	by balls with radii	64428
+N	Haus	64429
+N	is a quadratic residue modulo	64430
+N	is a quadratic non-residue modulo	64431
+N	is constant	64432
+N	Pythagorean theorem	64433
+N	Conductive heat transfer	64434
+N	Convective heat transfer	64435
+N	unseen	64436
+N	outs	64437
+N	cards	64438
+N	heads	64439
+N	tails	64440
+N	increasing	64441
+N	decreasing	64442
+N	sample mean	64443
+N	Logistic	64444
+N	PowerLaw	64445
+N	Weibull	64446
+N	Geometric	64447
+N	ML	64448
+N	CNML	64449
+N	𝐁𝐏𝐏	64450
+N	𝐁𝐐𝐏	64451
+N	𝐀𝐖𝐏𝐏	64452
+N	𝐏𝐏	64453
+N	𝐏𝐒𝐏𝐀𝐂𝐄	64454
+N	charging	64455
+N	capinit	64456
+N	CC	64457
+N	Q1	64458
+N	kcal	64459
+N	⊮	64460
+N	Mean time between failures	64461
+N	MTBF	64462
+N	number of failures	64463
+N	start of downtime	64464
+N	start of uptime	64465
+N	MTTF	64466
+N	MTTFd	64467
+N	samples	64468
+N	chosen	64469
+N	visited	64470
+N	()2x5	64471
+N	averaged	64472
+N	cod	64473
+N	Ob	64474
+N	Cone	64475
+N	Cocone	64476
+N	reversesawtooth	64477
+N	sawtooth	64478
+N	CDF	64479
+N	—	64480
+N	statC	64481
+N	side	64482
+N	moment arm	64483
+N	distance to centre	64484
+N	rpm	64485
+N	hp	64486
+N	linear distance	64487
+N	angular speed	64488
+N	rotational speed	64489
+N	horsepower	64490
+N	BAC	64491
+N	(in lowest terms) is a rational number	64492
+N	is irrational	64493
+N	is rational	64494
+N	ship	64495
+N	for any	64496
+N	tri	64497
+N	J s	64498
+N	eV s	64499
+N	J/eV	64500
+N	K/eV	64501
+N	J/K	64502
+N	(eV)	64503
+N	feVs	64504
+N	(PHz)	64505
+N	(nm)	64506
+N	angle in degrees	64507
+N	angle in radians	64508
+N	⇛	64509
+N	𝐆𝐅𝐯	64510
+N	etc.	64511
+N	EXPTIME	64512
+N	not a multiple of	64513
+N	not an integer	64514
+N	rpi	64515
+N	rni	64516
+N	quadrilateral	64517
+N	polygon	64518
+N	shape	64519
+N	H. sapiens	64520
+N	Homo	64521
+N	Primates	64522
+N	Mammalia	64523
+N	Animalia	64524
+N	state	64525
+N	push	64526
+N	read	64527
+N	pop	64528
+N	𝐑𝐨𝐮𝐬𝐞	64529
+N	Upwards velocity from lift and drag	64530
+N	Settling velocity	64531
+N	〈	64532
+N	〉	64533
+N	𝐗𝐘	64534
+N	Attenuation	64535
+N	Attenuation (dB)	64536
+N	Output intensity (W)	64537
+N	Input intensity (W)	64538
+N	𝑆𝐼𝐿	64539
+N	mph	64540
+N	Kurt	64541
+N	Quot	64542
+N	Pearl-Index	64543
+N	Number of Women	64544
+N	Number of Pregnancies	64545
+N	Number of Months	64546
+N	Roche	64547
+N	Hill	64548
+N	secondary	64549
+N	Poisson summation formula	64550
+N	Fourier series (DTFT)	64551
+N	||4x3	64552
+N	Cptl	64553
+N	the free ring generated by the set	64554
+N	pt	64555
+N	𝐒𝐞𝐭𝐬	64556
+N	𝐑𝐢𝐧𝐠𝐬	64557
+N	forgetful	64558
+N	electronic	64559
+N	nuclear	64560
+N	FE	64561
+N	fe	64562
+N	EB	64563
+N	CE	64564
+N	km/s	64565
+N	5.29\n                      \n                      28	64566
+N	fundamental	64567
+N	harmonics	64568
+N	sf	64569
+N	kf	64570
+N	estimated	64571
+N	maximum speedup	64572
+N	percentage improvement	64573
+N	speedup factor	64574
+N	New price	64575
+N	years later	64576
+N	old price	64577
+N	inflation	64578
+N	Monthly inflation	64579
+N	Price doubling time	64580
+N	Years per added zero of the price	64581
+N	pa	64582
+N	i.e.&comma;	64583
+N	fric	64584
+N	outN	64585
+N	in1	64586
+N	compound	64587
+N	in2	64588
+N	out2	64589
+N	in3	64590
+N	outK	64591
+N	inK+1	64592
+N	out1	64593
+N	out3	64594
+N	inN	64595
+N	2&comma;1	64596
+N	adjacent transpositions:	64597
+N	Out	64598
+N	rep	64599
+N	att	64600
+N	TOT	64601
+N	scalar fields on	64602
+N	vector fields on	64603
+N	type	64604
+N	triangle	64605
+N	IQM	64606
+N	𝔊	64607
+N	3x14	64608
+N	&lsqb;&rsqb;3x6	64609
+N	&lsqb;&rsqb;6x9	64610
+N	Ack	64611
+N	Succ	64612
+N	Iter	64613
+N	ἰ	64614
+N	ί	64615
+N	CaSO	64616
+N	at constant	64617
+N	barrier	64618
+N	is flat	64619
+N	EA	64620
+N	for all integers	64621
+N	and arbitrary	64622
+N	sqsum	64623
+N	ep	64624
+N	es	64625
+N	pe	64626
+N	se	64627
+N	sa	64628
+N	month	64629
+N	hour	64630
+N	arsech	64631
+N	arcoth	64632
+N	Part II5./Dalton′s_law.html5.10	64633
+N	information	64634
+N	equal	64635
+N	local	64636
+N	copy	64637
+N	modified	64638
+N	modification	64639
+N	at the point	64640
+N	SH	64641
+N	solvent	64642
+N	MAP	64643
+N	and for some integer	64644
+N	if there is no such	64645
+N	is a prime power	64646
+N	is not a prime power	64647
+N	is a square	64648
+N	is not square.	64649
+N	is an odd prime	64650
+N	AmF	64651
+N	BaF	64652
+N	AmO	64653
+N	VI	64654
+N	IV	64655
+N	HgX	64656
+N	AmX	64657
+N	AmCl	64658
+N	AmOCl	64659
+N	work done per unit time	64660
+N	advective transport rate	64661
+N	Number of photons absorbed	64662
+N	Number of photons emitted	64663
+N	ellipse	64664
+N	circle	64665
+N	Es	64666
+N	Uue	64667
+N	Ti	64668
+N	basic	64669
+N	FeCO	64670
+N	conditions	64671
+N	wire	64672
+N	External	64673
+N	Diffusion	64674
+N	Internal	64675
+N	Convection	64676
+N	Variation	64677
+N	knots	64678
+N	significand	64679
+N	exponent	64680
+N	mach	64681
+N	form	64682
+N	converging	64683
+N	opposite side	64684
+N	adjacent side	64685
+N	a constant	64686
+N	ff	64687
+N	fine	64688
+N	mag	64689
+N	r̂	64690
+N	enc	64691
+N	⁄	64692
+N	𝟚	64693
+N	𝐍𝐂	64694
+N	𝐍𝐋	64695
+N	PPPrate	64696
+N	GDPdef	64697
+N	Uptime	64698
+N	Downtime	64699
+N	sys functions at time	64700
+N	number of disjoint cycles in the decomposition of	64701
+N	Compressed	64702
+N	Uncompressed	64703
+N	Space	64704
+N	Savings	64705
+N	Data	64706
+N	EXPSPACE	64707
+N	oxygen	64708
+N	carbon dioxide	64709
+N	nitrogen	64710
+N	hydrogen	64711
+N	carbon monoxide	64712
+N	Oxygen	64713
+N	multi	64714
+N	nulti	64715
+N	OPD	64716
+N	OPL	64717
+N	NAF	64718
+N	fold	64719
+N	≯	64720
+N	()4x7	64721
+N	()3x7	64722
+N	()4x8	64723
+N	subject to:	64724
+N	watt	64725
+N	joule	64726
+N	newton	64727
+N	meter	64728
+N	for every integer	64729
+N	rearranging the summation order	64730
+N	except when	64731
+N	ORL	64732
+N	statcoulomb	64733
+N	esu	64734
+N	dyne	64735
+N	statampere	64736
+N	current	64737
+N	abampere	64738
+N	emu	64739
+N	abcoulomb	64740
+N	statvolt	64741
+N	stattesla	64742
+N	gauss	64743
+N	abvolt	64744
+N	statohm	64745
+N	abohm	64746
+N	amount	64747
+N	temperature	64748
+N	work	64749
+N	kmol	64750
+N	DOF	64751
+N	{}1x8	64752
+N	⌟	64753
+N	⌞	64754
+N	𝖿	64755
+N	osc	64756
+N	LAT	64757
+N	LONG	64758
+N	Mbar	64759
+N	PO	64760
+N	HPO	64761
+N	(by triangle inequality)	64762
+N	𝐢𝐧𝐭	64763
+N	EY	64764
+N	SM-DM	64765
+N	DM	64766
+N	3.76	64767
+N	is an ordinal	64768
+N	Weak law:	64769
+N	Strong law:	64770
+N	horizon	64771
+N	feet	64772
+N	Pulse	64773
+N	dispersion	64774
+N	while	64775
+N	AD	64776
+N	‖	64777
+N	arcsinh	64778
+N	is a sequence of disjoint open intervals with	64779
+N	is a countable collection of boxes whose union covers	64780
+N	ounce	64781
+N	pound	64782
+N	gravitational mass	64783
+N	relative	64784
+N	1.1110	64785
+N	constant&comma;	64786
+N	(lower order terms)	64787
+N	plus lower-order terms	64788
+N	mils	64789
+N	votes needed to win	64790
+N	seats to fill	64791
+N	valid votes cast	64792
+N	6 votes required	64793
+N	3 seats to fill	64794
+N	20 votes cast	64795
+N	remainder	64796
+N	Vert	64797
+N	Hor	64798
+N	11x5	64799
+N	are words in	64800
+N	Phil	64801
+N	Fm	64802
+N	are in	64803
+N	is a non-zero square in	64804
+N	MTF	64805
+N	image	64806
+N	𝐍𝐨	64807
+N	indeterminate	64808
+N	imaginary	64809
+N	real	64810
+N	because	64811
+N	Log	64812
+N	Core State	64813
+N	SINAD	64814
+N	𝐌𝐱	64815
+N	𝐌𝐲	64816
+N	provided	64817
+N	⊚	64818
+N	(high side injection)	64819
+N	(low side injection)	64820
+N	img	64821
+N	CL	64822
+N	weighted	64823
+N	Io	64824
+N	Te	64825
+N	Mi	64826
+N	g NaCl	64827
+N	g NaCl mol	64828
+N	mol NaCl	64829
+N	mol Cu	64830
+N	g Cu	64831
+N	mol Ag	64832
+N	g Ag	64833
+N	Ag	64834
+N	g Al	64835
+N	mol Al	64836
+N	PbO	64837
+N	PbS	64838
+N	percent yield	64839
+N	theoretical yield	64840
+N	actual yield	64841
+N	186.6 g PbO	64842
+N	170.0 g PbO	64843
+N	FeCl	64844
+N	reacted	64845
+N	star	64846
+N	(*)	64847
+N	(**)	64848
+N	(***)	64849
+N	and S totally ordered	64850
+N	mutation	64851
+N	for some function	64852
+N	Card	64853
+N	is a limit point of	64854
+N	F/m	64855
+N	has FSD	64856
+N	&comma; for every	64857
+N	Allan	64858
+N	mean absolute deviation	64859
+N	Numerator	64860
+N	node of tree-level	64861
+N	||6x6	64862
+N	(L. Euler)	64863
+N	(H. Miki&comma; 1978)	64864
+N	octal	64865
+N	decimal	64866
+N	hex	64867
+N	𝐸	64868
+N	Carbonic	64869
+N	anhydrase	64870
+N	reflections	64871
+N	amplitude	64872
+N	scattered	64873
+N	wave	64874
+N	screen	64875
+N	finite	64876
+N	path	64877
+N	all paths	64878
+N	all space	64879
+N	moments	64880
+N	LB	64881
+N	𝔏	64882
+N	addOne	64883
+N	12x2	64884
+N	Ax. 1.	64885
+N	Ax. 2.	64886
+N	Th. 1.	64887
+N	Df. 1.	64888
+N	Ax. 3.	64889
+N	Th. 2.	64890
+N	Df. 2.	64891
+N	Ax. 4.	64892
+N	Th. 3.	64893
+N	Df. 3.	64894
+N	Ax. 5.	64895
+N	Th. 4.	64896
+N	catalytic surface	64897
+N	HALT	64898
+N	× Area	64899
+N	in interval	64900
+N	approx	64901
+N	containing discrete mass	64902
+N	HH	64903
+N	copies	64904
+N	5.2\n                  \n                  1	64905
+N	BLN	64906
+N	RH	64907
+N	PDB	64908
+N	𝐋𝐍	64909
+N	Gain	64910
+N	by the previous statements	64911
+N	FFL	64912
+N	BFL	64913
+N	state of the Emacs editor and running operating system	64914
+N	with some component/part of its state changed	64915
+N	if success	64916
+N	if failure	64917
+N	Iso	64918
+N	the energy level in dimension	64919
+N	relativistic	64920
+N	limit	64921
+N	AA	64922
+N	BB	64923
+N	ea	64924
+N	Mulliken	64925
+N	Sphere surface area	64926
+N	Cylinder surface area	64927
+N	LHA	64928
+N	LST	64929
+N	GST	64930
+N	observer	64931
+N	Metabolic	64932
+N	Error	64933
+N	Treatments	64934
+N	variance within treatments	64935
+N	variance between treatments	64936
+N	Treatment	64937
+N	banana	64938
+N	apple	64939
+N	pear	64940
+N	curry	64941
+N	curried	64942
+N	if Goldbach’s conjecture is true	64943
+N	occurs in the decimal representation of	64944
+N	Planet	64945
+N	Earth	64946
+N	Moon	64947
+N	is odd&comma;	64948
+N	𝐀𝐲	64949
+N	hh	64950
+N	Unemployment rate	64951
+N	Total labor force	64952
+N	Unemployed workers	64953
+N	scat	64954
+N	NADH	64955
+N	matrix	64956
+N	NAD	64957
+N	QH	64958
+N	intermembrane	64959
+N	Succinate	64960
+N	Fumarate	64961
+N	ETF	64962
+N	ox	64963
+N	Cyt	64964
+N	Superoxide	64965
+N	Peroxide	64966
+N	LP	64967
+N	AbAg	64968
+N	forward	64969
+N	off-rate	64970
+N	on-rate	64971
+N	back	64972
+N	invariant scalar	64973
+N	invariant scalars	64974
+N	accuracy	64975
+N	number of true positives	64976
+N	number of true negatives	64977
+N	false positives	64978
+N	false negatives	64979
+N	true negatives	64980
+N	precision	64981
+N	prevalence	64982
+N	balanced accuracy	64983
+N	true positives	64984
+N	Informedness	64985
+N	arcsec	64986
+N	observerbase	64987
+N	AU	64988
+N	arcseconds	64989
+N	ly	64990
+N	parsec	64991
+N	(V)	64992
+N	(Q)	64993
+N	(I)	64994
+N	Decaying contribution from prior inputs	64995
+N	Contribution from change in input	64996
+N	Vis	64997
+N	forward reaction rate	64998
+N	backward reaction rate	64999
+N	critical	65000
+N	muf	65001
+N	Ac	65002
+N	years of education	65003
+N	CVP	65004
+N	SVR	65005
+N	dias	65006
+N	trunc	65007
+N	()7x5	65008
+N	-th row	65009
+N	exponent bias	65010
+N	mantissa	65011
+N	emp	65012
+N	converges	65013
+N	&comma; the unique integer with	65014
+N	Geom	65015
+N	Run	65016
+N	Rise	65017
+N	Fib	65018
+N	as base case 1&comma;	65019
+N	as base case 2&comma;	65020
+N	For all integers	65021
+N	sum of inflows	65022
+N	lock	65023
+N	years	65024
+N	alternatively:	65025
+N	crc	65026
+N	sh	65027
+N	unless	65028
+N	{|1x1	65029
+N	FFT	65030
+N	𝐒𝐏𝐀𝐂𝐄	65031
+N	𝐍𝐏	65032
+N	𝐏𝐇	65033
+N	𝐄𝐗𝐏𝐓𝐈𝐌𝐄	65034
+N	𝐄𝐗𝐏𝐒𝐏𝐀𝐂𝐄	65035
+N	km/(s Mpc)	65036
+N	ROT	65037
+N	𝐞𝐞	65038
+N	𝐉𝐞	65039
+N	FeS	65040
+N	CuFeS	65041
+N	𝐌𝐚𝐭	65042
+N	(by hypothesis&comma; since	65043
+N	Ubn	65044
+N	𝑓𝑖𝑠𝑠𝑖𝑜𝑛	65045
+N	𝑜𝑛𝑙𝑦	65046
+N	Cr	65047
+N	FSPL(dB)	65048
+N	perceived reduction	65049
+N	actual reduction	65050
+N	Intensity	65051
+N	cyt	65052
+N	with sizes	65053
+N	𝚲	65054
+N	𝐩𝐪	65055
+N	sc	65056
+N	distortion power factor	65057
+N	1&comma; rms	65058
+N	Efficiency	65059
+N	contractions	65060
+N	Det	65061
+N	Pfaff	65062
+N	pairings	65063
+N	pairs	65064
+N	simplex	65065
+N	𝝅	65066
+N	𝐐𝐏	65067
+N	𝐱𝐔	65068
+N	vap	65069
+N	liq	65070
+N	eqm	65071
+N	𝑔𝑙	65072
+N	𝑠𝑙	65073
+N	etr	65074
+N	𝐺𝐿	65075
+N	𝑆𝐿	65076
+N	𝐼	65077
+N	resistor	65078
+N	capacitor	65079
+N	inductor	65080
+N	V/m	65081
+N	V/mil	65082
+N	relevant documents	65083
+N	retrieved documents	65084
+N	fall-out	65085
+N	non-relevant documents	65086
+N	AveP	65087
+N	number of relevant documents	65088
+N	interp	65089
+N	A to B	65090
+N	C to D	65091
+N	lyr	65092
+N	bol&comma;star	65093
+N	Scenario I	65094
+N	rounded	65095
+N	Scenario II	65096
+N	NCH	65097
+N	for some prime	65098
+N	millibar	65099
+N	weight	65100
+N	𝕎	65101
+N	illuminance at point	65102
+N	Span	65103
+N	alive	65104
+N	cgs	65105
+N	12x3	65106
+N	𝑁𝑃	65107
+N	𝑉𝑃	65108
+N	𝑃𝑃	65109
+N	𝑒𝑎𝑡𝑠	65110
+N	𝐷𝑒𝑡	65111
+N	𝑠ℎ𝑒	65112
+N	𝑤𝑖𝑡ℎ	65113
+N	𝑓𝑖𝑠ℎ	65114
+N	𝑓𝑜𝑟𝑘	65115
+N	Ɛ	65116
+N	ᘔ	65117
+N	infinitely many of the	65118
+N	occur	65119
+N	𝐯𝐰	65120
+N	𝐰𝐯	65121
+N	original	65122
+N	neutron	65123
+N	fission fragments	65124
+N	neutrons	65125
+N	CM	65126
+N	mirror	65127
+N	CmF	65128
+N	CmO	65129
+N	CmCl	65130
+N	CmI	65131
+N	CmOCl	65132
+N	nA	65133
+N	SOD	65134
+N	SCoA	65135
+N	FAD	65136
+N	CAT	65137
+N	HSO	65138
+N	BaO	65139
+N	pure	65140
+N	NaOH	65141
+N	COOH	65142
+N	COOOH	65143
+N	COCl	65144
+N	is between	65145
+N	GTPase	65146
+N	GTP	65147
+N	diss.GDP	65148
+N	cat.GTP	65149
+N	GDP	65150
+N	even.	65151
+N	Probability of interaction	65152
+N	AM	65153
+N	FM	65154
+N	turbine	65155
+N	required	65156
+N	ℎ	65157
+N	is an ideal of	65158
+N	erg/s/cm	65159
+N	/Hz	65160
+N	ON	65161
+N	BY	65162
+N	𝜻	65163
+N	app	65164
+N	arctanh	65165
+N	is not invertible	65166
+N	Odds	65167
+N	sense	65168
+N	polar	65169
+N	Euclidean	65170
+N	unusual	65171
+N	; and	65172
+N	Jitter (seconds	65173
+N	Phase error (degrees)	65174
+N	Frequency (Hertz)	65175
+N	𝐢𝐣𝐤	65176
+N	Start	65177
+N	Current	65178
+N	Completed	65179
+N	channel	65180
+N	Hall	65181
+N	(or	65182
+N	4x12	65183
+N	4x14	65184
+N	Carrier	65185
+N	Modulated Signal	65186
+N	Message	65187
+N	original message	65188
+N	After low pass filter	65189
+N	Message Signal	65190
+N	0xFF	65191
+N	abscissa	65192
+N	ordinate	65193
+N	𝐒𝐔𝐁𝐄𝐗𝐏	65194
+N	𝐃𝐓𝐈𝐌𝐄	65195
+N	SWR	65196
+N	subspace	65197
+N	()5x6	65198
+N	mode	65199
+N	REF	65200
+N	AVAR	65201
+N	amount of displacement	65202
+N	amount of inertia	65203
+N	Os	65204
+N	OsO	65205
+N	SMC	65206
+N	Tip	65207
+N	Root	65208
+N	incident intensity	65209
+N	number of particles scattered into solid angle d	65210
+N	per unit time	65211
+N	Slip	65212
+N	blade element efficiency	65213
+N	transmission efficiency	65214
+N	appendage coefficient	65215
+N	ABC	65216
+N	DEF	65217
+N	drop height	65218
+N	bounce height	65219
+N	mech	65220
+N	field	65221
+N	ṙ	65222
+N	zx	65223
+N	meets	65224
+N	gain	65225
+N	V/V	65226
+N	W/W	65227
+N	GHZ	65228
+N	NOON	65229
+N	BER	65230
+N	dBi	65231
+N	dBd	65232
+N	wrong	65233
+N	atom	65234
+N	is a sink	65235
+N	is a source	65236
+N	𝐸𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦	65237
+N	Nat	65238
+N	diff.	65239
+N	decay	65240
+N	(metal at low temperature)	65241
+N	is red	65242
+N	is black	65243
+N	ρ̂	65244
+N	X̂	65245
+N	Ŷ	65246
+N	Ĥ	65247
+N	N̂	65248
+N	Meas	65249
+N	mile	65250
+N	NOx	65251
+N	kgmol NOx	65252
+N	kg NOx	65253
+N	g NOx	65254
+N	Pa m	65255
+N	foot	65256
+N	which means	65257
+N	𝗓	65258
+N	𝖬	65259
+N	converges&comma;	65260
+N	finite&comma;	65261
+N	&lsqb;&rsqb;5x3	65262
+N	is a polynomial that has at least the roots	65263
+N	is the	65264
+N	th prime	65265
+N	reactants	65266
+N	products	65267
+N	Region	65268
+N	reflect	65269
+N	refract	65270
+N	Ubb	65271
+N	no atoms	65272
+N	Ge	65273
+N	Ubq	65274
+N	Ubs	65275
+N	Oe	65276
+N	PuF	65277
+N	UF	65278
+N	ThO	65279
+N	FSR	65280
+N	RefHi	65281
+N	RefLow	65282
+N	SQNR	65283
+N	is 0 or a noninteger	65284
+N	Peak-to-peak	65285
+N	𝐻𝑀𝐴𝐶	65286
+N	FIM	65287
+N	FIS	65288
+N	incremental capital output ratio	65289
+N	quadratic	65290
+N	are conjugate	65291
+N	≇	65292
+N	𝑖𝑖𝑑	65293
+N	safe	65294
+N	∥∥2x1	65295
+N	&lsqb;&rsqb;7x8	65296
+N	LED current	65297
+N	power supply voltage	65298
+N	LED voltage drop	65299
+N	)&comma;	65300
+N	Saybolt Furol viscosity	65301
+N	Saybolt universal viscosity	65302
+N	&lsqb;&rsqb;1x8	65303
+N	𝐒𝟒	65304
+N	𝐓𝐫𝐢𝐯	65305
+N	NExt	65306
+N	𝐈𝐏𝐂	65307
+N	𝐆𝐫𝐳	65308
+N	𝐂𝐏𝐂	65309
+N	azeq	65310
+N	Annualized	65311
+N	HPR	65312
+N	𝚗𝚊𝚖𝚎	65313
+N	𝚊𝚐𝚎	65314
+N	𝚒𝚗𝚌𝚘𝚖𝚎	65315
+N	-tuple	65316
+N	𝙰	65317
+N	20'000	65318
+N	𝙱	65319
+N	32'000	65320
+N	𝟹𝟺	65321
+N	𝟺𝟽	65322
+N	head loss	65323
+N	easi	65324
+N	-er	65325
+N	un-	65326
+N	physic(s)	65327
+N	-ist	65328
+N	Index Level	65329
+N	BP	65330
+N	Luminance difference	65331
+N	Average luminance	65332
+N	𝑖𝑑	65333
+N	ZOH	65334
+N	RL	65335
+N	NaCl	65336
+N	𝐝𝐒	65337
+N	Lintner	65338
+N	WK	65339
+N	REE	65340
+N	Overall Death Rate	65341
+N	Expected death rate	65342
+N	Disease-specific death rate	65343
+N	in some a	65344
+N	alignment a with	65345
+N	alignment a	65346
+N	Color Intensity	65347
+N	Bern	65348
+N	if&comma;	65349
+N	4x7	65350
+N	Borel	65351
+N	Prog	65352
+N	map	65353
+N	Rate of profit	65354
+N	Normal	65355
+N	amortized	65356
+N	black	65357
+N	shaft power in	65358
+N	propulsive power out	65359
+N	resistance torque	65360
+N	axial speed	65361
+N	TOTAL	65362
+N	non-pV	65363
+N	z-	65364
+N	RNaz	65365
+N	VII	65366
+N	3 parts	65367
+N	2 parts	65368
+N	Spindle speed (RPM)	65369
+N	stock diameter (in)	65370
+N	CFROI	65371
+N	Market Recapitalization	65372
+N	Cash Flow	65373
+N	Gross Investment	65374
+N	Gross Cash Flow	65375
+N	Economic Depreciation	65376
+N	FSL	65377
+N	MU	65378
+N	MG	65379
+N	BG	65380
+N	correction	65381
+N	()1x20	65382
+N	XeOF	65383
+N	XeO	65384
+N	for medium cities and suburban areas	65385
+N	for metropolitan areas	65386
+N	&lsqb;&rsqb;1x10	65387
+N	ig	65388
+N	Combined PAR	65389
+N	PAR	65390
+N	Square	65391
+N	Land	65392
+N	acres	65393
+N	Squares	65394
+N	Flatness	65395
+N	PP	65396
+N	deg C	65397
+N	calcite	65398
+N	seawater	65399
+N	paths starting at 0 with first derivative	65400
+N	STA	65401
+N	total cost	65402
+N	current total cost	65403
+N	past total cost	65404
+N	calc	65405
+N	VIII	65406
+N	IX	65407
+N	distance ratio	65408
+N	UT	65409
+N	𝑇𝑃𝑅	65410
+N	𝑇𝑃	65411
+N	𝐹𝑁	65412
+N	𝑆𝑃𝐶	65413
+N	𝑇𝑁	65414
+N	𝐹𝑃	65415
+N	𝑃𝑃𝑉	65416
+N	𝑁𝑃𝑉	65417
+N	𝐹𝑃𝑅	65418
+N	𝐹𝑁𝑅	65419
+N	𝐹𝐷𝑅	65420
+N	𝐴𝐶𝐶	65421
+N	F1	65422
+N	number of false negatives	65423
+N	number of false positives	65424
+N	kg/m	65425
+N	2x7	65426
+N	th position	65427
+N	Critical Damping Coefficient	65428
+N	Damping Coefficient	65429
+N	Equivalent mass&comma;	65430
+N	Equivalent stiffness&comma;	65431
+N	Equivalent force&comma;	65432
+N	𝕢	65433
+N	𝐑𝐏𝐀	65434
+N	𝐌𝐅𝐓	65435
+N	RPA	65436
+N	MFT	65437
+N	spins	65438
+N	neighbors	65439
+N	= 0	65440
+N	is a formula	65441
+N	MICEX10	65442
+N	arv	65443
+N	frs	65444
+N	Dih	65445
+N	Head	65446
+N	Tail	65447
+N	𝐽𝐶	65448
+N	𝑡ℎ	65449
+N	CAR	65450
+N	Risk weighted assets	65451
+N	Tier 1 capital + Tier 2 capital	65452
+N	a prime ideal	65453
+N	surjective and	65454
+N	Cyl	65455
+N	kpc	65456
+N	npmi	65457
+N	𝐄𝐄	65458
+N	Trail	65459
+N	ENOB	65460
+N	IG	65461
+N	unsat	65462
+N	is bounded and continuous&comma;	65463
+N	GLOW	65464
+N	TWN	65465
+N	𝓟	65466
+N	𝓛	65467
+N	voltage	65468
+N	()7x4	65469
+N	Resolution (lp/mm)	65470
+N	Group	65471
+N	element	65472
+N	Effort	65473
+N	Productivity	65474
+N	Process Productivity	65475
+N	lab	65476
+N	thr	65477
+N	@	65478
+N	kT	65479
+N	F0	65480
+N	has	65481
+N	by (1)	65482
+N	by modus ponens&comma;	65483
+N	Asset Turnover	65484
+N	Average Total Assets	65485
+N	Net Sales Revenue	65486
+N	ð	65487
+N	Inv-Gamma	65488
+N	Scale-inv-	65489
+N	Input Image	65490
+N	Output Image	65491
+N	&comma; corresponding to	65492
+N	Fold Equity	65493
+N	likelihood that opponent folds	65494
+N	gain in equity if opponent(s) fold	65495
+N	ironfly	65496
+N	butterfly strike price	65497
+N	butterfly	65498
+N	laea	65499
+N	is compact	65500
+N	paths starting at 0 with first derivative in	65501
+N	continuous paths starting at 0	65502
+N	is a letter	65503
+N	𝑊𝐸𝑅	65504
+N	𝑊𝐴𝑐𝑐	65505
+N	CS	65506
+N	energy converted per input energy	65507
+N	Prop	65508
+N	number of concordant pairs	65509
+N	number of discordant pairs	65510
+N	RT	65511
+N	any	65512
+N	observations	65513
+N	𝐗𝐂	65514
+N	𝐂𝐘	65515
+N	⊧̸	65516
+N	SINR	65517
+N	𝐏𝐂	65518
+N	𝐂𝐌𝐓	65519
+N	𝐒𝐌𝐈	65520
+N	𝕞	65521
+N	Unif	65522
+N	an integer;	65523
+N	not an integer;	65524
+N	mid	65525
+N	impl	65526
+N	c in knots	65527
+N	length in ft	65528
+N	length in m	65529
+N	acetate	65530
+N	SCN	65531
+N	guanidinium	65532
+N	is a function of	65533
+N	(translation)   and	65534
+N	(infinitesimal   rotation)	65535
+N	𝐐𝐅𝐐	65536
+N	↮	65537
+N	𝔔	65538
+N	&lsqb;&rsqb;12x12	65539
+N	elevation	65540
+N	reflected	65541
+N	incident	65542
+N	star&comma; r	65543
+N	sun&comma; r	65544
+N	obs&comma; r	65545
+N	𝐯𝐞𝐜	65546
+N	then:	65547
+N	is a positive integer	65548
+N	is a positive integer&comma; and if	65549
+N	is even&comma; then	65550
+N	For	65551
+N	for any real	65552
+N	ana	65553
+N	fin	65554
+N	𝐇𝐖𝐬	65555
+N	HFC	65556
+N	ge	65557
+N	mpg	65558
+N	player	65559
+N	the original roll (called ’the point’) is rolled (a win)	65560
+N	a 7 is rolled (a loss)	65561
+N	rolls are ties&comma;	65562
+N	roll is ’the point’	65563
+N	continuous	65564
+N	density	65565
+N	torsion	65566
+N	hyd	65567
+N	TB	65568
+N	𝖭𝖤𝖷𝖯	65569
+N	𝖠𝖢𝖢	65570
+N	TIME	65571
+N	𝐌𝐚𝐱	65572
+N	𝐌𝐢𝐧	65573
+N	Rayl	65574
+N	MKS	65575
+N	CGS	65576
+N	dyn	65577
+N	ba	65578
+N	are in the same partition	65579
+N	kft	65580
+N	at rate	65581
+N	&comma; frequency	65582
+N	light	65583
+N	transition	65584
+N	COO	65585
+N	{}3x5	65586
+N	solv	65587
+N	with solutions	65588
+N	Fun	65589
+N	Gpc	65590
+N	FOH	65591
+N	sun	65592
+N	STRUC	65593
+N	NHCl	65594
+N	is an orthonormal set of common eigenvectors for	65595
+N	𝑓𝑎𝑙𝑠𝑒	65596
+N	𝑡𝑟𝑢𝑒	65597
+N	Tan	65598
+N	Specific Energy	65599
+N	Specific Power	65600
+N	irr	65601
+N	Torsion	65602
+N	Link	65603
+N	p1	65604
+N	p2	65605
+N	word	65606
+N	stem	65607
+N	ending	65608
+N	suffix	65609
+N	row	65610
+N	stitch	65611
+N	gauge	65612
+N	longitude	65613
+N	𝐁𝐮	65614
+N	𝐄𝐟	65615
+N	𝐅𝐟	65616
+N	𝐁𝐊	65617
+N	lower strike price	65618
+N	upper strike price	65619
+N	net credit per share	65620
+N	number of shares per options contract	65621
+N	Maximum Profit	65622
+N	Maximum Profit (upside)	65623
+N	Maximum Loss	65624
+N	arithmetic mean	65625
+N	has no primitive prime divisors	65626
+N	vert	65627
+N	argmaxminlocal	65628
+N	argmaxlocal	65629
+N	SA:V	65630
+N	is a cubic residue	65631
+N	is a cubic nonresidue	65632
+N	pixels	65633
+N	bpp	65634
+N	byte	65635
+N	megabytes	65636
+N	DTC	65637
+N	non-halting	65638
+N	rej	65639
+N	(left unit)	65640
+N	(right unit)	65641
+N	(left counit)	65642
+N	(right counit)	65643
+N	inertia	65644
+N	surface tension	65645
+N	Bond Order	65646
+N	No. of electrons in bonding MOs	65647
+N	No. of electrons in anti-bonding MOs	65648
+N	GHASH	65649
+N	∥)1x1	65650
+N	len	65651
+N	Compton	65652
+N	proj	65653
+N	LMI	65654
+N	but	65655
+N	∝̸	65656
+N	𝐂𝐥𝐚𝐬𝐬	65657
+N	𝐒𝐡𝐚𝐩𝐞	65658
+N	𝐂𝐨𝐥𝐨𝐫	65659
+N	𝐒𝐢𝐳𝐞	65660
+N	positive definite	65661
+N	lpf	65662
+N	bpf	65663
+N	savart	65664
+N	cent	65665
+N	millioctave	65666
+N	Nov	65667
+N	DFFITS	65668
+N	𝖡𝖺	65669
+N	𝖪	65670
+N	𝖢𝗋𝖮	65671
+N	𝟦	65672
+N	𝖡𝖺𝖢𝗋𝖮	65673
+N	𝖪𝖮𝖧	65674
+N	𝖡	65675
+N	𝗋	65676
+N	𝖭𝖺𝖭	65677
+N	ϰ	65678
+N	||3x2	65679
+N	if the lines are parallel	65680
+N	Downloaded    Total	65681
+N	Uploaded    Total	65682
+N	small blind	65683
+N	stack	65684
+N	big blind	65685
+N	total antes	65686
+N	Players	65687
+N	Effective	65688
+N	ern	65689
+N	reduction ratio	65690
+N	flex spline teeth	65691
+N	circular spline teeth	65692
+N	sleeps	65693
+N	is a boy	65694
+N	8x3	65695
+N	SdH	65696
+N	ȷ	65697
+N	defining	65698
+N	viscous force	65699
+N	transient inertial force	65700
+N	Had	65701
+N	pHad	65702
+N	()3x4	65703
+N	&lsqb;&rsqb;3x8	65704
+N	products.	65705
+N	A + B	65706
+N	Sex	65707
+N	Race	65708
+N	ParentsEduc	65709
+N	er	65710
+N	colog	65711
+N	𝗋𝖺𝗇𝗄	65712
+N	represented in the encode space	65713
+N	GAED	65714
+N	STAV	65715
+N	LIV	65716
+N	for some open	65717
+N	𝐹𝑊𝐸𝑅	65718
+N	𝑃𝑟	65719
+N	is a selection of	65720
+N	M-lim	65721
+N	⊴	65722
+N	MnO	65723
+N	MnCl	65724
+N	5x10	65725
+N	(ignoring	65726
+N	lower order terms	65727
+N	dr	65728
+N	𝑑𝑟	65729
+N	10x2	65730
+N	MTL1	65731
+N	MTL2	65732
+N	MTL3	65733
+N	MTL4a	65734
+N	MTL4b	65735
+N	MTL4c	65736
+N	MTL5a	65737
+N	MTL5b	65738
+N	MTL6	65739
+N	MTL7	65740
+N	BSA	65741
+N	predictable	65742
+N	𝑃𝑒	65743
+N	Erlang	65744
+N	reactant	65745
+N	kg m/s	65746
+N	&lsqb;&rsqb;2x5	65747
+N	evanescent or trapped	65748
+N	propagating	65749
+N	Lamb waves (free solutions)	65750
+N	an uncertain state&comma; with true value in space	65751
+N	an observed sample composed of	65752
+N	the utility of selecting decision	65753
+N	the conditional prior probability of observing the sample	65754
+N	bicycle	65755
+N	motorcycle	65756
+N	𝑟𝑖	65757
+N	𝑤𝑖	65758
+N	𝑤𝑖𝑟	65759
+N	𝑤𝑟	65760
+N	𝑤𝑐	65761
+N	𝑜𝑟𝑤	65762
+N	𝑤𝑛	65763
+N	𝑟𝑜𝑤	65764
+N	𝑟𝑤	65765
+N	Ins	65766
+N	Del	65767
+N	such	65768
+N	that	65769
+N	cycl.	65770
+N	rk	65771
+N	ê	65772
+N	CKM	65773
+N	PMNS	65774
+N	BMR	65775
+N	TEE/24h	65776
+N	fnchypg	65777
+N	mfnchypg	65778
+N	hypg	65779
+N	atoms	65780
+N	PM	65781
+N	BV	65782
+N	GW	65783
+N	𝑃𝑜𝑠𝑖𝑡𝑖𝑣𝑒𝑠	65784
+N	𝑝𝑟𝑒𝑐𝑖𝑠𝑖𝑜𝑛	65785
+N	𝐶𝑜𝑟𝑟𝑒𝑐𝑡𝑠	65786
+N	𝑁𝑒𝑔𝑎𝑡𝑖𝑣𝑒𝑠	65787
+N	𝐴𝑐𝑐	65788
+N	Setup	65789
+N	Prove	65790
+N	Verify	65791
+N	between	65792
+N	inner	65793
+N	crossover	65794
+N	outer	65795
+N	RA	65796
+N	lgRA	65797
+N	NW	65798
+N	NWScore	65799
+N	Score	65800
+N	PartitionY	65801
+N	ymid	65802
+N	AGTACGCA	65803
+N	TATGC	65804
+N	Hirschberg	65805
+N	AGTA	65806
+N	CGCA	65807
+N	TA	65808
+N	TGC	65809
+N	indirect	65810
+N	Specht	65811
+N	𝐔𝐕	65812
+N	𝐔𝐖𝐕	65813
+N	𝐔𝐧𝐢𝐭	65814
+N	𝐕𝐚𝐥𝐮𝐞	65815
+N	𝐍𝐮𝐦𝐛𝐞𝐫	65816
+N	𝐌𝐚𝐫𝐤𝐞𝐭	65817
+N	𝐨𝐟	65818
+N	𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭𝐬	65819
+N	𝐎𝐭𝐡𝐞𝐫	65820
+N	𝐀𝐬𝐬𝐞𝐭𝐬	65821
+N	𝐈𝐧𝐜𝐨𝐦𝐞	65822
+N	𝐋𝐢𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬	65823
+N	𝐄𝐱𝐩𝐞𝐧𝐬𝐞𝐬	65824
+N	𝐀𝐥𝐥𝐨𝐜𝐚𝐭𝐞𝐝	65825
+N	𝐔𝐧𝐢𝐭𝐬	65826
+N	WAL	65827
+N	GPD	65828
+N	𝐯𝐅𝐰	65829
+N	dpt	65830
+N	CINT	65831
+N	CR	65832
+N	Overtime Rate	65833
+N	Overtime Hours	65834
+N	Regular Hours (defined)	65835
+N	number of connected triples	65836
+N	number of triangles	65837
+N	{}3x3	65838
+N	{}2x3	65839
+N	with uniquely	65840
+N	for background	65841
+N	for foreground/object to be detected	65842
+N	coherence	65843
+N	cycle	65844
+N	|∥1x1	65845
+N	Financial result	65846
+N	Interest income	65847
+N	Interest expense	65848
+N	Write-downs/write-ups for financial assets	65849
+N	Write-downs/write-ups for marketable securities	65850
+N	Other financial income and expenses	65851
+N	for all values of	65852
+N	10x1	65853
+N	IDF	65854
+N	avgdl	65855
+N	RP	65856
+N	pfp	65857
+N	Load Regulation	65858
+N	in a weak magnetic field	65859
+N	in a strong magnetic field	65860
+N	pNnm	65861
+N	HS	65862
+N	Ergo	65863
+N	etc	65864
+N	𝐷𝑒	65865
+N	Nakagami	65866
+N	proof	65867
+N	dleq	65868
+N	𝐓𝐎	65869
+N	annual	65870
+N	CAGR	65871
+N	AR	65872
+N	and hence	65873
+N	Bob	65874
+N	Alice	65875
+N	𝐦𝐢	65876
+N	𝐨𝐢	65877
+N	𝐬𝐢	65878
+N	𝐝𝐢	65879
+N	𝐟𝐢	65880
+N	newspaper	65881
+N	dinner	65882
+N	bed	65883
+N	𝑠	65884
+N	𝑟	65885
+N	𝐑𝐞𝐠𝐂𝐚𝐭	65886
+N	Slope	65887
+N	comparison	65888
+N	𝐔𝐁	65889
+N	𝐁𝐕𝐀	65890
+N	𝐔𝐁𝐕	65891
+N	𝐕𝐀	65892
+N	𝐔𝐁𝐕𝐀	65893
+N	𝐁𝐀	65894
+N	𝐂𝐃	65895
+N	𝐕𝐔	65896
+N	NormalGamma	65897
+N	PWI	65898
+N	measured value	65899
+N	average limits	65900
+N	5x13	65901
+N	CTE	65902
+N	(M)	65903
+N	min.	65904
+N	GM	65905
+N	&lsqb;&rsqb;1x18	65906
+N	𝟐𝐧	65907
+N	&lsqb;&rsqb;1x13	65908
+N	0.5	65909
+N	4(4n-1)	65910
+N	4n+1	65911
+N	LIF	65912
+N	LT	65913
+N	perp	65914
+N	ber	65915
+N	kei	65916
+N	bei	65917
+N	(ellipse)	65918
+N	(hyperbola)	65919
+N	miss a specific min-cut	65920
+N	miss any min-cut	65921
+N	Bottom	65922
+N	Anchor	65923
+N	all piecewise	65924
+N	curves	65925
+N	B3LYP	65926
+N	GGA	65927
+N	PBE0	65928
+N	PBE	65929
+N	PBEh	65930
+N	constant term of	65931
+N	OO	65932
+N	Aircraft Surf.	65933
+N	Far Surf.	65934
+N	far-field	65935
+N	near-field	65936
+N	&comma; and where	65937
+N	number of	65938
+N	’s with the value	65939
+N	DirMult	65940
+N	some distribution	65941
+N	Dirichlet	65942
+N	Categorical	65943
+N	some other distribution	65944
+N	A Dirichlet hyperprior&comma; either a constant or a random variable	65945
+N	number of words having value	65946
+N	among topic	65947
+N	excluding	65948
+N	number of topics having value	65949
+N	among document	65950
+N	number of words generated by topic	65951
+N	among documents with label	65952
+N	PN	65953
+N	(wrong	65954
+N	Relative change	65955
+N	Actual change	65956
+N	Relative difference	65957
+N	Absolute difference	65958
+N	Experimental	65959
+N	Theoretical	65960
+N	Percentage change	65961
+N	Percentage change when	65962
+N	precisely when	65963
+N	(or an even integer if	65964
+N	MCC	65965
+N	Labor Productivity (output per hour)	65966
+N	Labor  Inputs	65967
+N	Multifactor Productivity	65968
+N	linear non dispersive	65969
+N	linear dispersive	65970
+N	non linear	65971
+N	MER	65972
+N	𝐼𝑅	65973
+N	𝑈𝑉	65974
+N	IR	65975
+N	UV	65976
+N	sb.t.	65977
+N	network	65978
+N	receive	65979
+N	send	65980
+N	L3D	65981
+N	arccsc	65982
+N	Current filter size	65983
+N	Base Filter Size	65984
+N	Base Filter Scale	65985
+N	Dir	65986
+N	Cotor	65987
+N	mGal	65988
+N	Average point differential	65989
+N	Total games played	65990
+N	Total points for	65991
+N	Total points against	65992
+N	EIRP	65993
+N	Berry phase	65994
+N	(E)	65995
+N	(H1)	65996
+N	(H2)	65997
+N	(H3)	65998
+N	(A)	65999
+N	some	66000
+N	gale	66001
+N	succeeds	66002
+N	strongly	66003
+N	elements	66004
+N	Hausdorff	66005
+N	dimension	66006
+N	packing	66007
+N	is Pareto optimal	66008
+N	s.t	66009
+N	utopian	66010
+N	nad	66011
+N	utopia	66012
+N	MXM	66013
+N	TI	66014
+N	is a positive-definite	66015
+N	primes	66016
+N	≁	66017
+N	Sha	66018
+N	if otherwise	66019
+N	Net	66020
+N	Gross	66021
+N	Customer	66022
+N	Returns	66023
+N	Discounts	66024
+N	Allowances	66025
+N	̸	66026
+N	𝐊𝐪	66027
+N	Max	66028
+N	Maximum system load	66029
+N	Diversified Load	66030
+N	𝐅𝐋	66031
+N	𝐆𝐅𝐋	66032
+N	col	66033
+N	𝐋𝐐	66034
+N	𝐅𝐬	66035
+N	𝐁𝐝	66036
+N	𝐃𝐝	66037
+N	CF	66038
+N	(where	66039
+N	𝐠𝐥	66040
+N	𝐬𝐩	66041
+N	𝐬𝐥	66042
+N	is undefined&comma; as is	66043
+N	Bilinear symmetric form in (pseudo-)orthonormal basis:	66044
+N	𝐚𝐮𝐭	66045
+N	(by definition)	66046
+N	(De Morgan’s laws)	66047
+N	(Absorption law)	66048
+N	𝝊	66049
+N	lc	66050
+N	rem	66051
+N	()5x8	66052
+N	primpart	66053
+N	prem2	66054
+N	CuO	66055
+N	Wind speed	66056
+N	Tip speed of blade	66057
+N	Men	66058
+N	BA	66059
+N	1st	66060
+N	2nd	66061
+N	Coke	66062
+N	Pepsi	66063
+N	𝐖𝐫	66064
+N	𝐖𝐉	66065
+N	𝐖𝐲	66066
+N	𝐨𝐛𝐬	66067
+N	Aortic Valve Area (cm	66068
+N	Aortic Valve VTI	66069
+N	LVOT diameter	66070
+N	LVOT VTI	66071
+N	Valve Area (cm	66072
+N	Heart rate	66073
+N	Cardiac Output	66074
+N	ml	66075
+N	Systolic ejection period (s)	66076
+N	mean Gradient (mmHg)	66077
+N	beats	66078
+N	Aortic Valve Area	66079
+N	heart rate (bpm)	66080
+N	systolic ejection period (s)	66081
+N	Aortic Valve area (cm	66082
+N	Peak to Peak Gradient (mmHg)	66083
+N	Aortic valve area	66084
+N	(0.83	66085
+N	0.35	66086
+N	60	66087
+N	Q (	66088
+N	0.87	66089
+N	mean Gradient (dynes/cm2)	66090
+N	13440 (	66091
+N	22665 (dynes/cm2)	66092
+N	fit	66093
+N	&lsqb;&rsqb;1x9	66094
+N	Act	66095
+N	𝐷𝐿𝑅	66096
+N	𝑑𝑖𝑠𝑝𝑙𝑎𝑐𝑒𝑚𝑒𝑛𝑡	66097
+N	𝐿𝑊𝐿	66098
+N	demand	66099
+N	price	66100
+N	Rebound Rate	66101
+N	Minutes Played	66102
+N	Rebounds	66103
+N	Team Minutes Played	66104
+N	Team Total Rebounds	66105
+N	Opposing Team Total Rebounds	66106
+N	Offensive Rebound Rate	66107
+N	Offensive Rebounds	66108
+N	Team Offensive Rebounds	66109
+N	Opposing Team Defensive Rebounds	66110
+N	Defensive Rebound Rate	66111
+N	Defensive Rebounds	66112
+N	Team Defensive Rebounds	66113
+N	Opposing Team Offensive Rebounds	66114
+N	fiss	66115
+N	qp	66116
+N	IH	66117
+N	&lsqb;&rsqb;7x2	66118
+N	yards of linen	66119
+N	coat	66120
+N	lb. of tea	66121
+N	lb. of coffee	66122
+N	quarter of corn	66123
+N	ounces of gold	66124
+N	ton of iron	66125
+N	commodity A&comma; etc.	66126
+N	Fin	66127
+N	relint	66128
+N	aff	66129
+N	VaR	66130
+N	DPH	66131
+N	𝐏𝐣	66132
+N	Total spatial	66133
+N	variation of	66134
+N	x&comma;y mass fluxes	66135
+N	Change	66136
+N	in mass	66137
+N	over time	66138
+N	Driving	66139
+N	force in	66140
+N	x-direction	66141
+N	Dissipative basal	66142
+N	friction force	66143
+N	in x-direction	66144
+N	Dissipative internal	66145
+N	Total spatial variation	66146
+N	of x&comma;y momentum fluxes	66147
+N	Change in	66148
+N	x mass flux	66149
+N	y-direction	66150
+N	in y-direction	66151
+N	y mass flux	66152
+N	slit	66153
+N	MOS	66154
+N	PDiff	66155
+N	↣	66156
+N	(P1)	66157
+N	(P2)	66158
+N	-a.s.&comma; for all	66159
+N	2-EXPTIME	66160
+N	expi	66161
+N	Perf	66162
+N	Mut	66163
+N	Alph	66164
+N	the empty string	66165
+N	Pref	66166
+N	is a regular value of	66167
+N	BOP	66168
+N	current account	66169
+N	capital account	66170
+N	balancing item	66171
+N	Change in foreign ownership of domestic assets	66172
+N	is integrally closed	66173
+N	𝐻𝑧	66174
+N	Runtime	66175
+N	Program	66176
+N	Instructions	66177
+N	Instruction	66178
+N	Cycles	66179
+N	Cycle	66180
+N	mW	66181
+N	Illness rate	66182
+N	Illness-related Absence Times in Days	66183
+N	Planned Working Times in Days	66184
+N	&lsqb;&rsqb;1x35	66185
+N	𝜏	66186
+N	Hermitian	66187
+N	conjugate	66188
+N	w.r.t.	66189
+N	Profitability index	66190
+N	Initial investment	66191
+N	PV of future cash flows	66192
+N	spherical	66193
+N	centrifugal	66194
+N	AER	66195
+N	Equivalent	66196
+N	𝑥𝑎	66197
+N	InP	66198
+N	InAs	66199
+N	𝑥𝐸	66200
+N	InPAs	66201
+N	𝑏𝑥	66202
+N	MAE	66203
+N	(L)	66204
+N	𝐏𝐛	66205
+N	ARFCN	66206
+N	similarity	66207
+N	soft	66208
+N	cosine	66209
+N	VRR	66210
+N	SS	66211
+N	SW	66212
+N	Protocol overhead	66213
+N	Packet size	66214
+N	Payload size	66215
+N	Protocol efficiency	66216
+N	Net bit rate	66217
+N	Channel utilization	66218
+N	Total time	66219
+N	Time spent transmitting data	66220
+N	Boolean	66221
+N	factorial	66222
+N	Å	66223
+N	event	66224
+N	-ful	66225
+N	ed	66226
+N	ned	66227
+N	Jy	66228
+N	erg cm	66229
+N	HQC	66230
+N	cutoff	66231
+N	pixel	66232
+N	objective	66233
+N	photoreceptor	66234
+N	microlens	66235
+N	𝑓𝑓	66236
+N	𝖢𝖯𝗈𝗂𝗇𝗍	66237
+N	≍	66238
+N	hkl	66239
+N	best	66240
+N	upper	66241
+N	lower	66242
+N	interpolated	66243
+N	Prime	66244
+N	𝐭𝟏	66245
+N	𝐭𝟐	66246
+N	slow	66247
+N	fast	66248
+N	has a	66249
+N	𝐳𝐞𝐫𝐨	66250
+N	𝐯𝐞𝐜𝐭𝐨𝐫	66251
+N	such that for every	66252
+N	For every	66253
+N	&comma; there is a vector in	66254
+N	denoted by	66255
+N	is any scalar&comma; then	66256
+N	&comma; then the following statements are equivalent:	66257
+N	is invertible.	66258
+N	has a unique solution for every	66259
+N	column matrix	66260
+N	has only the trivial solution.	66261
+N	is row-equivalent to	66262
+N	can be written as the product of elementary matrices.	66263
+N	number of columns.	66264
+N	nul	66265
+N	All of the	66266
+N	-row vectors of	66267
+N	are linearly independent.	66268
+N	-column vectors of	66269
+N	ucp-	66270
+N	sphere	66271
+N	MRR	66272
+N	FVU	66273
+N	9x18	66274
+N	Associativity of	66275
+N	Idempotence of	66276
+N	baseline	66277
+N	altitude	66278
+N	Kernel	66279
+N	chip rate	66280
+N	Expected	66281
+N	orthogonal	66282
+N	squared	66283
+N	independence	66284
+N	𝖼𝖺𝗉	66285
+N	𝖯𝗋𝗈𝖻	66286
+N	𝗌	66287
+N	𝖽	66288
+N	for almost all	66289
+N	J/kg	66290
+N	𝐆𝐩	66291
+N	()7x1	66292
+N	𝐇𝐫	66293
+N	𝐇𝐞	66294
+N	corrected	66295
+N	down	66296
+N	stick	66297
+N	𝐕𝐰	66298
+N	post	66299
+N	DIBL	66300
+N	is a maximal submodule of M	66301
+N	is a superfluous submodule of M	66302
+N	Len	66303
+N	wnchypg	66304
+N	mwnchypg	66305
+N	is holomorphic	66306
+N	Percent weight of the solid phase	66307
+N	Percent weight of the liquid phase	66308
+N	𝐌𝐁	66309
+N	harm	66310
+N	𝐇𝐝	66311
+N	𝐇𝐁	66312
+N	𝐇𝐂	66313
+N	𝐌𝐂	66314
+N	MV	66315
+N	Τ	66316
+N	Κ	66317
+N	ϛ	66318
+N	combined	66319
+N	recombination	66320
+N	crossovers	66321
+N	linkage of	66322
+N	cM	66323
+N	est	66324
+N	W-MMSE	66325
+N	ZF	66326
+N	uplink	66327
+N	MMSE	66328
+N	Tc	66329
+N	Ru	66330
+N	𝖢𝗈	66331
+N	𝖭	66332
+N	𝖭𝖮	66333
+N	𝖢𝗈𝖮	66334
+N	𝖢𝗈𝖢𝖮	66335
+N	Payment	66336
+N	Player 1 wins	66337
+N	Player 1 loses	66338
+N	is the unique quadratic function satisfying	66339
+N	Norm	66340
+N	Disc	66341
+N	preperiodic	66342
+N	≩	66343
+N	≨	66344
+N	Area of inellipse	66345
+N	Area of triangle	66346
+N	Morse	66347
+N	Func	66348
+N	𝐇𝐌	66349
+N	Prob(radius	66350
+N	NN	66351
+N	RMSD	66352
+N	NRMSD	66353
+N	CV	66354
+N	RMSE	66355
+N	Desirable Weight	66356
+N	Actual Weight	66357
+N	concentration hyperparameter	66358
+N	Cat	66359
+N	number of occurrences of category	66360
+N	jackknife	66361
+N	support	66362
+N	Inertia	66363
+N	Convective	66364
+N	Unsteady	66365
+N	𝐀𝐁𝐀𝐁𝐁	66366
+N	infinitely near	66367
+N	infinitely near points	66368
+N	tr.deg.	66369
+N	LiBH	66370
+N	BO	66371
+N	dioxane	66372
+N	Pd	66373
+N	initiations	66374
+N	RSH	66375
+N	smoke	66376
+N	ashtray	66377
+N	𝑐	66378
+N	𝐊𝐱	66379
+N	ExpectedLoss	66380
+N	iono	66381
+N	TEC	66382
+N	non-wetting phase	66383
+N	wetting phase	66384
+N	wetting phase.	66385
+N	new block	66386
+N	(U)	66387
+N	𝐞𝐦𝐩	66388
+N	𝗆𝗈𝖽	66389
+N	𝖿𝗏	66390
+N	negative since we assumed	66391
+N	was concave in	66392
+N	Person	66393
+N	chooses alternative	66394
+N	0 1 1	66395
+N	1 1 2	66396
+N	-1 2 1	66397
+N	1 0 -1	66398
+N	1 1 -2	66399
+N	2 -1 -1	66400
+N	1 1 0	66401
+N	Elapsed days (inclusive of last prescription)	66402
+N	All days supply	66403
+N	Sibling	66404
+N	Patient	66405
+N	No tonsillectomy	66406
+N	Tonsillectomy	66407
+N	Mesh 1:	66408
+N	Mesh 2:	66409
+N	Mesh 3:	66410
+N	Mesh 1&comma; 2:	66411
+N	Current source:	66412
+N	Dependent variable:	66413
+N	engine	66414
+N	𝜔	66415
+N	wheel	66416
+N	tachometer	66417
+N	motor	66418
+N	strong bond	66419
+N	is rational&comma;	66420
+N	in lowest terms and	66421
+N	is irrational.	66422
+N	is rational and	66423
+N	is minimal so that	66424
+N	is irrational and	66425
+N	𝐌𝐒𝐄	66426
+N	𝐀𝐮	66427
+N	OTF	66428
+N	PhTF	66429
+N	𝑂𝑇𝐹	66430
+N	LSF	66431
+N	ESF	66432
+N	Crd	66433
+N	estimate	66434
+N	𝐇𝐩	66435
+N	𝐇𝐏	66436
+N	𝐘𝐏	66437
+N	LS-estimate	66438
+N	MMSE-estimate	66439
+N	argminmaxlocal	66440
+N	binding	66441
+N	af	66442
+N	≉	66443
+N	𝐒𝐯	66444
+N	capacitance	66445
+N	spatial	66446
+N	SOR	66447
+N	there is a cycle of length	66448
+N	||5x9	66449
+N	(WW&comma; WB&comma; BW&comma; BB)	66450
+N	newMin	66451
+N	newMax	66452
+N	ar	66453
+N	softmax	66454
+N	𝐌𝐚	66455
+N	APF	66456
+N	unitcell	66457
+N	crystal	66458
+N	2-dimensional subspace of	66459
+N	latt	66460
+N	∥∥3x3	66461
+N	∥∥1x3	66462
+N	oscillation	66463
+N	exch	66464
+N	anis	66465
+N	demag	66466
+N	m-e	66467
+N	gravity	66468
+N	centers	66469
+N	𝐐𝐮	66470
+N	𝐆𝐔	66471
+N	𝐑𝐏	66472
+N	&lsqb;p + b&rsqb;	66473
+N	&lsqb;b&rsqb;	66474
+N	or just	66475
+N	⇇	66476
+N	i2	66477
+N	prf	66478
+N	RIT	66479
+N	psia	66480
+N	rotorexit	66481
+N	rotorbleed	66482
+N	rotorentry	66483
+N	turb	66484
+N	dcalc	66485
+N	turbcor	66486
+N	odd&comma;	66487
+N	Z-factor	66488
+N	Estimated Z-factor	66489
+N	eval left	66490
+N	eval right	66491
+N	SN	66492
+N	km s	66493
+N	equation 1	66494
+N	equation 2	66495
+N	𝐁𝐨𝐫𝐝	66496
+N	𝐤𝐕𝐞𝐜𝐭	66497
+N	total number of customers served	66498
+N	sum of all customer interruption durations	66499
+N	OPT	66500
+N	Lk	66501
+N	SAIFI	66502
+N	total number of customer interruptions	66503
+N	𝑏	66504
+N	Xb	66505
+N	p-lim	66506
+N	xz	66507
+N	yy	66508
+N	yz	66509
+N	zy	66510
+N	zz	66511
+N	yx	66512
+N	amg	66513
+N	is arbitrary	66514
+N	is stationary for	66515
+N	neighboring bonds	66516
+N	Culture volume	66517
+N	Medium flow rate	66518
+N	S.I.	66519
+N	c.g.s.	66520
+N	a.	66521
+N	b.	66522
+N	B.	66523
+N	RSS	66524
+N	regression	66525
+N	alias	66526
+N	𝐅𝐂	66527
+N	𝐒𝐂	66528
+N	External Memory Fragmentation	66529
+N	Total Free Memory	66530
+N	Largest Block Of Free Memory	66531
+N	HOMA	66532
+N	𝐀𝐞	66533
+N	blanc	66534
+N	DALY	66535
+N	YLL	66536
+N	YLD	66537
+N	poor	66538
+N	poor or fair	66539
+N	poor&comma; fair&comma; or good	66540
+N	poor&comma; fair&comma; good&comma; or very good	66541
+N	Seq	66542
+N	is measurable subset of	66543
+N	is measurable	66544
+N	𝖱𝖢𝖠	66545
+N	𝖶𝖪𝖫	66546
+N	𝖠𝖢𝖠	66547
+N	𝖠𝖳𝖱	66548
+N	RFN	66549
+N	Prov	66550
+N	⌜	66551
+N	⌝	66552
+N	which	66553
+N	interparticle	66554
+N	⅓	66555
+N	₂	66556
+N	GEN	66557
+N	KILL	66558
+N	LIVE	66559
+N	Minority	66560
+N	EtOH	66561
+N	beer	66562
+N	Rn	66563
+N	Tl	66564
+N	cond	66565
+N	Inventory Turnover	66566
+N	Average Inventory	66567
+N	Cost of Goods Sold	66568
+N	Inventories	66569
+N	Cost of Material − Change in inventories (of 1/2 and 1/1 goods)	66570
+N	Beginning inventory+Ending inventory	66571
+N	Inventory Turn	66572
+N	Average Number of Units (For the period)	66573
+N	Number of Units Sold (Over a given period)	66574
+N	Tx	66575
+N	Rx	66576
+N	bwd	66577
+N	fwd	66578
+N	maximum	66579
+N	TE	66580
+N	mnp	66581
+N	TM	66582
+N	𝑧𝑒𝑟𝑜	66583
+N	𝑠𝑢𝑐𝑐	66584
+N	𝐿𝑖𝑠𝑡	66585
+N	𝑛𝑖𝑙	66586
+N	𝑐𝑜𝑛𝑠	66587
+N	𝑇𝑟𝑒𝑒	66588
+N	𝑡𝑖𝑝	66589
+N	𝑗𝑜𝑖𝑛	66590
+N	angle correction	66591
+N	bullet drop	66592
+N	(minutes of angle)	66593
+N	RAO	66594
+N	Hillcoefficient	66595
+N	𝐪𝐫	66596
+N	𝐪𝐑	66597
+N	all even or all odd	66598
+N	mixed parity	66599
+N	Copper Loss	66600
+N	damping ratio	66601
+N	tolerance fraction	66602
+N	natural freq	66603
+N	ConFm	66604
+N	Work	66605
+N	2Wd	66606
+N	mgh	66607
+N	/s	66608
+N	erg/s	66609
+N	cm/s	66610
+N	obj	66611
+N	Scherzer	66612
+N	Gabor	66613
+N	Lichte	66614
+N	prot	66615
+N	HbA1c	66616
+N	Fructosamine	66617
+N	strong	66618
+N	compact and measurable	66619
+N	open and measurable	66620
+N	Koch	66621
+N	Peano	66622
+N	gaul	66623
+N	atkinson	66624
+N	atkinsons	66625
+N	trig	66626
+N	elevation in feet	66627
+N	elevation in metres	66628
+N	IMG	66629
+N	charges	66630
+N	𝐝𝐄	66631
+N	Standard Time	66632
+N	Observed Time	66633
+N	Rating Factor	66634
+N	PFD Allowance	66635
+N	𝑀𝐹	66636
+N	number of ways N can be written as a sum of three primes	66637
+N	JSD	66638
+N	QJSD	66639
+N	𝔍	66640
+N	ml/min	66641
+N	mOsm/L	66642
+N	-times	66643
+N	Alt	66644
+N	alldifferent	66645
+N	𝐆𝐫𝐩	66646
+N	run rate	66647
+N	total overs faced	66648
+N	total runs scored	66649
+N	net run rate	66650
+N	total overs bowled	66651
+N	total runs conceded	66652
+N	tournament net run rate	66653
+N	total overs faced in all matches	66654
+N	total runs scored in all matches	66655
+N	total overs bowled in all matches	66656
+N	total runs conceded in all matches	66657
+N	254	66658
+N	50	66659
+N	253	66660
+N	47.333	66661
+N	254 + 199	66662
+N	50 + 50	66663
+N	253 + 110	66664
+N	47.333 + 50	66665
+N	97.333	66666
+N	199	66667
+N	100	66668
+N	110	66669
+N	254 + 199 + 225	66670
+N	50 + 50 + 50	66671
+N	253 + 110 + 103	66672
+N	47.333 + 50 + 50	66673
+N	147.333	66674
+N	225	66675
+N	150	66676
+N	103	66677
+N	DD	66678
+N	ROOH	66679
+N	RO	66680
+N	ROH	66681
+N	ROO	66682
+N	QO	66683
+N	OOH	66684
+N	prop	66685
+N	retr	66686
+N	POVM	66687
+N	inconcl	66688
+N	𝐂𝐚𝐭	66689
+N	MW·h	66690
+N	hours/day	66691
+N	millimeter	66692
+N	𝓇	66693
+N	UNSAT	66694
+N	𝑜𝑛	66695
+N	𝑜𝑓𝑓	66696
+N	𝑆𝑌𝑁𝐶𝑆𝑊	66697
+N	𝑆𝑊𝐼𝑇𝐶𝐻	66698
+N	𝐷𝐶𝑅	66699
+N	𝑙𝑒𝑎𝑘𝑎𝑔𝑒	66700
+N	𝑟𝑖𝑠𝑒	66701
+N	𝑓𝑎𝑙𝑙	66702
+N	𝑆𝑊	66703
+N	𝑛𝑜	66704
+N	𝐵𝑂𝐷𝑌𝐷𝐼𝑂𝐷𝐸	66705
+N	𝐺𝑆	66706
+N	𝐺𝐴𝑇𝐸𝐷𝑅𝐼𝑉𝐸	66707
+N	indicated	66708
+N	-FWER	66709
+N	-FDR	66710
+N	KDF	66711
+N	GH	66712
+N	NDVI	66713
+N	NIR	66714
+N	VIS	66715
+N	if congestion is not detected	66716
+N	if congestion is detected	66717
+N	FisherZ	66718
+N	𝐝𝐢𝐚𝐠	66719
+N	9x2	66720
+N	fact	66721
+N	hanoi	66722
+N	Transformity	66723
+N	energy output	66724
+N	emergy input	66725
+N	exergy output	66726
+N	2x11	66727
+N	4x11	66728
+N	VPT	66729
+N	Homeo	66730
+N	modulo	66731
+N	pdl	66732
+N	PU	66733
+N	Airglow	66734
+N	ZodiacalLight	66735
+N	CN	66736
+N	Intensity (brightness)	66737
+N	months/year	66738
+N	months	66739
+N	where Jacobian	66740
+N	AVC	66741
+N	VC	66742
+N	AFC	66743
+N	ATC	66744
+N	(apparent power)	66745
+N	(real power)	66746
+N	(reactive power)	66747
+N	𝐝𝐀	66748
+N	defect	66749
+N	impurity	66750
+N	ems	66751
+N	MFP	66752
+N	poles of	66753
+N	DSCR	66754
+N	Net Operating Income	66755
+N	Debt Services	66756
+N	Net Income	66757
+N	Amortization and Depreciation	66758
+N	Interest Expense	66759
+N	Other Non-cash Items	66760
+N	Principal Repayment	66761
+N	Interest Payments	66762
+N	Lease Payments	66763
+N	⊘	66764
+N	CAS	66765
+N	COP	66766
+N	if the mean is known.	66767
+N	if the variance is known.	66768
+N	if the variance is not known&comma; but the mean is.	66769
+N	if the variance and the mean are both unknown.	66770
+N	MIRR	66771
+N	positive cash flows&comma; reinvestment rate	66772
+N	negative cash flows&comma; finance rate	66773
+N	2x10	66774
+N	Coefficient of restitution	66775
+N	Relative speed before collision	66776
+N	Relative speed after collision	66777
+N	Speed of separation	66778
+N	Speed of approach	66779
+N	(after impact)	66780
+N	(before impact)	66781
+N	(at bounce height)	66782
+N	(at drop height)	66783
+N	LH	66784
+N	Vs	66785
+N	not a loop nor a bridge.	66786
+N	dIBB	66787
+N	IBB	66788
+N	dHB	66789
+N	BFP	66790
+N	dBB	66791
+N	dK	66792
+N	dHR	66793
+N	()1x13	66794
+N	geometric	66795
+N	ERV	66796
+N	chunk size in bits	66797
+N	Undefined	66798
+N	𝐧𝐚𝐭	66799
+N	Mitotic I	66800
+N	5./Mitsuhiro_Shishikura.html5.10	66801
+N	HOMA-IR	66802
+N	Glucose	66803
+N	Insulin	66804
+N	HOMA-	66805
+N	surfacearea	66806
+N	given	66807
+N	upstream	66808
+N	downstream	66809
+N	Off	66810
+N	Does not exist	66811
+N	e.g.	66812
+N	External virtual work	66813
+N	𝐁𝐪	66814
+N	𝐍𝐪	66815
+N	𝐃𝐮	66816
+N	𝐃𝐍𝐪	66817
+N	𝐃𝐍	66818
+N	Internal virtual work	66819
+N	𝐄𝐁	66820
+N	System internal virtual work	66821
+N	respectively&comma;	66822
+N	1 0 1	66823
+N	odd columns of	66824
+N	even columns of	66825
+N	Possessions	66826
+N	ORb	66827
+N	FTA	66828
+N	OffensiveRating	66829
+N	PointsScored	66830
+N	DefensiveRating	66831
+N	PointsAllowed	66832
+N	eFG	66833
+N	FGM	66834
+N	Between	66835
+N	Within	66836
+N	KW	66837
+N	cmax	66838
+N	5x9	66839
+N	Loading dose	66840
+N	Equality constraints	66841
+N	Inequality constraints	66842
+N	NAG	66843
+N	𝐇𝐨𝐦	66844
+N	Yuk	66845
+N	NMSSM	66846
+N	Current ratio	66847
+N	Current Assets	66848
+N	oct	66849
+N	negative&comma; work done on system	66850
+N	zero work if V2 equal V3	66851
+N	positive&comma; work done by system	66852
+N	zero work if V4 equal V1	66853
+N	(Note: U of an isothermal process has to equal 0)	66854
+N	OCS	66855
+N	Fuel economy	66856
+N	far	66857
+N	density of sphere	66858
+N	weight of sphere	66859
+N	weight of immersed sphere	66860
+N	density of gas	66861
+N	T a finite valued stopping time	66862
+N	farads	66863
+N	bd	66864
+N	⟂̸	66865
+N	rad/s	66866
+N	CAIDI	66867
+N	ₙ	66868
+N	4x9	66869
+N	𝐥𝐨𝐰𝐞𝐫𝐛𝐨𝐮𝐧𝐝	66870
+N	𝐮𝐩𝐩𝐞𝐫𝐛𝐨𝐮𝐧𝐝	66871
+N	biomass	66872
+N	s. t.	66873
+N	Metabolisable Energy	66874
+N	Gross Energy in Food	66875
+N	Energy lost in Faeces&comma; Urine&comma; Secretions and Gases	66876
+N	Digestible energy	66877
+N	intake	66878
+N	faecal excretion	66879
+N	Hertz	66880
+N	Tesla	66881
+N	∦	66882
+N	2.3\n                  \n                  2	66883
+N	drug	66884
+N	unit	66885
+N	Kg	66886
+N	Dose	66887
+N	blood	66888
+N	concentration	66889
+N	denotes partial derivative of	66890
+N	w.r.t to	66891
+N	&lsqb;&rsqb;4x9	66892
+N	𝐶𝐸𝑀	66893
+N	in-phase	66894
+N	quadrature	66895
+N	bonds	66896
+N	angles	66897
+N	dihedrals	66898
+N	𝐝𝐚	66899
+N	𝐶𝑅	66900
+N	𝐶𝐶	66901
+N	𝐻𝐶𝑂𝐹	66902
+N	Go	66903
+N	virt	66904
+N	absolutely continuous	66905
+N	hours	66906
+N	yards	66907
+N	shillings	66908
+N	đ	66909
+N	𝑥𝑐	66910
+N	𝑦𝑐	66911
+N	DWF	66912
+N	𝖯𝖺𝖽	66913
+N	rg	66914
+N	BrelA	66915
+N	cata	66916
+N	which gives	66917
+N	()7x6	66918
+N	hk	66919
+N	EVM	66920
+N	Stab	66921
+N	stab	66922
+N	Multinomial	66923
+N	analytic	66924
+N	Loss	66925
+N	𝐖𝐇	66926
+N	𝐖𝐡	66927
+N	𝐖𝐁𝐁	66928
+N	𝐖𝐁	66929
+N	Name	66930
+N	vertices	66931
+N	states	66932
+N	CT (mEq/L)	66933
+N	CISD	66934
+N	CISDTQ	66935
+N	minimal requirements are always satisfied	66936
+N	sweeping success is possible	66937
+N	minimal requirements are satisfied for all	66938
+N	windfall is achieved for at least one	66939
+N	Worst-Case Pessimism	66940
+N	Best-Case Optimism	66941
+N	𝑀𝑜𝑑𝑒𝑙	66942
+N	Classical Format	66943
+N	MP Format	66944
+N	Maximin:	66945
+N	Minimin:	66946
+N	Info-Gap Format	66947
+N	𝑅𝑜𝑏𝑢𝑠𝑡𝑛𝑒𝑠𝑠	66948
+N	𝑂𝑝𝑝𝑜𝑟𝑡𝑢𝑛𝑒𝑛𝑒𝑠𝑠	66949
+N	♣	66950
+N	Decision Space	66951
+N	State Spaces	66952
+N	Outcomes	66953
+N	Classical Maximin Format	66954
+N	MP Maximin Format	66955
+N	Robustness Model	66956
+N	Info-gap Format	66957
+N	Opportuneness Model	66958
+N	MP Minimin Format	66959
+N	Classical Minimin Format	66960
+N	g2	66961
+N	g1	66962
+N	Kozai	66963
+N	TKOF	66964
+N	bullet	66965
+N	hess	66966
+N	MSPE	66967
+N	𝑄𝑡ℎ𝐷	66968
+N	𝑆𝐹	66969
+N	VIF	66970
+N	Grade Level	66971
+N	Number of unique unfamiliar words	66972
+N	Average sentence length	66973
+N	has distribution	66974
+N	has standard normal distribution.	66975
+N	for bosons	66976
+N	for fermions	66977
+N	Met	66978
+N	Aim	66979
+N	6x5	66980
+N	is a boundary of	66981
+N	MGMT	66982
+N	tc	66983
+N	&lsqb;&rsqb;4x10	66984
+N	&lsqb;&rsqb;14x4	66985
+N	is an even permutation of	66986
+N	is an odd permutation of	66987
+N	if any two labels are the same	66988
+N	spring	66989
+N	esc	66990
+N	kN	66991
+N	Deviation from	66992
+N	the population	66993
+N	This is	66994
+N	biased	66995
+N	unbiased	66996
+N	(HF)	66997
+N	(W)	66998
+N	Tx A	66999
+N	Tx B	67000
+N	Tx C	67001
+N	su	67002
+N	LCM	67003
+N	period	67004
+N	feed(lactose)	67005
+N	amount(lactose&comma; hi)&comma; amount(glucose&comma; low)	67006
+N	amount(lactose&comma; medium)&comma; amount(glucose&comma; medium)	67007
+N	molar mass	67008
+N	vac	67009
+N	19 day EMA of advances minus declines	67010
+N	39 day EMA of advances minus declines	67011
+N	relaxed	67012
+N	Helix angle	67013
+N	Wilcoxon	67014
+N	is bounded and non-anticipating	67015
+N	OCR	67016
+N	Mean texture	67017
+N	Depth	67018
+N	Mean temperature	67019
+N	Mean rainfall	67020
+N	DATE	67021
+N	Top	67022
+N	QMC	67023
+N	bend	67024
+N	for all open neighbourhoods	67025
+N	for large enough	67026
+N	Ls	67027
+N	for infinitely many	67028
+N	inj	67029
+N	Mpc	67030
+N	𝑣	67031
+N	()3x20	67032
+N	OMA	67033
+N	OFF	67034
+N	switch	67035
+N	≪̸	67036
+N	unknown	67037
+N	Pow	67038
+N	Def	67039
+N	DNL(i)	67040
+N	ideal LSB step width	67041
+N	of pairwise disjoint closed balls with	67042
+N	is a countable collection	67043
+N	diameters	67044
+N	and centres in	67045
+N	countable	67046
+N	of pairwise disjoint balls with	67047
+N	steel	67048
+N	brass	67049
+N	Riem	67050
+N	and ends at	67051
+N	Lead angle	67052
+N	𝐃𝐒𝐃	67053
+N	𝐇𝐐𝐇	67054
+N	perfect	67055
+N	CSI	67056
+N	𝐕𝐒𝐕	67057
+N	𝐔𝐃𝐕	67058
+N	statistical	67059
+N	𝐇𝐇	67060
+N	no	67061
+N	Certain safety factor	67062
+N	LD	67063
+N	Pad	67064
+N	is a vertex point	67065
+N	is an edge point	67066
+N	is an interior point.	67067
+N	calculate	67068
+N	feed reservoir hematocrit	67069
+N	tube hematocrit	67070
+N	be	67071
+N	gs	67072
+N	GS	67073
+N	ov	67074
+N	C-	67075
+N	-OH+HS-CH	67076
+N	30–50	67077
+N	C&comma;-H	67078
+N	-S-CH	67079
+N	+H	67080
+N	NOH	67081
+N	HO-N=	67082
+N	C-N=C=O+HO-N=	67083
+N	Methomyl	67084
+N	&comma;30–50	67085
+N	Glass Property	67086
+N	above	67087
+N	below	67088
+N	𝖪𝖪	67089
+N	𝖺𝗅𝗀	67090
+N	InjRad	67091
+N	Voltage drop across	67092
+N	Voltage at base	67093
+N	Gradient	67094
+N	𝐒𝐘𝐍	67095
+N	𝐋𝐀𝐌	67096
+N	𝐚𝐩𝐩	67097
+N	𝐏𝐀𝐈𝐑	67098
+N	𝐟𝐬𝐭	67099
+N	𝐬𝐧𝐝	67100
+N	𝐥𝐚𝐦	67101
+N	is fresh	67102
+N	𝐯𝐚𝐫	67103
+N	𝐩𝐚𝐢𝐫	67104
+N	unif	67105
+N	cof	67106
+N	⋢	67107
+N	hc	67108
+N	Inc	67109
+N	dissipation	67110
+N	regulator	67111
+N	TransmitterRelease	67112
+N	total quantity of substance in the system	67113
+N	quantity of substance in the mobile phase	67114
+N	migration distance of solvent front	67115
+N	migration distance of substance	67116
+N	Energy flux rate	67117
+N	Volume flux rate	67118
+N	Books	67119
+N	Knowledge	67120
+N	Power	67121
+N	𝐀𝐯	67122
+N	𝐁𝐏𝐃𝐏	67123
+N	𝐀𝐏	67124
+N	𝐁𝐏𝐃	67125
+N	NegBin	67126
+N	𝐂𝐀𝐓	67127
+N	nbr	67128
+N	going	67129
+N	nonevents	67130
+N	Assume that there exist sequences	67131
+N	such that&comma; a.s.	67132
+N	then almost surely	67133
+N	Then almost surely&comma;	67134
+N	Rat	67135
+N	local ring at	67136
+N	Total number of shortest paths	67137
+N	Total number of shortest paths through i	67138
+N	rc	67139
+N	rvc	67140
+N	rx	67141
+N	breakover angle	67142
+N	wheelbase	67143
+N	ground clearance	67144
+N	c1	67145
+N	c2	67146
+N	Grav	67147
+N	𝐷𝐸𝑀𝐴	67148
+N	subsumes	67149
+N	&lsqb;}1x1	67150
+N	𝜎	67151
+N	intersect	67152
+N	↿	67153
+N	𝓑	67154
+N	ét	67155
+N	unitary	67156
+N	isometric	67157
+N	𝐌𝐑	67158
+N	𝐔𝐂𝐕	67159
+N	is meager (resp. comeager) in	67160
+N	𝐶𝑂𝑃𝑌	67161
+N	Sinhc	67162
+N	KummerM	67163
+N	HeunB	67164
+N	WhittakerM	67165
+N	𝑆𝑖𝑛ℎ𝑐	67166
+N	𝖲𝖨	67167
+N	respects	67168
+N	pseudo-closed	67169
+N	𝐁𝐍	67170
+N	keep	67171
+N	replace	67172
+N	-axis	67173
+N	plane radial direction	67174
+N	axis perpendicular to	67175
+N	in the	67176
+N	MLD	67177
+N	SDL	67178
+N	kV/mm	67179
+N	skewness	67180
+N	𝜄	67181
+N	§	67182
+N	ŷ	67183
+N	j-invariant	67184
+N	Rc	67185
+N	𝕥	67186
+N	sma	67187
+N	opp	67188
+N	𝐏𝐀𝐏	67189
+N	wavelength of radiation rays	67190
+N	radiation intensity	67191
+N	emissivity	67192
+N	reflectivity	67193
+N	angle between the normal of the surface and radiation exchange direction	67194
+N	azimuthal angle	67195
+N	5x16	67196
+N	𝖠𝖣𝖧	67197
+N	𝖠𝖫𝖣𝖧	67198
+N	ILR	67199
+N	OLR	67200
+N	CTAIDI	67201
+N	number of distinct customers interrupted	67202
+N	sum of durations of customer interruptions	67203
+N	Coshc	67204
+N	𝐶𝑜𝑠ℎ𝑐	67205
+N	f-gen-Mod	67206
+N	proj-Mod	67207
+N	Eq 1	67208
+N	Eq 2	67209
+N	Eq 3	67210
+N	&comma;or	67211
+N	fixed leg	67212
+N	floating leg	67213
+N	𝟧	67214
+N	𝟣	67215
+N	many	67216
+N	few	67217
+N	𝐇𝐢𝐥𝐛	67218
+N	𝐂𝐲𝐜𝐥	67219
+N	CEO	67220
+N	Jg	67221
+N	°C	67222
+N	is a Poisson binomial distribution	67223
+N	is a k-sum of independent integer random variable	67224
+N	Cent	67225
+N	and so	67226
+N	RuO	67227
+N	xH	67228
+N	xe	67229
+N	De Jan s	67230
+N	it das mer (d’chind)	67231
+N	(em Hans)	67232
+N	s huus h	67233
+N	nd wele (laa)	67234
+N	(h	67235
+N	lfe)	67236
+N	aastriiche.	67237
+N	attains its supremum on	67238
+N	alg	67239
+N	-T/2	67240
+N	T/2	67241
+N	Compressed Output	67242
+N	shunt	67243
+N	1/2	67244
+N	1/3	67245
+N	Utility	67246
+N	invert	67247
+N	nothing	67248
+N	⊅	67249
+N	LC	67250
+N	observable	67251
+N	theory	67252
+N	is a correctly nested sequence of parentheses	67253
+N	parabolic subgroups	67254
+N	MPS	67255
+N	Skill Variety + Task Identity + Task Significance	67256
+N	x Autonomy x Feedback	67257
+N	CDiv	67258
+N	CCl	67259
+N	₋	67260
+N	₁	67261
+N	RHom	67262
+N	ℷ	67263
+N	𝑇𝐸𝑀𝐴	67264
+N	Ĉ	67265
+N	PizzaShop	67266
+N	Carlton	67267
+N	Richmond	67268
+N	South Melbourne	67269
+N	Footscray	67270
+N	St Kilda	67271
+N	Toorak	67272
+N	BottleshopWithBeer	67273
+N	Docklands	67274
+N	BottleshopWithWhiskey	67275
+N	Essendon	67276
+N	WhereToGo	67277
+N	gset	67278
+N	xmath	67279
+N	math	67280
+N	prox	67281
+N	IDP	67282
+N	counting number	67283
+N	Herm	67284
+N	EllipticK	67285
+N	𝐿𝑎𝑔	67286
+N	𝐸𝑚𝑎𝐷𝑎𝑡𝑎	67287
+N	𝑍𝐿𝐸𝑀𝐴	67288
+N	𝑂𝑃𝑇	67289
+N	𝐾𝐼𝑂𝑃𝑇	67290
+N	IM	67291
+N	𝐅𝐃𝐒𝐅	67292
+N	𝐄𝐒𝐃	67293
+N	𝐧𝐨𝐒𝐭𝐝	67294
+N	𝐞𝐧𝐯𝐨𝐥	67295
+N	𝐓𝐃𝐒𝐅	67296
+N	evol	67297
+N	Evol	67298
+N	Nor	67299
+N	GD	67300
+N	env&comma;eq	67301
+N	Hinge	67302
+N	price adjustement factor	67303
+N	dividend adjustement factor	67304
+N	crcy	67305
+N	dividend	67306
+N	paid	67307
+N	to be paid	67308
+N	arc tangent	67309
+N	𝐐𝐱	67310
+N	ᵀ	67311
+N	⁻	67312
+N	¹	67313
+N	ᴾ	67314
+N	tanhc	67315
+N	𝑇𝑎𝑛ℎ𝑐	67316
+N	med	67317
+N	MDS	67318
+N	Microscale	67319
+N	Mutation	67320
+N	Rand	67321
+N	SWU	67322
+N	&lsqb;&rsqb;8x12	67323
+N	I&comma;n	67324
+N	II&comma;n	67325
+N	at all nodes	67326
+N	at one node at least	67327
+N	supports	67328
+N	opposes	67329
+N	signum	67330
+N	yes	67331
+N	co-	67332
+N	qWeibull	67333
+N	FG	67334
+N	canonym	67335
+N	redex	67336
+N	name	67337
+N	strategy	67338
+N	lazy	67339
+N	eager	67340
+N	whnf	67341
+N	PNF	67342
+N	PNFNS	67343
+N	PNFNF	67344
+N	PNS	67345
+N	Bet	67346
+N	GR	67347
+N	holim	67348
+N	is allowable	67349
+N	for some integer	67350
+N	mc	67351
+N	up to the last sample	67352
+N	𝐜𝐨𝐯	67353
+N	𝐘𝐗	67354
+N	𝐩𝐜𝐨𝐯	67355
+N	Tanc	67356
+N	𝑇𝑎𝑖𝑛𝑐	67357
+N	conj	67358
+N	nonconj	67359
+N	reduct	67360
+N	()6x8	67361
+N	()5x9	67362
+N	Mot	67363
+N	∤	67364
+N	freq	67365
+N	minfreq	67366
+N	Dist	67367
+N	Total Game Points earned	67368
+N	Win/Loss Factor	67369
+N	Opponent Strength	67370
+N	(∥1x1	67371
+N	Nickel	67372
+N	Dismutase	67373
+N	Redundancy	67374
+N	Effective size of i’s network	67375
+N	humid	67376
+N	Roll	67377
+N	Pitch	67378
+N	Yaw	67379
+N	₊	67380
+N	𝖣	67381
+N	MVN	67382
+N	tesla	67383
+N	Number of Attributes	67384
+N	Number of Matching Attributes	67385
+N	nearMiss	67386
+N	nearHit	67387
+N	ppm	67388
+N	side of smallest cube enclosing	67389
+N	side of largest cube enclosed in	67390
+N	volume of	67391
+N	volume of smallest ball enclosing	67392
+N	volume of largest ball enclosed in	67393
+N	diameter(smallest ball enclosing	67394
+N	length of chord	67395
+N	height of segment	67396
+N	radius of circle	67397
+N	an	67398
+N	hocolim	67399
+N	sites	67400
+N	Dirac	67401
+N	the lifts of	67402
+N	equil	67403
+N	Description	67404
+N	Specification	67405
+N	Variables	67406
+N	Decomposition	67407
+N	Forms	67408
+N	Identification (based on	67409
+N	Question	67410
+N	Known	67411
+N	Searched	67412
+N	Spam	67413
+N	Filtering	67414
+N	Prediction	67415
+N	Smoothing	67416
+N	Matrix	67417
+N	SAVI	67418
+N	fallback	67419
+N	sequence	67420
+N	and E	67421
+N	∢	67422
+N	Angle between the planes	67423
+N	23x2	67424
+N	time step.	67425
+N	Griff	67426
+N	(&rsqb;1x3	67427
+N	family of distributions over	67428
+N	𝚼	67429
+N	𝐊𝐃𝐊	67430
+N	𝐃𝐊	67431
+N	MMD	67432
+N	HSIC	67433
+N	“limit at infinity”	67434
+N	Severity	67435
+N	Exposure	67436
+N	Likelihood	67437
+N	ASIL	67438
+N	Controllability	67439
+N	probability of failure	67440
+N	Tolerable Risk	67441
+N	ₚ	67442
+N	-th	67443
+N	Diagonal:	67444
+N	limb	67445
+N	joint	67446
+N	Neighbors	67447
+N	mtanh	67448
+N	𝜌	67449
+N	Rb	67450
+N	RbHSO	67451
+N	RbCl	67452
+N	()4x5	67453
+N	𝐕𝐋	67454
+N	Autoreduce	67455
+N	CompleteSystem	67456
+N	Reduce	67457
+N	uni	67458
+N	min:	67459
+N	max:	67460
+N	cubic	67461
+N	AND	67462
+N	is a disjoint collection of open sets of	67463
+N	cmpn	67464
+N	is a finite subset of	67465
+N	is a centred subcollection of	67466
+N	Adj	67467
+N	all of	67468
+N	are true&comma;	67469
+N	𝐑𝐚	67470
+N	VARIMAX	67471
+N	MAIFI	67472
+N	total number of customer interruptions less than the defined time	67473
+N	Equity Ratio	67474
+N	Total Assets	67475
+N	Total Shareholder’s Equity	67476
+N	distance 2	67477
+N	distance 1	67478
+N	radix	67479
+N	jk	67480
+N	arg max	67481
+N	mse	67482
+N	coNP	67483
+N	NP/poly	67484
+N	util	67485
+N	≽	67486
+N	϶	67487
+N	accumulated	67488
+N	train	67489
+N	realises	67490
+N	filtered	67491
+N	if {u&comma;v}	67492
+N	HNC	67493
+N	𝐾	67494
+N	lex	67495
+N	Times-Interest-Earned	67496
+N	Interest Charges	67497
+N	EBIT or EBITDA	67498
+N	(eq. 1)	67499
+N	return Nothing	67500
+N	return err	67501
+N	present	67502
+N	spur gears	67503
+N	helical gears	67504
+N	Apply	67505
+N	𝐒𝐒	67506
+N	semi	67507
+N	bandgap	67508
+N	PIANIST(Jill)	67509
+N	ORGANIST(Jill)	67510
+N	rate of fuel consumption	67511
+N	total mass of fuel available	67512
+N	fraction of star over which fuel is burned	67513
+N	Yield Gap	67514
+N	Yield Ratio of Bond	67515
+N	Yield Ratio of Equity	67516
+N	Holant	67517
+N	EQUAL	67518
+N	NAND	67519
+N	for other	67520
+N	Object	67521
+N	No object	67522
+N	Appearance	67523
+N	&comma; then:	67524
+N	𝐓𝐔	67525
+N	𝐓𝐊	67526
+N	𝐍𝐔	67527
+N	Dividend payout ratio	67528
+N	Net Income for the same period	67529
+N	Dividends	67530
+N	Current Dividend Yield	67531
+N	Current Share Price	67532
+N	Most Recent Full-Year Dividend	67533
+N	Most Recent Full-Year earnings per share	67534
+N	Mortgage Yield: ri such that P	67535
+N	for all bounded&comma; increasing functions	67536
+N	Unit Contribution	67537
+N	Fixed Costs	67538
+N	Target Income	67539
+N	difference	67540
+N	Cdim	67541
+N	Debtor days	67542
+N	Year end trade debtors	67543
+N	Number of days in financial year	67544
+N	Average trade debtors	67545
+N	Opening trade debtors	67546
+N	Closing trade debtors	67547
+N	𝑐𝑜𝑟𝑛𝑒𝑟𝑛𝑒𝑠𝑠	67548
+N	diverge	67549
+N	𝐻𝑅	67550
+N	sen	67551
+N	arg min	67552
+N	wall	67553
+N	Receivable	67554
+N	Turnover	67555
+N	Average	67556
+N	receivable	67557
+N	sales	67558
+N	receivables	67559
+N	𝖠𝗎𝗍𝗁	67560
+N	𝖲𝖾𝖼	67561
+N	𝖠𝗇𝗈𝗇	67562
+N	𝖯𝗌𝖾𝗎	67563
+N	BLR	67564
+N	Precision	67565
+N	Recall	67566
+N	True negative rate	67567
+N	Accuracy	67568
+N	Chromophore	67569
+N	DNA	67570
+N	damaged	67571
+N	𝐄𝐌𝐅	67572
+N	𝓝	67573
+N	3.14\n                  \n                  13	67574
+N	𝐖𝐗	67575
+N	𝐐𝐑	67576
+N	𝐐𝐐	67577
+N	𝐂𝐥	67578
+N	𝖰𝗎𝗈𝗍	67579
+N	ncut	67580
+N	nassoc	67581
+N	Schottky	67582
+N	𝐓𝐕𝐞𝐜𝐭	67583
+N	3 or 5	67584
+N	𝐮𝐯𝐰	67585
+N	magnetic diffusion rate	67586
+N	execution	67587
+N	processor	67588
+N	The radius of the circle would be	67589
+N	gaz	67590
+N	fil	67591
+N	slog	67592
+N	glucose	67593
+N	pyruvate	67594
+N	the interval in EFT(I) with the same job class as J&comma; if one exists	67595
+N	the interval with the earliest finishing time amongst all intervals in EFT(I) intersecting J&comma; otherwise	67596
+N	CH3	67597
+N	groove	67598
+N	axle	67599
+N	T0	67600
+N	ḡ	67601
+N	dau1	67602
+N	dau2	67603
+N	soma	67604
+N	AMPA	67605
+N	NMDA	67606
+N	GABA	67607
+N	dislocation	67608
+N	felt	67609
+N	Part IIsIIs	67610
+N	Part II	67611
+N	Total number of detected regions	67612
+N	Total number of matches	67613
+N	𝐧𝐨𝐫𝐦𝐚𝐥𝐢𝐳𝐞𝐝	67614
+N	rate of energy loss	67615
+N	total kinetic energy	67616
+N	The value at grid point	67617
+N	𝐛𝟎	67618
+N	𝐛𝟏	67619
+N	TVaR	67620
+N	Aa	67621
+N	aa	67622
+N	prob	67623
+N	configs	67624
+N	𝐟𝐱	67625
+N	Jmol	67626
+N	dm	67627
+N	liters	67628
+N	&lsqb;&rsqb;10x5	67629
+N	elastic forces	67630
+N	3x8	67631
+N	P-to-W	67632
+N	inert	67633
+N	&lsqb;&rsqb;7x5	67634
+N	Edd	67635
+N	gd	67636
+N	𝖱𝖬𝗀𝖡𝗋	67637
+N	𝖢𝖧	67638
+N	𝖮𝖬𝗀𝖡𝗋	67639
+N	𝖱𝖫𝗂	67640
+N	𝖮𝖫𝗂	67641
+N	𝖧𝖭𝖮	67642
+N	𝖧𝖮	67643
+N	𝖮𝖭𝖮	67644
+N	𝖠𝗅	67645
+N	𝖢𝖧𝖮	67646
+N	𝟪	67647
+N	𝖭𝗂	67648
+N	𝖹𝗇	67649
+N	𝖢𝖮𝖮𝖧	67650
+N	𝖠𝗀𝖭𝖮	67651
+N	𝖧𝖮𝖢𝖧	67652
+N	𝗇	67653
+N	𝖲𝗇𝖢𝗅	67654
+N	𝖠𝗀	67655
+N	𝖧𝖢𝖭	67656
+N	𝖢𝖭	67657
+N	is a closed curve in	67658
+N	passing through	67659
+N	TopCov	67660
+N	GpdCov	67661
+N	R2	67662
+N	As found above&comma;	67663
+N	Since	67664
+N	𝐪𝐩𝐪	67665
+N	𝐗𝐰	67666
+N	𝐗𝐖	67667
+N	𝐐𝐖	67668
+N	𝐓𝐖	67669
+N	𝐡𝐮	67670
+N	𝐂𝐕	67671
+N	𝖫𝖳	67672
+N	AC Stark	67673
+N	measurable and	67674
+N	Mat	67675
+N	Skew	67676
+N	ceil	67677
+N	truncate	67678
+N	Motivation	67679
+N	1 + Impulsiveness × Delay	67680
+N	Expectancy × Value	67681
+N	Autonomy	67682
+N	Feedback	67683
+N	Skill Variety+Task Identity+Task Significance	67684
+N	Front	67685
+N	density of surrounding air	67686
+N	sheep	67687
+N	goat	67688
+N	oz ice cream	67689
+N	g banana	67690
+N	𝔎	67691
+N	𝔒	67692
+N	𝔚	67693
+N	ℨ	67694
+N	𝔴	67695
+N	𝔵	67696
+N	𝔶	67697
+N	is a perfect square&comma;	67698
+N	Part IIXIIX	67699
+N	Part ISIS	67700
+N	Part IIIVIIIV	67701
+N	Part VIIIpVIIIp	67702
+N	Part VIISVIIS	67703
+N	Part VITVIT	67704
+N	Part VVVV	67705
+N	SP	67706
+N	GHz	67707
+N	lo	67708
+N	J/g	67709
+N	ice	67710
+N	7&comma;625&comma;597&comma;484&comma;987 copies of 3	67711
+N	(Knuth)	67712
+N	(hyperoperation)	67713
+N	(Conway)	67714
+N	𝟛	67715
+N	is odd and more than 1	67716
+N	which is monic and such that	67717
+N	DL	67718
+N	DW	67719
+N	𝐶𝑢𝑡	67720
+N	𝑊𝐿	67721
+N	𝑊𝑅	67722
+N	𝐶𝐿	67723
+N	𝑃𝐿	67724
+N	𝑃𝑅	67725
+N	is finite and	67726
+N	GSD	67727
+N	SD	67728
+N	GVar	67729
+N	GCV	67730
+N	Med	67731
+N	Mode	67732
+N	Suzuki	67733
+N	Vomma	67734
+N	Charm	67735
+N	Color	67736
+N	Ultima	67737
+N	vomma	67738
+N	Zomma	67739
+N	𝐴𝑅	67740
+N	Eq	67741
+N	Equation	67742
+N	Const	67743
+N	Bark	67744
+N	Critical band rate (bark)	67745
+N	Critical bandwidth (Hz)	67746
+N	𝐋𝐋	67747
+N	nV	67748
+N	are distinct integers and are an even permutation of	67749
+N	are distinct integers and are an odd permutation of	67750
+N	in all other cases	67751
+N	DTFT	67752
+N	-alg	67753
+N	Darlington	67754
+N	CE1	67755
+N	BE2	67756
+N	C2	67757
+N	B2	67758
+N	CE2	67759
+N	𝚏𝚘𝚛	67760
+N	𝚎𝚟𝚎𝚛𝚢	67761
+N	𝚒𝚖𝚙𝚕𝚒𝚎𝚜	67762
+N	𝚝𝚑𝚎𝚛𝚎	67763
+N	𝚎𝚡𝚒𝚜𝚝𝚜	67764
+N	Symmetric	67765
+N	Inverse	67766
+N	is not differentiable at any point of	67767
+N	LiCoO	67768
+N	LiC	67769
+N	rectangles	67770
+N	area under	67771
+N	curve	67772
+N	smaller terms	67773
+N	adiabatic	67774
+N	adiabatic&comma; quasi-static	67775
+N	quasi	67776
+N	adynamic	67777
+N	reversible	67778
+N	irreversible	67779
+N	(suitably defined surrounding subsystems&comma; general process&comma; quasi-static or irreversible)&comma;	67780
+N	(suitably defined surrounding subsystems&comma; quasi-static transfers of energy)	67781
+N	(suitably defined surrounding subsystems&comma; quasi-static transfers)	67782
+N	theoretical	67783
+N	elliptical	67784
+N	crack	67785
+N	flywheel	67786
+N	rim	67787
+N	HBP	67788
+N	Triples	67789
+N	Doubles	67790
+N	Singles	67791
+N	k out of n times	67792
+N	𝑛𝑒𝑎𝑟	67793
+N	𝑓𝑎𝑟	67794
+N	𝐀𝐚	67795
+N	frequency of A	67796
+N	𝐚𝐚	67797
+N	frequency of a	67798
+N	Hdg	67799
+N	Humidex	67800
+N	Air temperature	67801
+N	dewpoint in kelvins	67802
+N	orbit	67803
+N	apparent immersed weight	67804
+N	weight of displaced fluid	67805
+N	density of fluid	67806
+N	density of object	67807
+N	disp	67808
+N	14x5	67809
+N	Ein	67810
+N	Error signal	67811
+N	append	67812
+N	64 layers	67813
+N	where there are X 3s	67814
+N	where the number of 3s is	67815
+N	where the number of towers is	67816
+N	BiFo	67817
+N	⇏	67818
+N	cg	67819
+N	Alkaline	67820
+N	copper	67821
+N	tartarate	67822
+N	Reduction	67823
+N	Cuprous	67824
+N	Oxidation	67825
+N	D-glucono-1&comma;5-lactone	67826
+N	oxidase	67827
+N	Phosphorylation	67828
+N	Hexokinase	67829
+N	G-6PO	67830
+N	NADP	67831
+N	G-6PD	67832
+N	6-Phosphogluconate	67833
+N	NADPH	67834
+N	thermodynamic	67835
+N	equilibrium	67836
+N	spon	67837
+N	14 387.770	67838
+N	m·K	67839
+N	𝐝𝐱	67840
+N	Required Input	67841
+N	Desired Output	67842
+N	ld	67843
+N	erfi	67844
+N	𝐈𝐂	67845
+N	&lsqb;&rsqb;11x2	67846
+N	Dic	67847
+N	Rate H	67848
+N	Rate O	67849
+N	ric	67850
+N	â	67851
+N	Theme	67852
+N	Complication	67853
+N	LN	67854
+N	Cin	67855
+N	Shi	67856
+N	Chi	67857
+N	chi	67858
+N	ci	67859
+N	Rate of cooling	67860
+N	UCL	67861
+N	rational	67862
+N	irrational	67863
+N	are differentiable over	67864
+N	exists&comma;	67865
+N	trap	67866
+N	EG	67867
+N	PG	67868
+N	()5x3	67869
+N	the golden ratio	67870
+N	DC Fan-out	67871
+N	out high	67872
+N	in high	67873
+N	out low	67874
+N	in low	67875
+N	flux incident upon surface	67876
+N	flux emitted from surface	67877
+N	average scene reflectance	67878
+N	effective scene illuminance	67879
+N	average scene luminance	67880
+N	FWTM	67881
+N	Gauss	67882
+N	well-orders	67883
+N	MCG	67884
+N	up or down	67885
+N	posterior	67886
+N	evidence	67887
+N	likelihood	67888
+N	male	67889
+N	foot size	67890
+N	posterior numerator (male)	67891
+N	their product	67892
+N	female	67893
+N	posterior numerator (female)	67894
+N	spectrogram	67895
+N	STFT	67896
+N	FF	67897
+N	winding number	67898
+N	pole	67899
+N	FT	67900
+N	probability of birth sequence with no linkage	67901
+N	probability of birth sequence with a given linkage value	67902
+N	fov	67903
+N	XC	67904
+N	nl	67905
+N	AE	67906
+N	twelve fifths	67907
+N	seven octaves	67908
+N	𝐭𝐫𝐮𝐞	67909
+N	𝐟𝐚𝐥𝐬𝐞	67910
+N	Kin	67911
+N	Pot	67912
+N	6x11	67913
+N	physical	67914
+N	7x8	67915
+N	crossings	67916
+N	half-cell	67917
+N	𝑛𝑘	67918
+N	𝐬𝐭	67919
+N	Annual Depreciation Expense	67920
+N	Useful Life of Asset	67921
+N	Cost of Fixed Asset	67922
+N	Residual Value	67923
+N	depreciation rate	67924
+N	cost of fixed asset	67925
+N	residual value	67926
+N	Estimated Total Production	67927
+N	Residual value	67928
+N	Actual Production	67929
+N	𝐀𝐁𝐂	67930
+N	𝐂𝐁𝐀	67931
+N	oblate	67932
+N	unknot	67933
+N	test error	67934
+N	training error	67935
+N	{&rsqb;1x1	67936
+N	Notional Amount	67937
+N	Reference Rate	67938
+N	Fixed Rate	67939
+N	ENF	67940
+N	()10x1	67941
+N	derivative	67942
+N	differential	67943
+N	𝐝𝐑	67944
+N	apotome	67945
+N	limma	67946
+N	Enterprise	67947
+N	Captain	67948
+N	Departments	67949
+N	Stellar	67950
+N	Cartography	67951
+N	brain tumor	67952
+N	Bel	67953
+N	GRR	67954
+N	GCD	67955
+N	dBc	67956
+N	straight	67957
+N	and at most one of	67958
+N	is equal to 1	67959
+N	(For a probability space&comma;	67960
+N	(almost surely)	67961
+N	for some positive integer	67962
+N	ass	67963
+N	CPU	67964
+N	DRAM	67965
+N	multiplier	67966
+N	divider	67967
+N	nlz	67968
+N	Kinetic energy	67969
+N	Rest mass	67970
+N	content	67971
+N	Liquid	67972
+N	eutectic temperature	67973
+N	solid solution	67974
+N	&lsqb;&rsqb;6x20	67975
+N	Voigt	67976
+N	Lorentz	67977
+N	ERBS	67978
+N	ERB	67979
+N	𝐋𝐒	67980
+N	length of sequence	67981
+N	Rate of effusion of gas	67982
+N	Assum	67983
+N	Ax	67984
+N	Modus Ponens	67985
+N	This is a	67986
+N	constant&comma; so its	67987
+N	expected value	67988
+N	is itself.	67989
+N	a constant&comma;	67990
+N	so it can be	67991
+N	pulled out.	67992
+N	That first	67993
+N	constant&comma; now	67994
+N	rod	67995
+N	disc	67996
+N	cross-product scalar multiplication	67997
+N	tangential	67998
+N	is either at rest or moving at a constant velocity but not accelerated&comma; or	67999
+N	the origin of the fixed (world) coordinate reference system is placed at the centre of mass	68000
+N	cross-product distributivity over addition	68001
+N	Quality	68002
+N	Total costs	68003
+N	Results of work efforts	68004
+N	SML	68005
+N	HInd	68006
+N	𝐸𝑉𝐴	68007
+N	𝑁𝑂𝑃𝐴𝑇	68008
+N	quanta	68009
+N	energy of eigenstate	68010
+N	Revenue	68011
+N	Factor of Safety	68012
+N	Design Load	68013
+N	Material Strength	68014
+N	Margin of Safety	68015
+N	Failure Load	68016
+N	Design Load × Design Safety Factor	68017
+N	Design Safety Factor	68018
+N	Realized Factor of Safety	68019
+N	is a zero of order	68020
+N	is a pole of order	68021
+N	shortestPath	68022
+N	for all real	68023
+N	is odd&comma; and	68024
+N	𝐜𝐚	68025
+N	𝐝𝐜	68026
+N	Luciferase	68027
+N	oxy	68028
+N	AMP	68029
+N	RCF	68030
+N	𝙰𝚇	68031
+N	𝚉𝙵𝙲	68032
+N	𝙲𝙷	68033
+N	𝚉𝙵	68034
+N	𝙰𝙲	68035
+N	extensional strain	68036
+N	tensile stress	68037
+N	bore	68038
+N	stroke	68039
+N	number of cylinders	68040
+N	is a prime ideal if	68041
+N	is not a prime ideal if	68042
+N	Con	68043
+N	every	68044
+N	Total Fixed Costs	68045
+N	Break-even(in Sales)	68046
+N	(Lehmus)	68047
+N	(Blundon)	68048
+N	(Weizenbock)	68049
+N	(Chapple-Euler)	68050
+N	NOT	68051
+N	Ł	68052
+N	vertex	68053
+N	Provable	68054
+N	𝗇𝖺𝗍	68055
+N	condenser	68056
+N	𝐟𝐀	68057
+N	⇑	68058
+N	mega	68059
+N	moser	68060
+N	Graham’s number	68061
+N	grams	68062
+N	Lower endpoint	68063
+N	Upper endpoint	68064
+N	Ptr	68065
+N	Potential adopters	68066
+N	-New adopters	68067
+N	Adopters	68068
+N	New adopters	68069
+N	Probability that contact has not yet adopted	68070
+N	Imitators	68071
+N	Innovators	68072
+N	Valve New adopters	68073
+N	Age	68074
+N	EHR	68075
+N	RowSize	68076
+N	BitsPerPixel	68077
+N	ImageWidth	68078
+N	PixelArraySize	68079
+N	ImageHeight	68080
+N	WFH	68081
+N	median weight for a given child of that height	68082
+N	weight of a given child	68083
+N	conn	68084
+N	slot	68085
+N	PureState	68086
+N	bare	68087
+N	TeV	68088
+N	𝐧𝐞𝐰	68089
+N	mixture	68090
+N	Win	68091
+N	runs scored	68092
+N	runs allowed	68093
+N	897	68094
+N	697	68095
+N	Exponent	68096
+N	points for	68097
+N	points against	68098
+N	BIB	68099
+N	Total Valid Poll	68100
+N	cas	68101
+N	JT	68102
+N	Part ITIT	68103
+N	Part IIPIIP	68104
+N	LE	68105
+N	MYSI	68106
+N	EYSI	68107
+N	MYS	68108
+N	EYS	68109
+N	GNIpc	68110
+N	HDI	68111
+N	LEI	68112
+N	EI	68113
+N	valid for any	68114
+N	3x7	68115
+N	Phenotypic correlation	68116
+N	Genotypic correlation	68117
+N	Environmental correlation	68118
+N	Genic correlation	68119
+N	DoF	68120
+N	mon	68121
+N	for every scalar	68122
+N	CVaR	68123
+N	EVaR	68124
+N	𝐵𝑖	68125
+N	cp	68126
+N	px	68127
+N	melt	68128
+N	Blue collar	68129
+N	White collar	68130
+N	Service	68131
+N	number of columns	68132
+N	𝑏𝑒𝑓𝑜𝑟𝑒	68133
+N	𝑎𝑓𝑡𝑒𝑟	68134
+N	𝑝𝑟𝑜𝑏	68135
+N	𝑒𝑛𝑣	68136
+N	𝑠𝑦𝑠	68137
+N	detected	68138
+N	U-238	68139
+N	decay products of U-238	68140
+N	Th-234	68141
+N	daughter of U-238	68142
+N	Pa-234m	68143
+N	granddaughter of U-238	68144
+N	Pb-206	68145
+N	dz	68146
+N	probit	68147
+N	and take	68148
+N	𝑙𝑛	68149
+N	𝑅𝑙𝑛	68150
+N	SET	68151
+N	(work done)	68152
+N	(energy change)	68153
+N	is unchanged by	68154
+N	.)	68155
+N	11x3	68156
+N	cmplx	68157
+N	dipole	68158
+N	longest	68159
+N	can	68160
+N	⊮	68161
+N	𝐋𝐃𝐋	68162
+N	𝐋𝐃	68163
+N	FD	68164
+N	dln	68165
+N	FN	68166
+N	mN	68167
+N	la	68168
+N	fog	68169
+N	𝗋𝖾𝖿	68170
+N	𝗈𝗎𝗍	68171
+N	lx⋅s	68172
+N	sos	68173
+N	Poi	68174
+N	PVR	68175
+N	(net)	68176
+N	High	68177
+N	Low	68178
+N	𝐝𝐁	68179
+N	j2	68180
+N	vdB	68181
+N	Core	68182
+N	𝖥	68183
+N	𝖬𝖫	68184
+N	coeq	68185
+N	FFD	68186
+N	BFD	68187
+N	likelihood of the saturated model	68188
+N	likelihood of the fitted model	68189
+N	likelihood of null model	68190
+N	likelihood of fitted model	68191
+N	fitted	68192
+N	Bin	68193
+N	Positive predictive value	68194
+N	Negative predictive value	68195
+N	Sensitivity	68196
+N	Specificity	68197
+N	RAC h.p.	68198
+N	CV/PS	68199
+N	𝑉𝑒𝑛𝑑𝑖𝑛𝑔𝑀𝑎𝑐ℎ𝑖𝑛𝑒	68200
+N	𝑐𝑜𝑖𝑛	68201
+N	𝑐ℎ𝑜𝑐	68202
+N	𝑆𝑇𝑂𝑃	68203
+N	𝑃𝑒𝑟𝑠𝑜𝑛	68204
+N	𝑐𝑎𝑟𝑑	68205
+N	𝑆𝑇𝑂	68206
+N	12x4	68207
+N	𝑆𝐾𝐼𝑃	68208
+N	𝑃𝑟𝑜𝑐	68209
+N	prefixing	68210
+N	nondeterministic	68211
+N	interleaving	68212
+N	interface	68213
+N	hiding	68214
+N	sequential	68215
+N	boolean	68216
+N	timeout	68217
+N	interrupt	68218
+N	conditional	68219
+N	composition	68220
+N	parallel	68221
+N	𝐝𝐢𝐯	68222
+N	𝑡𝑟𝑎𝑐𝑒𝑠	68223
+N	𝑓𝑎𝑖𝑙𝑢𝑟𝑒𝑠	68224
+N	𝑑𝑖𝑣𝑒𝑟𝑔𝑒𝑛𝑐𝑒𝑠	68225
+N	rectal temperature in Fahrenheit	68226
+N	sconv	68227
+N	AdS	68228
+N	if there is an integer	68229
+N	if there is no such integer.	68230
+N	baroclinic contribution	68231
+N	googol	68232
+N	mle	68233
+N	base period cost	68234
+N	updated cost	68235
+N	HI	68236
+N	Const.	68237
+N	Ham	68238
+N	&lsqb;&rsqb;7x4	68239
+N	𝐀𝐗	68240
+N	𝑋𝑋	68241
+N	𝑋𝑌	68242
+N	𝑌𝑋	68243
+N	𝑌𝑌	68244
+N	Pf	68245
+N	do	68246
+N	estimated median	68247
+N	white	68248
+N	Performance rating	68249
+N	Total of opponents’ ratings	68250
+N	gold	68251
+N	cyan	68252
+N	Earnings per share	68253
+N	Weighted average of common stock shares outstanding	68254
+N	Net income	68255
+N	Preferred stock dividends	68256
+N	roll	68257
+N	inl	68258
+N	inr	68259
+N	stopping	68260
+N	slab	68261
+N	within	68262
+N	number of primes	68263
+N	is in the arithmetic progression	68264
+N	is prime number)	68265
+N	magenta	68266
+N	(center of the conic)	68267
+N	(eigenvector of	68268
+N	(axis)	68269
+N	(the general equation of the conic)	68270
+N	kbit	68271
+N	bytes	68272
+N	coefficient of	68273
+N	torsions	68274
+N	Gy	68275
+N	2x9	68276
+N	Standard error	68277
+N	FPC	68278
+N	Standard error of difference	68279
+N	2D	68280
+N	&lsqb;&rsqb;4x6	68281
+N	𝑞	68282
+N	1 Gaussian year	68283
+N	Primary deficit	68284
+N	Total deficit	68285
+N	input set	68286
+N	output expression	68287
+N	cen	68288
+N	shd	68289
+N	is prime (a positive literal)	68290
+N	𝑛	68291
+N	lights	68292
+N	Transpose	68293
+N	is undefined	68294
+N	empty	68295
+N	payload	68296
+N	Chemical energy rate	68297
+N	Thrust Power	68298
+N	wc	68299
+N	two intersections of multiplicity 2	68300
+N	an intersection of multiplicity 3	68301
+N	an intersection of multiplicity 4	68302
+N	FLOPS	68303
+N	sockets	68304
+N	socket	68305
+N	cores	68306
+N	FLOPs	68307
+N	VOL	68308
+N	RAD	68309
+N	class	68310
+N	â	68311
+N	fluctuation	68312
+N	experimental value	68313
+N	Fano	68314
+N	Klein	68315
+N	retarded	68316
+N	nT	68317
+N	shell	68318
+N	interior	68319
+N	𝑑𝑈	68320
+N	transmittance	68321
+N	𝐍𝐓𝐈𝐌𝐄	68322
+N	steps	68323
+N	𝐓𝐈𝐌𝐄	68324
+N	ο	68325
+N	SPF	68326
+N	MPF	68327
+N	LCR	68328
+N	thresh	68329
+N	AFD	68330
+N	FOV	68331
+N	from the multiplication theorems below.	68332
+N	is continuous for all	68333
+N	soliton	68334
+N	AK	68335
+N	all cash flows over the life of the contract	68336
+N	deflator	68337
+N	Nominal	68338
+N	GN	68339
+N	OU	68340
+N	Matern	68341
+N	RQ	68342
+N	𝐬𝐢𝐳𝐞	68343
+N	𝑖𝑓	68344
+N	𝑓𝑒𝑚𝑎𝑙𝑒	68345
+N	𝑦𝑒𝑎𝑟𝑠	68346
+N	electron	68347
+N	𝐔𝐔	68348
+N	𝐌𝐕	68349
+N	𝐃𝐃	68350
+N	𝐌𝐯	68351
+N	Wb	68352
+N	-almost surely.	68353
+N	a.s. on	68354
+N	𝐰𝐲	68355
+N	cm depth	68356
+N	Yates	68357
+N	&lsqb;&rsqb;8x2	68358
+N	is infinite	68359
+N	9x4	68360
+N	9x6	68361
+N	is any solution to	68362
+N	free closed	68363
+N	gauge-fixed	68364
+N	CMB	68365
+N	MAX	68366
+N	Ox	68367
+N	ion outside cell	68368
+N	ion inside cell	68369
+N	barrier for losing an electron	68370
+N	barrier for gaining an electron	68371
+N	rxn	68372
+N	RD	68373
+N	inch	68374
+N	kByte/s	68375
+N	moles	68376
+N	in seconds	68377
+N	root diameter	68378
+N	RBW	68379
+N	VBW	68380
+N	sweep	68381
+N	slope of line RH	68382
+N	Inv-	68383
+N	Laplace	68384
+N	for all regular	68385
+N	satisfies constraint	68386
+N	is a stationary point	68387
+N	satisfies all constraints	68388
+N	0x0	68389
+N	𝐂𝐀	68390
+N	𝐁𝐃	68391
+N	𝐗𝐀	68392
+N	⋖	68393
+N	⋗	68394
+N	Shutter Angle	68395
+N	Frame Interval	68396
+N	Exposure Time	68397
+N	print	68398
+N	𝑣𝑓	68399
+N	𝑇𝐸	68400
+N	𝑤𝑓	68401
+N	react	68402
+N	inst	68403
+N	Pol	68404
+N	only for Definition 1	68405
+N	Ĝ	68406
+N	𝖹𝖥𝖢	68407
+N	inv-	68408
+N	realised	68409
+N	i-1	68410
+N	i=1	68411
+N	Variance	68412
+N	Golden rule for capital/labour ratio:	68413
+N	Golden rule savings rate:	68414
+N	is defined	68415
+N	Fit	68416
+N	a chief factor of	68417
+N	casting	68418
+N	riser	68419
+N	TDB	68420
+N	SSR	68421
+N	Energy charge	68422
+N	NaAlSi	68423
+N	boundary terms	68424
+N	threshold	68425
+N	fuel-to-oxidizer ratio	68426
+N	fuel-to-oxidizer ratio based on mass	68427
+N	fuel-to-oxidizer ratio based on number of moles	68428
+N	propane	68429
+N	tolerance	68430
+N	I.	68431
+N	II.	68432
+N	III.	68433
+N	IV.	68434
+N	V.	68435
+N	worst	68436
+N	5.2221	68437
+N	Energy Expended	68438
+N	Usable Acquired Energy	68439
+N	GrossEnergyYield	68440
+N	EnergyExpended	68441
+N	NetEnergy	68442
+N	kernel	68443
+N	Quantize	68444
+N	SDM	68445
+N	OSR	68446
+N	()1x35	68447
+N	number of positive calls	68448
+N	PEG Ratio	68449
+N	Annual EPS Growth	68450
+N	Price/Earnings	68451
+N	Sel	68452
+N	To	68453
+N	these	68454
+N	choose	68455
+N	LSq	68456
+N	Coupling	68457
+N	closure of	68458
+N	are neighbors	68459
+N	else.	68460
+N	mn	68461
+N	Gross Margin Percentage	68462
+N	Revenue - COGS	68463
+N	gross margin	68464
+N	markup	68465
+N	House P/E ratio	68466
+N	House price	68467
+N	House Price-Rent ratio	68468
+N	Monthly Rent	68469
+N	Gross Rental Yield	68470
+N	House Price	68471
+N	Rating	68472
+N	Load Waterline Length	68473
+N	Sail Area	68474
+N	number of samples	68475
+N	scaled mean	68476
+N	Match/Mismatch	68477
+N	Deletion	68478
+N	Insertion	68479
+N	(match)&comma;	68480
+N	(mismatch)	68481
+N	all integers	68482
+N	an integer	68483
+N	inversion in the unit semicircle.	68484
+N	Time of quicker stroke	68485
+N	Time of slower stroke	68486
+N	crank	68487
+N	3.21	68488
+N	𝐀𝐁𝐂𝐃	68489
+N	𝐁𝐂𝐃𝐀	68490
+N	𝐂𝐃𝐀𝐁	68491
+N	𝐃𝐀𝐁𝐂	68492
+N	𝐀𝐗𝐁𝐗	68493
+N	𝐁𝐗	68494
+N	𝐁𝐀𝐗	68495
+N	𝐂𝐀𝐗𝐁	68496
+N	cofactor	68497
+N	𝐀𝐔𝐁	68498
+N	𝐀𝐠	68499
+N	heavy	68500
+N	H.O.T.	68501
+N	𝑉𝐴𝑅	68502
+N	norm of residuals	68503
+N	YES	68504
+N	partial derivative	68505
+N	total derivative	68506
+N	UnadjustedMPG	68507
+N	CityMPG	68508
+N	HighwayMPG	68509
+N	INT	68510
+N	MIN	68511
+N	Economic batch quantity	68512
+N	inventory carrying cost per unit	68513
+N	annual demand	68514
+N	setup costs	68515
+N	WF	68516
+N	forall	68517
+N	molecule	68518
+N	defined as above	68519
+N	(forward Euler)	68520
+N	(backward Euler)	68521
+N	(Crank–Nicolson)	68522
+N	&lsqb;&rsqb;12x1	68523
+N	𝐀𝐀𝟏	68524
+N	𝐀𝐀𝟐	68525
+N	𝐀𝐀𝟑	68526
+N	𝐁𝐁𝟏	68527
+N	𝐁𝐁𝟐	68528
+N	&lsqb;&rsqb;1x16	68529
+N	&lsqb;&rsqb;16x16	68530
+N	𝐄𝐃𝐄	68531
+N	𝐄𝐃	68532
+N	-1	68533
+N	ne	68534
+N	microstrip	68535
+N	pcf	68536
+N	zeros	68537
+N	spring angle	68538
+N	wall angle/2	68539
+N	Two-Conductor Bundle Equation:	68540
+N	Three-Conductor Bundle Equation:	68541
+N	Four-Conductor Bundle Equation:	68542
+N	n-Conductor Bundle Equation:	68543
+N	cations	68544
+N	anions	68545
+N	𝐓𝐚	68546
+N	(shallow water)&comma;	68547
+N	(deep water)&comma;	68548
+N	(deep water).	68549
+N	No. of waves in space	68550
+N	No. of waves in time	68551
+N	absconv	68552
+N	comb	68553
+N	𝕠	68554
+N	D̸	68555
+N	gluons	68556
+N	i&comma;sv	68557
+N	i&comma;sl	68558
+N	1&comma;sv	68559
+N	1&comma;sl	68560
+N	ROE	68561
+N	Shareholder Equity	68562
+N	Average Shareholder Equity	68563
+N	Mob	68564
+N	Conf	68565
+N	Isom	68566
+N	B.O.	68567
+N	number of bonding electrons	68568
+N	number of antibonding electrons	68569
+N	esssup	68570
+N	discr	68571
+N	FC	68572
+N	Debt	68573
+N	Equity	68574
+N	DOL	68575
+N	change in Operating Income	68576
+N	change in Sales	68577
+N	Operating Income	68578
+N	Total Contribution	68579
+N	Operating Margin	68580
+N	40m	68581
+N	30m	68582
+N	Unit Price	68583
+N	Unit Variable Cost	68584
+N	“	68585
+N	”	68586
+N	OLS	68587
+N	GMM	68588
+N	errors	68589
+N	ACE	68590
+N	srg	68591
+N	pairs of pointed spaces	68592
+N	crossed modules	68593
+N	leg	68594
+N	&comma; provided	68595
+N	&comma; given that	68596
+N	So	68597
+N	by substituting	68598
+N	by the above.	68599
+N	isentropic	68600
+N	stage	68601
+N	required:	68602
+N	actual:	68603
+N	g/mol	68604
+N	g/mol Al	68605
+N	grams Al	68606
+N	Moles of Reagent X	68607
+N	Coefficient of Reagent X	68608
+N	gear inches	68609
+N	drive wheel diameter in inches	68610
+N	number of teeth in rear sprocket	68611
+N	number of teeth in front chainring	68612
+N	development	68613
+N	drive wheel circumference in metres	68614
+N	front facing	68615
+N	back facing	68616
+N	𝐧𝐨𝐫𝐦𝐚𝐥	68617
+N	light position	68618
+N	indicator	68619
+N	PointOnPlane	68620
+N	front-facing	68621
+N	back-facing	68622
+N	critical damping	68623
+N	actual damping	68624
+N	perceived	68625
+N	camera	68626
+N	projection	68627
+N	frame	68628
+N	shutter	68629
+N	IND	68630
+N	RED	68631
+N	API gravity	68632
+N	SG at	68633
+N	API	68634
+N	barrels of crude oil per metric ton	68635
+N	SG oil	68636
+N	prompt neutrons	68637
+N	precursor atoms	68638
+N	delayed neutrons	68639
+N	Total COE Quota	68640
+N	nec	68641
+N	thermal	68642
+N	()8x1	68643
+N	𝐂𝐀𝐂	68644
+N	𝐂𝐁𝐂	68645
+N	𝐥𝐁	68646
+N	XY	68647
+N	Js	68648
+N	Yield	68649
+N	9x5	68650
+N	𝐚𝐬𝐜𝐞𝐧𝐝	68651
+N	𝐝𝐞𝐬𝐜𝐞𝐧𝐝	68652
+N	𝐡𝐢𝐭	68653
+N	♮	68654
+N	H2	68655
+N	shoulder	68656
+N	pin	68657
+N	𝖶	68658
+N	𝗊	68659
+N	𝖰	68660
+N	club	68661
+N	meq	68662
+N	equivalent	68663
+N	acid	68664
+N	=0&comma;1&comma;…&comma;L-1	68665
+N	=0&comma;1&comma;…&comma;	68666
+N	m/A	68667
+N	residual	68668
+N	(Shareholders or Owners equity)	68669
+N	gw	68670
+N	go	68671
+N	ow	68672
+N	Alb	68673
+N	Au	68674
+N	rectangular cross-section	68675
+N	circular cross-section	68676
+N	𝓃	68677
+N	lacunary	68678
+N	{}1x20	68679
+N	{}1x18	68680
+N	boxcar	68681
+N	𝐸𝑥𝑝𝑟𝑒𝑠𝑠𝑖𝑜𝑛	68682
+N	𝑇𝑒𝑟𝑚	68683
+N	𝐼𝑛𝑡𝑒𝑔𝑒𝑟	68684
+N	𝑆𝑡𝑟𝑖𝑛𝑔	68685
+N	𝐹𝑎𝑐𝑡𝑜𝑟	68686
+N	molecular weight of CaAl	68687
+N	impression area	68688
+N	kgf	68689
+N	𝐊𝐯	68690
+N	inertial	68691
+N	Levy	68692
+N	Stable	68693
+N	FoldedNormal	68694
+N	fm	68695
+N	2x35	68696
+N	triplet	68697
+N	singlet	68698
+N	GEV	68699
+N	CAPE	68700
+N	parcel	68701
+N	Yukawa	68702
+N	Unit Contribution Margin	68703
+N	Total Revenue	68704
+N	Total Contribution Margin	68705
+N	TR	68706
+N	TFC	68707
+N	TVC	68708
+N	dither	68709
+N	Abnormal Return	68710
+N	Actual Return	68711
+N	Expected Return	68712
+N	()7x8	68713
+N	RM(d&comma;d)	68714
+N	is a constant of type	68715
+N	𝚋𝚘𝚘𝚕	68716
+N	𝚏𝚒𝚡	68717
+N	learning	68718
+N	learned	68719
+N	reward	68720
+N	discount	68721
+N	factor	68722
+N	|)1x4	68723
+N	Consumable	68724
+N	Expended	68725
+N	transit	68726
+N	auto	68727
+N	sample set	68728
+N	DEP	68729
+N	Bin size	68730
+N	is of the form	68731
+N	(votes cast)	68732
+N	(available seats)	68733
+N	Surplus Transfer Value	68734
+N	Value of each vote	68735
+N	Total value of Candidate’s votes	68736
+N	Quota	68737
+N	Candidate’s votes	68738
+N	nth Weighting	68739
+N	Models	68740
+N	REACH	68741
+N	DEFS	68742
+N	𝑃𝐴𝑃𝑅	68743
+N	singular	68744
+N	STATE	68745
+N	MechanicalAdvantage	68746
+N	Width	68747
+N	Liq	68748
+N	ct	68749
+N	dl	68750
+N	IMM	68751
+N	acgt	68752
+N	AMR	68753
+N	IPC	68754
+N	ec	68755
+N	ROA	68756
+N	Total assets	68757
+N	Pretax income	68758
+N	EBIT	68759
+N	Flow rate of the substance through the system	68760
+N	System capacity to hold a substance	68761
+N	for all integer values of m	68762
+N	≇	68763
+N	𝐚𝐛𝐨𝐫𝐭	68764
+N	𝐞𝐧𝐝	68765
+N	𝐝𝐨𝐧𝐞	68766
+N	Earnings Per Share	68767
+N	Weighted Average Common Shares	68768
+N	Profit- Preferred Dividends	68769
+N	Average Common Shares	68770
+N	Net Income - Preferred Dividends	68771
+N	Income from Continuing Operations - Preferred dividends	68772
+N	term in doc	68773
+N	query	68774
+N	term in query	68775
+N	I&comma; saw&comma; the&comma; red&comma; house	68776
+N	context	68777
+N	king	68778
+N	queen	68779
+N	MP1	68780
+N	MP2	68781
+N	MP0	68782
+N	𝜃	68783
+N	money	68784
+N	CP	68785
+N	𝑖𝑛𝑝𝑢𝑡	68786
+N	𝑜𝑢𝑡𝑝𝑢𝑡	68787
+N	unimportant constant	68788
+N	massive scalar field	68789
+N	self-interactions	68790
+N	LMMSE	68791
+N	plim	68792
+N	baker-folded	68793
+N	baker-unfolded	68794
+N	tent	68795
+N	Fixed	68796
+N	Costs	68797
+N	DFL	68798
+N	Expense	68799
+N	DCL	68800
+N	Operating	68801
+N	leverage	68802
+N	Variable	68803
+N	Cost	68804
+N	Financial	68805
+N	Shareholders	68806
+N	1 MET	68807
+N	𝑤	68808
+N	𝑙	68809
+N	𝑚	68810
+N	tr.deg	68811
+N	margin	68812
+N	𝐎𝐓𝐅	68813
+N	𝐌𝐓𝐅	68814
+N	𝐏𝐓𝐅	68815
+N	𝐬𝐞𝐧𝐬𝐨𝐫	68816
+N	𝐈𝐦𝐚𝐠𝐞	68817
+N	𝐎𝐛𝐣𝐞𝐜𝐭	68818
+N	𝐏𝐒𝐅	68819
+N	𝐚𝐭𝐦𝐨𝐬𝐩𝐡𝐞𝐫𝐞	68820
+N	𝐥𝐞𝐧𝐬	68821
+N	𝐝𝐢𝐬𝐩𝐥𝐚𝐲	68822
+N	𝐭𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧	68823
+N	𝐬𝐲𝐬	68824
+N	contrast	68825
+N	Part IkIk	68826
+N	Bl	68827
+N	for all prefixes	68828
+N	(number of times the Nyquist plot encircles -1/k clockwise)	68829
+N	(number of poles of G(s) in ORHP)	68830
+N	𝐴𝐼𝐶	68831
+N	VEV	68832
+N	atom economy	68833
+N	molecular mass of all reactants	68834
+N	molecular mass of desired product	68835
+N	pol	68836
+N	Rice	68837
+N	lowerbound	68838
+N	power out	68839
+N	dBW	68840
+N	CHI	68841
+N	intrinsic	68842
+N	Fourier series	68843
+N	DTFT of a periodic sequence	68844
+N	elsewhere	68845
+N	𝗌𝗎𝖼	68846
+N	𝖭𝖺𝗍	68847
+N	𝗓𝖾𝗋𝗈	68848
+N	𝖭𝖺𝗍𝖨𝗇𝖽	68849
+N	𝗉𝗅𝗎𝗌	68850
+N	case	68851
+N	Bol	68852
+N	SLV	68853
+N	Optimal Utility	68854
+N	Optimal Expenditure	68855
+N	15x2	68856
+N	𝑚𝑜𝑚𝑒𝑛𝑡𝑢𝑚	68857
+N	𝑐𝑙𝑜𝑠𝑒	68858
+N	𝑡𝑜𝑑𝑎𝑦	68859
+N	𝑑𝑎𝑦𝑠	68860
+N	𝑎𝑔𝑜	68861
+N	𝑟𝑎𝑡𝑒	68862
+N	𝑐ℎ𝑎𝑛𝑔𝑒	68863
+N	𝑆𝑀𝐴	68864
+N	𝑦𝑒𝑠𝑡𝑒𝑟𝑑𝑎𝑦	68865
+N	Foreign direct investment	68866
+N	Visibility	68867
+N	average of fringe oscillation	68868
+N	amplitude of fringe oscillation	68869
+N	ArcTan	68870
+N	is adjacent to	68871
+N	plate	68872
+N	thickness	68873
+N	liquid	68874
+N	contact	68875
+N	proportion	68876
+N	immersed	68877
+N	pressure	68878
+N	subphase	68879
+N	monolayer	68880
+N	𝑊𝐵𝐺𝑇	68881
+N	Cap	68882
+N	Range Velocity	68883
+N	target speed	68884
+N	Velocity Threshold	68885
+N	Ground Speed	68886
+N	Range Resolution	68887
+N	PRF	68888
+N	Number of Samples Between Transmit Pulses	68889
+N	Velocity Resolution	68890
+N	Filter Size In Transmit Pulses	68891
+N	Dynamic Range	68892
+N	Smaller of	68893
+N	Transmit Noise&comma; where bandwidth is	68894
+N	Noise Power	68895
+N	Carrier Power	68896
+N	Filter Size	68897
+N	Receiver Dynamic Range	68898
+N	Sample Bits + Filter Size	68899
+N	Subclutter Visibility	68900
+N	CFAR Detection Threshold	68901
+N	Target Power	68902
+N	Clutter Power	68903
+N	Chebyshev	68904
+N	Chess	68905
+N	InverseGamma	68906
+N	VWAP	68907
+N	is true;	68908
+N	Radiation Pattern (in units of dB)	68909
+N	sinh(hypotenuse)	68910
+N	sinh(opposite)	68911
+N	tanh(hypotenuse)	68912
+N	tanh(adjacent)	68913
+N	sinh(adjacent)	68914
+N	tanh(opposite)	68915
+N	cosh(hypotenuse)	68916
+N	cosh(adjacent)cosh(opposite)	68917
+N	cosh(adjacent)	68918
+N	tanh(c)	68919
+N	leaves	68920
+N	spec	68921
+N	number of connected triplets of vertices	68922
+N	number of closed triplets	68923
+N	goal	68924
+N	for particles obeying Maxwell-Boltzmann statistics	68925
+N	for particles obeying Bose-Einstein statistics	68926
+N	for particles obeying Fermi-Dirac statistics	68927
+N	&lsqb;&rsqb;4x7	68928
+N	3x10	68929
+N	observation	68930
+N	for some parameter	68931
+N	Law	68932
+N	in the sense that	68933
+N	N times	68934
+N	𝐀𝐫	68935
+N	repeat	68936
+N	is sufficiently small then exit loop	68937
+N	end repeat	68938
+N	The result is	68939
+N	dynes	68940
+N	There exists a norm-regular	68941
+N	forager bees	68942
+N	per day	68943
+N	trips in good flying weather	68944
+N	per trip and bee	68945
+N	mg of nectar during honey flow	68946
+N	kg/day	68947
+N	𝑃𝑆𝑁𝑅	68948
+N	failures	68949
+N	Maps	68950
+N	Riesz	68951
+N	BCh	68952
+N	plasma	68953
+N	cyclic permutations:	68954
+N	anticyclic permutations:	68955
+N	MDD	68956
+N	is an output neuron&comma;	68957
+N	is an inner neuron.	68958
+N	Scaled Inv-	68959
+N	CMRR	68960
+N	Angle of the wind from the direction of travel	68961
+N	The measured total wind speed	68962
+N	Crosswind	68963
+N	Headwind	68964
+N	𝗄𝗇𝗈𝗍𝗌	68965
+N	Tailwind	68966
+N	GUE	68967
+N	GOE	68968
+N	GSE	68969
+N	eigenvalues of	68970
+N	Total external virtual work	68971
+N	types of other players	68972
+N	type of this player	68973
+N	auth	68974
+N	hub	68975
+N	is closed unbounded in	68976
+N	sent	68977
+N	received	68978
+N	vector area of parallelogram	68979
+N	vector area of triangle	68980
+N	separation	68981
+N	approach	68982
+N	𝐝𝐥	68983
+N	number of objects	68984
+N	capacity	68985
+N	GP	68986
+N	PSF	68987
+N	precondition	68988
+N	is simple for	68989
+N	Û	68990
+N	𝗉	68991
+N	𝗑	68992
+N	⁰	68993
+N	gc	68994
+N	bc	68995
+N	AL	68996
+N	Stock A	68997
+N	Flow	68998
+N	Stock B	68999
+N	𝐹𝑢𝑛	69000
+N	isolated guessing; address space is re-randomized after each attempt	69001
+N	systematic brute forcing on copies of the program with the same address space	69002
+N	if bit	69003
+N	is 1	69004
+N	is 0	69005
+N	gb	69006
+N	TMR	69007
+N	neq	69008
+N	Landau	69009
+N	FX Earnings	69010
+N	FX Expenses	69011
+N	S2	69012
+N	G2	69013
+N	G1	69014
+N	S1	69015
+N	Opposition strength multiplier	69016
+N	ranking position	69017
+N	Regional strength multiplier	69018
+N	Team 1 regional weighting	69019
+N	Team 2 regional weighting	69020
+N	Ranking points	69021
+N	Result points	69022
+N	Match status	69023
+N	Opposition strength	69024
+N	Regional strength	69025
+N	Power in dBW	69026
+N	Power in W	69027
+N	FL	69028
+N	Current yield	69029
+N	Annual interest payment	69030
+N	Current Yield	69031
+N	lattice	69032
+N	impurities	69033
+N	defects	69034
+N	CRS	69035
+N	ATIME	69036
+N	yesterday	69037
+N	𝐶𝑀𝐴	69038
+N	WMA	69039
+N	alternate	69040
+N	EMA	69041
+N	weight omitted by stopping after k terms	69042
+N	total weight	69043
+N	MMA	69044
+N	𝑆𝑀𝑀	69045
+N	is bounded linear.	69046
+N	⊭	69047
+N	solute	69048
+N	octanol	69049
+N	un	69050
+N	ionized	69051
+N	wat	69052
+N	acids	69053
+N	bases	69054
+N	for acids with	69055
+N	for bases with	69056
+N	OW	69057
+N	ghost	69058
+N	𝐝𝐞𝐠	69059
+N	kV	69060
+N	Prim	69061
+N	Tp	69062
+N	symbol	69063
+N	boy	69064
+N	mess	69065
+N	bad	69066
+N	made	69067
+N	(Axioms)	69068
+N	VF	69069
+N	PMD	69070
+N	MeV/k	69071
+N	GeV/fm	69072
+N	g cm	69073
+N	CzS	69074
+N	Forget	69075
+N	convergent iff	69076
+N	deep	69077
+N	shallow	69078
+N	gravity-capillary	69079
+N	Hull	69080
+N	complex words	69081
+N	𝐦𝐢𝐧	69082
+N	nucleus recoil	69083
+N	10x3	69084
+N	number of mixture components	69085
+N	number of observations	69086
+N	parameter of distribution of observation associated with component	69087
+N	mixture weight&comma; i.e.&comma; prior probability of a particular component	69088
+N	-dimensional vector composed of all the individual	69089
+N	; must sum to 1	69090
+N	component of observation	69091
+N	probability distribution of an observation&comma; parametrized on	69092
+N	as above	69093
+N	shared hyperparameter for component parameters	69094
+N	shared hyperparameter for mixture weights	69095
+N	prior probability distribution of component parameters&comma; parametrized on	69096
+N	mean of component	69097
+N	variance of component	69098
+N	shared hyperparameters	69099
+N	Symmetric-Dirichlet	69100
+N	&lsqb;&rsqb;8x5	69101
+N	NE	69102
+N	coNE	69103
+N	coNEXP	69104
+N	𝖣𝖳𝖨𝖬𝖤	69105
+N	𝖭𝖳𝖨𝖬𝖤	69106
+N	𝑀𝑒𝑎𝑛	69107
+N	𝑆𝑡𝑑𝐷𝑒𝑣	69108
+N	𝑆𝑘𝑒𝑤	69109
+N	𝐾𝑢𝑟𝑡	69110
+N	is unbounded	69111
+N	(90° counterclockwise rotation)	69112
+N	(180° rotation in either direction – a half-turn)	69113
+N	(270° counter-clockwise rotation&comma; the same as a 90° clockwise rotation)	69114
+N	copysign	69115
+N	𝑝𝐴	69116
+N	Book Value Of Debt	69117
+N	Net Operating Profit	69118
+N	Adjusted Taxes	69119
+N	Book Value Of Equity	69120
+N	Cash	69121
+N	Invested Capital	69122
+N	metaball	69123
+N	Gi	69124
+N	earnings per share	69125
+N	book value per share	69126
+N	shares outstanding	69127
+N	shareholders	69128
+N	equity	69129
+N	net income	69130
+N	5.3736	69131
+N	Slerp	69132
+N	hook	69133
+N	𝐎𝐏𝐃	69134
+N	kW	69135
+N	(Equity Market Value + Liabilities Market Value)	69136
+N	(Equity Book Value + Liabilities Book Value)	69137
+N	(Equity Market Value + Liabilities Book Value)	69138
+N	Equity Market Value	69139
+N	Equity Book Value	69140
+N	corporate net worth	69141
+N	value of stock market	69142
+N	Replacement cost of capital	69143
+N	Market value of installed capital	69144
+N	middle	69145
+N	Fermi	69146
+N	𝐁𝐨𝐡𝐫	69147
+N	+ (lower-order terms)	69148
+N	𝓔	69149
+N	Spread	69150
+N	Maturity in years	69151
+N	microstates	69152
+N	Mouse	69153
+N	Fears	69154
+N	Team 2’s par score	69155
+N	Team 1’s score	69156
+N	Team 1’s resources	69157
+N	Team 2’s resources	69158
+N	Resources	69159
+N	Resources lost by	69160
+N	third interruption	69161
+N	second interruption	69162
+N	first interruption	69163
+N	at start	69164
+N	of innings	69165
+N	resources	69166
+N	available	69167
+N	remaining	69168
+N	at restart	69169
+N	at third	69170
+N	interruption	69171
+N	at second	69172
+N	at first	69173
+N	Personal signal	69174
+N	Previous	69175
+N	allowed temperature rise in	69176
+N	is a loop based at	69177
+N	𝐨𝐮𝐭	69178
+N	rcp	69179
+N	𝐃𝐢𝐬𝐭	69180
+N	NEXPTIME	69181
+N	Extremum	69182
+N	isqrt	69183
+N	distance from radar to target	69184
+N	radar wavelength	69185
+N	time between two pulses	69186
+N	is the sum of all digits in	69187
+N	is the number of digits in	69188
+N	Arc	69189
+N	Gb	69190
+N	BSp	69191
+N	KE	69192
+N	𝐂𝐑𝐢𝐧𝐠	69193
+N	𝐐𝐌	69194
+N	𝐾𝑃𝑅	69195
+N	𝐿𝑅	69196
+N	Hess	69197
+N	𝐴𝑅𝐴	69198
+N	𝑅𝑅𝐴	69199
+N	(repeated indices indicate summation)	69200
+N	ADB	69201
+N	long	69202
+N	ELEMENTARY	69203
+N	net profit margin	69204
+N	revenue	69205
+N	net profit	69206
+N	profit percentage	69207
+N	cost price	69208
+N	Taxicab	69209
+N	elsewhere.	69210
+N	coinc.	69211
+N	𝐛𝐜	69212
+N	𝐚𝐜	69213
+N	𝐛𝐚	69214
+N	Presentation is caused by condition in individual	69215
+N	Presentation WHOIFPI by condition	69216
+N	Presentation WHOIFPI	69217
+N	Presentation has occurred in individual	69218
+N	Condition WHOIFPI	69219
+N	condition	69220
+N	presentation	69221
+N	Condition in population	69222
+N	PH in population	69223
+N	4000 per year	69224
+N	PH WHOIFPI	69225
+N	Hypercalcemia WHOIFPI by PH	69226
+N	cancer in population	69227
+N	250 per year	69228
+N	cancer WHOIFPI	69229
+N	cancer	69230
+N	Hypercalcemia WHOIFPI by cancer	69231
+N	no disease in population	69232
+N	no disease WHOIFPI	69233
+N	no disease	69234
+N	hypercalcemia	69235
+N	Hypercalcemia WHOIFPI by no disease	69236
+N	hypercalcemia WHOIFPI	69237
+N	hypercalcemia is caused by PH in individual	69238
+N	hypercalcemia is caused by cancer in individual	69239
+N	hypercalcemia is caused by other conditions in individual	69240
+N	hypercalcemia is present despite no disease in individual	69241
+N	probability	69242
+N	PostBT	69243
+N	PreBT	69244
+N	Correcting factor	69245
+N	IE	69246
+N	open in	69247
+N	7x4	69248
+N	resp.	69249
+N	Enc	69250
+N	Dec	69251
+N	part	69252
+N	for every finite cardinal number	69253
+N	horiz	69254
+N	zen	69255
+N	ObservedNumber	69256
+N	𝐑𝐧	69257
+N	𝐀𝐔	69258
+N	𝐑𝐮	69259
+N	𝐀𝐑𝐀	69260
+N	𝐑𝐀	69261
+N	Lamb	69262
+N	𝑀𝐴	69263
+N	BetaBin	69264
+N	normwise	69265
+N	frame size	69266
+N	’th	69267
+N	DFE	69268
+N	2.4\n                  \n                  3	69269
+N	BI	69270
+N	BI2	69271
+N	nCO	69272
+N	nH	69273
+N	MgCO	69274
+N	nCH	69275
+N	nFe	69276
+N	CaO	69277
+N	friction	69278
+N	is purely unrectifiable	69279
+N	one has	69280
+N	half top angle	69281
+N	center distance	69282
+N	&lsqb;&rsqb;7x3	69283
+N	Location	69284
+N	Measured	69285
+N	unshifted i	69286
+N	shifted i	69287
+N	if it is one of the unshifted operators	69288
+N	if it is one of the shifted operators	69289
+N	summands	69290
+N	para	69291
+N	ortho	69292
+N	translation	69293
+N	rotation	69294
+N	rolling	69295
+N	c.o.m.	69296
+N	gyr.	69297
+N	Magnification	69298
+N	sequence with period	69299
+N	starting point for car	69300
+N	target for car	69301
+N	social cost	69302
+N	APR	69303
+N	EAR	69304
+N	is a polynomial and	69305
+N	𝐓𝐛	69306
+N	𝐓𝐜	69307
+N	SWAP	69308
+N	strange quark	69309
+N	LWL	69310
+N	Sales revenue – Total Variable Costs	69311
+N	Throughput accounting Ratio	69312
+N	Return per factory hour	69313
+N	Cost per factory hour	69314
+N	mechanical	69315
+N	hrs	69316
+N	° per year	69317
+N	diss	69318
+N	Total Fe bound to EDTA	69319
+N	Total Fe not bound to EDTA	69320
+N	Total EDTA not bound to Fe	69321
+N	Reactant	69322
+N	Product	69323
+N	VO	69324
+N	Possible roots:	69325
+N	roots of	69326
+N	Hyp	69327
+N	success	69328
+N	something else	69329
+N	𝐄𝐄𝐄	69330
+N	LIN	69331
+N	minutes	69332
+N	Handicap differential	69333
+N	slope rating	69334
+N	Equitable Stroke Control	69335
+N	course rating	69336
+N	Course Handicap	69337
+N	Handicap index	69338
+N	Slope Rating	69339
+N	10.5	69340
+N	117	69341
+N	124	69342
+N	arteriovenous oxygen difference	69343
+N	oxygen consumption	69344
+N	Oxygen Content of blood	69345
+N	Hb	69346
+N	g/dl	69347
+N	saturation fraction	69348
+N	torr	69349
+N	g of Hb	69350
+N	Pulse Spacing	69351
+N	Propagation Speed	69352
+N	Max Range	69353
+N	PRT	69354
+N	300 km range	69355
+N	75 m/s velocity	69356
+N	450 km	69357
+N	1&comma;500 m/s	69358
+N	150 km	69359
+N	4&comma;500 m/s	69360
+N	(Cylinder Volume)	69361
+N	Stroke	69362
+N	(Engine Displacement)	69363
+N	(Number of Cylinders)	69364
+N	Inradius	69365
+N	VSMOW	69366
+N	phot	69367
+N	centimeter	69368
+N	lumen	69369
+N	lumens	69370
+N	lux	69371
+N	kilolux	69372
+N	Fermion	69373
+N	inner side	69374
+N	inner angle	69375
+N	outer side	69376
+N	outer angle	69377
+N	(CT1)	69378
+N	(CT2)	69379
+N	(CT3)	69380
+N	(CT4)	69381
+N	(CT5)	69382
+N	(CT6)	69383
+N	Area of polygon (on the unit sphere)	69384
+N	Area of triangle (on the unit sphere)	69385
+N	Area of the sphere	69386
+N	Null	69387
+N	&lsqb;&rsqb;10x6	69388
+N	Mirror Image	69389
+N	𝑆	69390
+N	𝑇	69391
+N	Total Heat Input	69392
+N	Electrical Power Output + Heat Output + Cooling Output	69393
+N	fictitious	69394
+N	offer	69395
+N	bid	69396
+N	SPACE	69397
+N	does not accept	69398
+N	using space	69399
+N	AIC	69400
+N	AICc	69401
+N	initial bracket size	69402
+N	Jd	69403
+N	pass	69404
+N	Be-Ti	69405
+N	Sup	69406
+N	Sample	69407
+N	P̂	69408
+N	⫋	69409
+N	total words	69410
+N	total syllables	69411
+N	total sentences	69412
+N	with the initial value	69413
+N	emt	69414
+N	bb	69415
+N	is a partition of	69416
+N	Prerequisite : Justification	69417
+N	Justification	69418
+N	vi	69419
+N	vii	69420
+N	Percent	69421
+N	estimated frequency of haplotype	69422
+N	in Table 3	69423
+N	for data in Table 3;	69424
+N	frames	69425
+N	channels	69426
+N	framing	69427
+N	nested	69428
+N	commutators	69429
+N	sdet	69430
+N	category	69431
+N	agreement	69432
+N	pitch	69433
+N	ẇ	69434
+N	w̄	69435
+N	x̄	69436
+N	ȳ	69437
+N	kg m	69438
+N	km/s/Mpc	69439
+N	FPR	69440
+N	TPR	69441
+N	AUC	69442
+N	heart rate on completion	69443
+N	mile time	69444
+N	body weight (lbs)	69445
+N	inst&comma;creep	69446
+N	inst&comma;relax	69447
+N	SAR	69448
+N	QB	69449
+N	pb	69450
+N	for bosonic operators&comma;	69451
+N	sign of the permutation	69452
+N	for fermionic operators.	69453
+N	Bowling	69454
+N	Wickets	69455
+N	Runs	69456
+N	conceded	69457
+N	taken	69458
+N	&lsqb;}1x2	69459
+N	H.c.	69460
+N	is well-labelled&comma;	69461
+N	DA	69462
+N	mRMR	69463
+N	QPFS	69464
+N	SPEC	69465
+N	CMI	69466
+N	HSICLasso	69467
+N	CFS	69468
+N	stop	69469
+N	𝑡	69470
+N	delay	69471
+N	Reaction Time	69472
+N	Movement Time	69473
+N	Processing Speed	69474
+N	National Savings	69475
+N	equivalently&comma;	69476
+N	𝖡𝗈𝗈𝗅𝖾𝖺𝗇	69477
+N	IFTHENELSE	69478
+N	ISZERO	69479
+N	𝐍𝐍	69480
+N	𝐇𝐳	69481
+N	𝐒𝐳	69482
+N	srgb	69483
+N	. . .	69484
+N	NOR	69485
+N	{&rsqb;1x2	69486
+N	Crit	69487
+N	Outer	69488
+N	Inner	69489
+N	Thrust	69490
+N	are logically equivalent&comma; then	69491
+N	𝐭𝐁	69492
+N	Cycles of concentration	69493
+N	ASPACE	69494
+N	AP	69495
+N	APSPACE	69496
+N	AEXPTIME	69497
+N	coATIME	69498
+N	LUB	69499
+N	is ramified&comma;	69500
+N	splits&comma;	69501
+N	is inert.	69502
+N	is equivalent to	69503
+N	(7)	69504
+N	(8)	69505
+N	(9)	69506
+N	(10)	69507
+N	(11)	69508
+N	(12)	69509
+N	(13)	69510
+N	(14)	69511
+N	maximum power generated	69512
+N	minimum power required	69513
+N	(15)	69514
+N	(16)	69515
+N	EO	69516
+N	number of persons exposed to risk factor (food)	69517
+N	number of persons experiencing event (food poisoning)	69518
+N	The sum of all connected&comma; irreducible graphs with one white and	69519
+N	black vertices	69520
+N	keV s	69521
+N	burn-up fraction	69522
+N	EQE	69523
+N	photons/sec	69524
+N	electrons/sec	69525
+N	(charge of one electron)	69526
+N	total power of photons	69527
+N	energy of one photon	69528
+N	IQE	69529
+N	absorbed photons/sec	69530
+N	1-Reflection-Transmission	69531
+N	child shoe size	69532
+N	last length in inches	69533
+N	adult shoe size	69534
+N	male shoe size	69535
+N	female shoe size (common)	69536
+N	female shoe size (FIA)	69537
+N	male shoe size (Brannock)	69538
+N	foot length in inches	69539
+N	female shoe size (Brannock)	69540
+N	shoe	69541
+N	Paris	69542
+N	Cabtaxi	69543
+N	8x5	69544
+N	10x5	69545
+N	non-bonded	69546
+N	cols	69547
+N	number of susceptible persons exposed	69548
+N	number of new infections	69549
+N	average duration of exposure	69550
+N	Mx	69551
+N	uv	69552
+N	dir	69553
+N	exterior	69554
+N	𝐓𝐓	69555
+N	𝐓𝐮	69556
+N	for integral spins	69557
+N	for half-integral spins	69558
+N	Bd	69559
+N	broadly defined capital account	69560
+N	current account surplus	69561
+N	narrowly defined capital account surplus	69562
+N	financial account	69563
+N	CA	69564
+N	NI	69565
+N	2x15	69566
+N	8x9	69567
+N	9x8	69568
+N	diode	69569
+N	(i=1&comma; 2…&comma; n)	69570
+N	(i = 1&comma; 2&comma; …&comma; n)	69571
+N	(i = 1&comma;2&comma;…n)	69572
+N	the smaller of	69573
+N	action	69574
+N	mk	69575
+N	number of asymptotes	69576
+N	fell	69577
+N	saw	69578
+N	Receptor	69579
+N	Ligand-receptor complex	69580
+N	Ligand	69581
+N	DK	69582
+N	Key	69583
+N	Salt	69584
+N	Iterations	69585
+N	extraction ratio	69586
+N	effective RPF	69587
+N	creatinine	69588
+N	is composite	69589
+N	smooth interpolation	69590
+N	Su	69591
+N	concentration of cells in original mixture	69592
+N	volume of original mixture in sample	69593
+N	volume of diluted sample	69594
+N	number of cells counted	69595
+N	proportion of chamber counted	69596
+N	volume of squares counted	69597
+N	Color harmony	69598
+N	Col	69599
+N	max(tf	69600
+N	𝐦𝐚𝐱	69601
+N	if tf	69602
+N	⊸	69603
+N	0 db	69604
+N	0 dB	69605
+N	subdominant	69606
+N	dominant	69607
+N	Method	69608
+N	closest	69609
+N	iteration	69610
+N	new tempo	69611
+N	number of pivot note values in old measure	69612
+N	number of pivot note values in new measure	69613
+N	old tempo	69614
+N	ax	69615
+N	Jx	69616
+N	𝜑	69617
+N	gives	69618
+N	Saturday	69619
+N	csgn	69620
+N	𝐂𝐑	69621
+N	𝐉𝐑	69622
+N	&lsqb;&rsqb;10x3	69623
+N	PQ	69624
+N	QR	69625
+N	OP	69626
+N	Support	69627
+N	func	69628
+N	micro	69629
+N	closed	69630
+N	transfer	69631
+N	separate	69632
+N	pathway	69633
+N	pathways	69634
+N	pv	69635
+N	annuity	69636
+N	𝐏𝐗	69637
+N	𝐏𝐲	69638
+N	injective	69639
+N	is integral.	69640
+N	GHA	69641
+N	GMHA	69642
+N	EOT = GAST	69643
+N	Offset	69644
+N	E = GMST	69645
+N	EoT	69646
+N	nint	69647
+N	Declination	69648
+N	hb	69649
+N	ionic	69650
+N	lipophilic	69651
+N	𝑁𝑅𝑂𝑇	69652
+N	Complex	69653
+N	desolvation	69654
+N	motion	69655
+N	configuration	69656
+N	interaction	69657
+N	rnd	69658
+N	n odd	69659
+N	n even	69660
+N	quus	69661
+N	LSB	69662
+N	respectively	69663
+N	𝑉𝑎𝑟	69664
+N	𝑀𝑆𝑏𝑒𝑡𝑤𝑒𝑒𝑛	69665
+N	𝑀𝑆𝑤𝑖𝑡ℎ𝑖𝑛	69666
+N	elim	69667
+N	vnil	69668
+N	vcons	69669
+N	El	69670
+N	𝖳𝗒𝗉𝖾	69671
+N	𝖢𝗈𝗇𝗍𝖾𝗑𝗍	69672
+N	are independent events and	69673
+N	neighborhood	69674
+N	convective mass transport rate	69675
+N	reaction rate	69676
+N	diffusive mass transfer rate	69677
+N	chemical time scale	69678
+N	flow time scale	69679
+N	number of points in	69680
+N	HBF	69681
+N	let id =	69682
+N	1.6160	69683
+N	NAPE	69684
+N	SFC	69685
+N	LFS	69686
+N	indexed	69687
+N	MaximumFlowValue	69688
+N	Rabin	69689
+N	Yield to maturity(YTM)	69690
+N	Time period	69691
+N	Present value	69692
+N	Face value	69693
+N	abelian	69694
+N	pF	69695
+N	𝐗𝐀𝐗	69696
+N	𝐃𝐗𝐂	69697
+N	𝐃𝐌𝐂	69698
+N	𝐃𝐔𝐃	69699
+N	𝐕𝐂	69700
+N	dCr	69701
+N	cNH	69702
+N	breakdown	69703
+N	Townsend	69704
+N	GrpRng	69705
+N	Grp	69706
+N	GrpUnits	69707
+N	CURVE	69708
+N	HASH	69709
+N	volume percent	69710
+N	volume of solution	69711
+N	volume of solute	69712
+N	Red Sox	69713
+N	Yankees	69714
+N	Red Sox or Yankees	69715
+N	complete game	69716
+N	Red Sox win	69717
+N	if Goldbach’s conjecture is false	69718
+N	(measurement of the first kind)&comma;	69719
+N	𝐁𝐑	69720
+N	𝐒𝐀	69721
+N	𝐒𝐁𝐑	69722
+N	given by	69723
+N	we have	69724
+N	TV	69725
+N	JS	69726
+N	permutations	69727
+N	Moeb	69728
+N	QS	69729
+N	statA	69730
+N	abA	69731
+N	loop	69732
+N	Atom	69733
+N	heat energy absorbed at hot junction	69734
+N	energy provided to the load	69735
+N	is at infinity	69736
+N	density of beverage at 20°C in g/ml	69737
+N	Starting	69738
+N	pW	69739
+N	𝗌𝗈𝗎𝗋𝖼𝖾	69740
+N	𝗅𝗈𝖺𝖽	69741
+N	turns ratio	69742
+N	load resistance	69743
+N	source resistance	69744
+N	Airy	69745
+N	𝐪𝐱𝐪	69746
+N	linking number	69747
+N	′′′′′′	69748
+N	CrO	69749
+N	HCrO	69750
+N	pCr	69751
+N	next outcome is success	69752
+N	sun will rise tomorrow	69753
+N	year2	69754
+N	year1	69755
+N	higher powers of	69756
+N	&lsqb;&rsqb;15x8	69757
+N	prime ideal of	69758
+N	odd prime	69759
+N	BQ	69760
+N	contains	69761
+N	coim	69762
+N	CRing	69763
+N	Schemes	69764
+N	pq	69765
+N	qr	69766
+N	sd	69767
+N	nc	69768
+N	cs	69769
+N	arcsn	69770
+N	PointsPlus	69771
+N	fiber	69772
+N	carbohydrates	69773
+N	protein	69774
+N	sugar alcohol	69775
+N	alcohol	69776
+N	for every subset	69777
+N	for any subsets	69778
+N	for all subsets	69779
+N	(fm)	69780
+N	Net Cash Flows from Operating Activities	69781
+N	Rule Items	69782
+N	Net Cash Flows from Financing Activities	69783
+N	C1	69784
+N	-almost all	69785
+N	bi	69786
+N	Plasma Concentration	69787
+N	Urine Concentration	69788
+N	Urine Flow	69789
+N	Net Filt. Pressure	69790
+N	GFR	69791
+N	24-hour volume	69792
+N	72	69793
+N	(140 - Age)	69794
+N	Mass (in kilograms)	69795
+N	Serum Creatinine (in mg/dL)	69796
+N	Serum Creatinine (in	69797
+N	mol/L)	69798
+N	eGFR	69799
+N	32788	69800
+N	Serum Creatinine	69801
+N	186	69802
+N	170	69803
+N	BUN	69804
+N	Albumin	69805
+N	141	69806
+N	min(SCr/k&comma;1)	69807
+N	max(SCr/k&comma;1)	69808
+N	0.993	69809
+N	166	69810
+N	(SCr/0.7)	69811
+N	163	69812
+N	(SCr/0.9)	69813
+N	144	69814
+N	TAS	69815
+N	EAS	69816
+N	INR	69817
+N	ISI	69818
+N	mesh	69819
+N	{}5x3	69820
+N	treatment	69821
+N	effect	69822
+N	Cohens	69823
+N	covalent	69824
+N	noncovalent	69825
+N	𝐴𝑇𝑃	69826
+N	𝑋𝑃	69827
+N	𝐴𝐷𝑃	69828
+N	for large	69829
+N	bo	69830
+N	()3x6	69831
+N	or as	69832
+N	Lat	69833
+N	2/3	69834
+N	sub	69835
+N	s - l	69836
+N	l - g	69837
+N	s - g	69838
+N	Isentropic Turbine Work	69839
+N	Actual Turbine Work	69840
+N	Actual Compressor Work	69841
+N	Isentropic Compressor Work	69842
+N	Isentropic KE at Nozzle Exit	69843
+N	Actual KE at Nozzle Exit	69844
+N	patient’s weight in kg	69845
+N	is a first-order formula and	69846
+N	𝐎𝐫𝐝	69847
+N	DES-X	69848
+N	DES	69849
+N	fermions&comma;	69850
+N	bosons.	69851
+N	individual’s outcomes	69852
+N	relational partner’s inputs	69853
+N	relational partner’s outcomes	69854
+N	individual’s own inputs	69855
+N	re	69856
+N	𝐂𝐗𝐂	69857
+N	𝐂𝐕𝐂	69858
+N	𝐗𝐳	69859
+N	𝐕𝐳	69860
+N	Diffusion rate	69861
+N	Mass transfer rate	69862
+N	Objective	69863
+N	Ramsden	69864
+N	discount yield	69865
+N	face value	69866
+N	purchase price	69867
+N	days till maturity	69868
+N	OD	69869
+N	affinity	69870
+N	Posterior probability	69871
+N	Prior probability	69872
+N	(ohms)	69873
+N	(volts)	69874
+N	IT Equipment Power	69875
+N	Total Facility Power	69876
+N	colex	69877
+N	s or 47 billion years	69878
+N	g mol	69879
+N	Bq/g	69880
+N	⫌	69881
+N	ROL	69882
+N	Coulomb	69883
+N	f(x&comma;u)	69884
+N	if the	69885
+N	Otherwise	69886
+N	Index level	69887
+N	Index divisor	69888
+N	Price of stock	69889
+N	Number of shares	69890
+N	Free float adjustment factor	69891
+N	Darwinian	69892
+N	View	69893
+N	(i.e.&comma;	69894
+N	Upper right-hand	69895
+N	(i.e.&comma; tests	69896
+N	HPBW	69897
+N	FNBW	69898
+N	𝖼𝖺𝗌𝖾	69899
+N	𝗈𝖿	69900
+N	frac	69901
+N	burger	69902
+N	onions	69903
+N	potatoes	69904
+N	milk	69905
+N	bread	69906
+N	butter	69907
+N	diapers	69908
+N	conf	69909
+N	if and only if  ord	69910
+N	Suicide	69911
+N	Protestant	69912
+N	not Protestant	69913
+N	𝐗𝐮	69914
+N	gl dim	69915
+N	-module	69916
+N	Speed Length Ratio	69917
+N	Fn	69918
+N	gravitational force	69919
+N	centripetal force	69920
+N	𝚜𝚝𝚊𝚝𝚎	69921
+N	𝐖𝐱	69922
+N	pointwise	69923
+N	uniformly	69924
+N	the domain	69925
+N	is a projection and	69926
+N	implies that	69927
+N	-almost everywhere	69928
+N	weight of object	69929
+N	confinement	69930
+N	focal spot area	69931
+N	average power	69932
+N	Peak intensity	69933
+N	peak power	69934
+N	Fluence	69935
+N	laser pulse energy	69936
+N	Peak power	69937
+N	pulse duration	69938
+N	pulse energy	69939
+N	3x9	69940
+N	MSSM	69941
+N	EF	69942
+N	DE	69943
+N	post-money valuation	69944
+N	new investment	69945
+N	shares issued for new investment	69946
+N	total post investment shares outstanding	69947
+N	pre-money valuation	69948
+N	𝑊	69949
+N	standardized	69950
+N	phonons	69951
+N	rationally	69952
+N	𝐯𝐞	69953
+N	Sl	69954
+N	Gl	69955
+N	vertical	69956
+N	horizontal	69957
+N	pk	69958
+N	LIX	69959
+N	Ideal performance	69960
+N	Measured performance	69961
+N	QP	69962
+N	SUBEXP	69963
+N	SUBEPT	69964
+N	sem	69965
+N	excosec	69966
+N	liftM2	69967
+N	call/cc	69968
+N	extend	69969
+N	duplicate	69970
+N	ZPP	69971
+N	-RP	69972
+N	𝐓𝐫	69973
+N	(digit at	69974
+N	BHN	69975
+N	HBW	69976
+N	billion	69977
+N	The particle horizon	69978
+N	exists if and only if	69979
+N	where&comma; for	69980
+N	p.v.	69981
+N	Hz&comma;	69982
+N	is open and	69983
+N	-almost everywhere in	69984
+N	brilliance	69985
+N	mrad	69986
+N	𝐏𝐰	69987
+N	is an open set with	69988
+N	NR	69989
+N	𝑖𝑛𝑛𝑒𝑟	69990
+N	𝑜𝑢𝑡𝑒𝑟	69991
+N	with probability 1/2	69992
+N	for the signs	69993
+N	2.9\n                  \n                  8	69994
+N	Part IIzIIz	69995
+N	Part I¯I¯	69996
+N	Part IVzIVz	69997
+N	Part III¯III¯	69998
+N	Part V¯V¯	69999
+N	Part VIzVIz	70000
+N	mol/s	70001
+N	BackoffTime	70002
+N	aSlotTime	70003
+N	fermions	70004
+N	bosons	70005
+N	Rhodopsin	70006
+N	Retinal	70007
+N	Opsin	70008
+N	cents&comma;	70009
+N	unexplained variance	70010
+N	explained variance	70011
+N	within-group variability	70012
+N	between-group variability	70013
+N	𝓠	70014
+N	Mt	70015
+N	TNT	70016
+N	Part IIII	70017
+N	diabetes	70018
+N	glu	70019
+N	db.	70020
+N	fus	70021
+N	lev	70022
+N	aggr	70023
+N	simil	70024
+N	RM	70025
+N	Bankroll	70026
+N	maximum allowable stress	70027
+N	factor of safety	70028
+N	ultimate tensile strength	70029
+N	𝐄𝐧𝐝	70030
+N	𝐀𝐝𝐣	70031
+N	Reject	70032
+N	-measurable function	70033
+N	flow gradient term	70034
+N	buoyancy term	70035
+N	fp	70036
+N	add row 2 to row 1	70037
+N	subtract 3 times row 2 from row 1	70038
+N	semi-major axis	70039
+N	semi-minor axis	70040
+N	distance of apogee from centre of earth	70041
+N	altitude of apogee above surface	70042
+N	specific kinetic energy at launch	70043
+N	speed at launch	70044
+N	period of low earth orbit	70045
+N	area fraction	70046
+N	(major axis)(minor axis)	70047
+N	time of flight	70048
+N	RNAP	70049
+N	Pro	70050
+N	RBS	70051
+N	nonnegative terms corresponding to nonbasic variables	70052
+N	&lsqb;&rsqb;4x8	70053
+N	known square root	70054
+N	known square	70055
+N	unknown square	70056
+N	Percentage error	70057
+N	new diameter	70058
+N	standard diameter	70059
+N	Diameter in millimetres	70060
+N	Diameter in inches	70061
+N	preds	70062
+N	is a small integer)	70063
+N	ATT	70064
+N	COMP	70065
+N	YDS	70066
+N	Passer Rating	70067
+N	NCAA	70068
+N	Apriori	70069
+N	large	70070
+N	itemsets	70071
+N	𝐟𝐨𝐫	70072
+N	transactions	70073
+N	candidates	70074
+N	𝑐𝑜𝑢𝑛𝑡	70075
+N	𝐫𝐞𝐭𝐮𝐫𝐧	70076
+N	paint	70077
+N	single	70078
+N	𝒾	70079
+N	{}9x3	70080
+N	{}5x2	70081
+N	{}27x3	70082
+N	{}7x2	70083
+N	𝐋𝐱	70084
+N	𝐔𝐱	70085
+N	ol	70086
+N	4x8	70087
+N	7x14	70088
+N	Rp	70089
+N	𝐶𝑜𝑛𝑣	70090
+N	𝐴𝑠𝑠𝑜𝑐	70091
+N	𝑅𝑛𝑔	70092
+N	Therapeutic ratio	70093
+N	previous	70094
+N	SMMA	70095
+N	SMA	70096
+N	magnon	70097
+N	floating	70098
+N	swap	70099
+N	domestic	70100
+N	foreign	70101
+N	population	70102
+N	-Var	70103
+N	constant&comma; where	70104
+N	is separable over	70105
+E	n	500
+E	w	501
+E	e	502
+E	b	503
+E	a	504
+E	u	505
+E	o	506
+E	d	507
+E	c	508
