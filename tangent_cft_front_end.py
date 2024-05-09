@@ -1,7 +1,12 @@
 import argparse
+import logging
 
 from Embedding_Preprocessing.encoder_tuple_level import TupleTokenizationMode
+from Configuration.configuration import Configuration
+from DataReader.mse_data_reader import MSEDataReader
+from DataReader.wiki_data_reader import WikiDataReader
 from tangent_cft_back_end import TangentCFTBackEnd
+import logging_config
 
 
 def main():
@@ -36,6 +41,9 @@ def main():
     parser.add_argument('--et', help='Embedding type; 1:Value, 2:Type, 3:Type and Value separated and'
                                      ' 4: Type and Value Not Separated', choices=range(1, 5),
                         default=3, type=int)
+    parser.add_argument('--eds', type=str, help="Path to encoded dataset in the format of json "
+                                                "{document_name: [encoded formulas] or where it will be stored",
+                        default=None)
 
     args = vars(parser.parse_args())
 
@@ -54,52 +62,78 @@ def main():
     tokenize_number = args['tn']
     queries_directory_path = args['qd']
     embedding_type = TupleTokenizationMode(args['et'])
+    encoded_dataset = args['eds']
+
     map_file_path = "Embedding_Preprocessing/" + str(encoder_file_path)
     config_file_path = "Configuration/config/config_" + str(config_id)
+    config = Configuration(config_file_path)
 
-    system = TangentCFTBackEnd(config_file=config_file_path, path_data_set=dataset_file_path, is_wiki=is_wiki,
-                               read_slt=read_slt, queries_directory_path=queries_directory_path)
+    if is_wiki:
+        data_reader = WikiDataReader(dataset_file_path, read_slt=read_slt,
+                                     queries_directory_path=queries_directory_path)
+    else:
+        data_reader = MSEDataReader(dataset_file_path, read_slt=read_slt)
+
+    system = TangentCFTBackEnd(config=config, data_reader=data_reader)
+
     if train_model:
+        logging.info("Training Tangent_CFT model with the following parameters:"
+                     f"map_file_path: {map_file_path},"
+                     f"model_path: {model_file_path},"
+                     f"embedding_type: {embedding_type},"
+                     f"ignore_full_relative_path: {ignore_full_relative_path},"
+                     f"tokenize_all: {tokenize_all},"
+                     f"tokenize_number: {tokenize_number}"
+                     )
 
-        print(f"Training model with the following parameters: "
-              f"map_file_path: {map_file_path},"
-              f"model_path: {model_file_path},"
-              f"embedding_type: {embedding_type},"
-              f"ignore_full_relative_path: {ignore_full_relative_path},"
-              f"tokenize_all: {tokenize_all},"
-              f"tokenize_number: {tokenize_number}")
-
-        dictionary_formula_tuples_collection = system.train_model(
-            map_file_path=map_file_path,
-            model_file_path=model_file_path,
-            embedding_type=embedding_type, ignore_full_relative_path=ignore_full_relative_path,
+        embeddings, formula_ids = system.train_model(
+            encoder_map_path=map_file_path,
+            ft_model_path=model_file_path,
+            encoded_train_formulas=encoded_dataset,
+            embedding_type=embedding_type,
+            ignore_full_relative_path=ignore_full_relative_path,
             tokenize_all=tokenize_all,
             tokenize_number=tokenize_number
         )
+
         if do_retrieval:
-            retrieval_result = system.retrieval(dictionary_formula_tuples_collection,
-                                                embedding_type, ignore_full_relative_path, tokenize_all,
+            retrieval_result = system.retrieval(embeddings,
+                                                formula_ids,
+                                                embedding_type,
+                                                ignore_full_relative_path,
+                                                tokenize_all,
                                                 tokenize_number
                                                 )
             system.create_result_file(retrieval_result, "Retrieval_Results/" + res_file, run_id)
     else:
-        print('else')
 
-        dictionary_formula_tuples_collection = system.load_model(
-            map_file_path=map_file_path,
-            model_file_path=model_file_path,
-            embedding_type=embedding_type, ignore_full_relative_path=ignore_full_relative_path,
-            tokenize_all=tokenize_all,
-            tokenize_number=tokenize_number
+        logging.info(f"Loading model with the following parameters: "
+                     f"map_file_path: {map_file_path},"
+                     f"model_path: {model_file_path},"
+                     f"embedding_type: {embedding_type},"
+                     f"ignore_full_relative_path: {ignore_full_relative_path},"
+                     f"tokenize_all: {tokenize_all},"
+                     f"tokenize_number: {tokenize_number}")
+
+        system.load_model(
+            encoder_map_path=map_file_path,
+            ft_model_path=model_file_path
         )
+
+        encoded_formulas = system.load_encoded_formulas(encoded_dataset)
+        train_embeddings, formula_ids = system.module.index_collection(encoded_formulas)
+
         if do_retrieval:
-            retrieval_result = system.retrieval(dictionary_formula_tuples_collection,
-                                                embedding_type, ignore_full_relative_path, tokenize_all,
+            retrieval_result = system.retrieval(train_embeddings,
+                                                formula_ids,
+                                                embedding_type,
+                                                ignore_full_relative_path,
+                                                tokenize_all,
                                                 tokenize_number
                                                 )
-            print(retrieval_result)
             system.create_result_file(retrieval_result, "Retrieval_Results/" + res_file, run_id)
 
 
 if __name__ == "__main__":
+    logging_config.configure_logging()
     main()
