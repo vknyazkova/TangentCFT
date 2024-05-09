@@ -28,22 +28,24 @@ vector_size,300
 ---
 The next step is to decide to train a cft model. Here is a command to train and do retrieval with SLT representation:
 ```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1  -em slt_encoder.tsv --mp slt_model --rf slt_ret.tsv --qd "/TestQueries" --ri 1
+python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1 -em slt_encoder.tsv --eds "Path/To/slt_encoded.json" --mp slt_model.model --rf slt_ret.tsv --qd "./TestQueries" --ri 1 
 ```
-The command above, uses the configuration file, with id 1, use the NTCIR 12 dataset to train the model based on slt representation and saves the encoding map in slt_encoder.csv file and the cft model in file slt_model. The retrieval result with SLT representation is saved in file slt_ret.tsv 
+The command above, uses the configuration file, with id 1, use the NTCIR 12 dataset to train the model based on slt representation and saves the encoding map in slt_encoder.csv file, encoded train dataset to slt_type_encoded.json and the cft model in file slt_model. 
+If either encoding map or encoded train dataset already exists, then these files are used instead of doing this steps again.
+Also, this command executes retrieval for test queries from --rf and saves the result in file slt_ret.tsv 
 
-Or to the same thing without retrieval:
+Or if you want to skip retrieval step:
 ```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1 -em slt_encoder.tsv --mp slt_model --no-r
+python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1 -em slt_encoder.tsv --eds "Path/To/slt_encoded.json" --mp slt_model.model --no-r 
 ```
 ---
 Next, use the following command to do the same for OPT representation:
 ```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" --no-slt -cid 2  -em opt_encoder.tsv --mp opt_model --no-tn --ri 2 --no-r
+python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" --no-slt -cid 2 -em opt_encoder.tsv --eds "Path/To/opt_encoded.json" --mp opt_model.model --rf opt_ret.tsv --qd "./TestQueries" --ri 2 
 ```
 Finally, to train the cft model on SLT Type representation and do the retrieval use the following command:
-```
-python3 tangent_cft_front_end.py -ds "/home/bm3302/Downloads/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 3  -em slt_type_encoder.tsv --mp slt_type_model --rf slt_type_ret.tsv --qd "/TestQueries" --et 2 --tn False --ri 3  
+```shell
+python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 3 -em slt_type_encoder.tsv --eds "Path/To/slt_type_encoded.json" --mp slt_type_model.model --rf slt_type_ret.tsv --qd "./TestQueries" --et 2 --no-tn --ri 3 
 ```
 
 The following three commands are used to train model on each representation and do retrieval. However, Tangent-CFT model, combines the three vector representations. Therefore, after training, use the following command to combine the retrieval results:
