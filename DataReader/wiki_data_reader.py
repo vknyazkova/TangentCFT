@@ -1,6 +1,7 @@
-import os
-import unicodedata
 from abc import ABC
+import os
+from typing import Dict, List
+import unicodedata
 
 from tqdm import tqdm
 
@@ -16,7 +17,7 @@ class WikiDataReader(AbstractDataReader, ABC):
         self.queries_directory_path = queries_directory_path
         super()
 
-    def get_collection(self, ):
+    def get_collection(self) -> Dict[str, List[str]]:
         """
         This method read the NTCIR-12 formulae in the collection.
         To handle formulae with special characters line 39 normalizes the unicode data.
@@ -49,7 +50,7 @@ class WikiDataReader(AbstractDataReader, ABC):
         print(f'Number of exceptions during reading collection: {except_count}')
         return dictionary_formula_tuples
 
-    def get_query(self, ):
+    def get_query(self):
         """
         This method reads the NTCIR-12 the queries.
         Note that the Tangent-CFT does not support queries with Wildcard,
@@ -70,3 +71,9 @@ class WikiDataReader(AbstractDataReader, ABC):
                 except_count += 1
                 print(j)
         return dictionary_query_tuples
+
+
+if __name__ == '__main__':
+    file_path = '../../NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles'
+    data_reader = WikiDataReader(file_path, read_slt=True)
+    print(data_reader.get_collection())

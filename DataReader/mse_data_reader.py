@@ -1,4 +1,5 @@
 from abc import ABC
+from typing import List, Dict
 
 from DataReader.abstract_data_reader import AbstractDataReader
 from TangentS.Tuple_Extraction import latex_math_to_slt_tuples, latex_math_to_opt_tuples
@@ -10,7 +11,7 @@ class MSEDataReader(AbstractDataReader, ABC):
         self.collection_file_path = collection_file_path
         super()
 
-    def get_collection(self, ):
+    def get_collection(self) -> Dict[str, List[str]]:
         except_count = 0
         dictionary_formula_tuples = {}
         file = open(self.collection_file_path)
@@ -36,9 +37,7 @@ class MSEDataReader(AbstractDataReader, ABC):
                 dictionary_formula_tuples[formula_id] = lst_tuples
                 line = file.readline().strip("\n")
             except Exception as e:
-                print(str(e))
                 except_count += 1
-                print(line)
                 line = file.readline().strip("\n")
         print(except_count)
         return dictionary_formula_tuples
