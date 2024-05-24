@@ -15,16 +15,25 @@ from tangent_cft_module import TangentCFTModule
 
 class TangentCFTBackEnd:
     def __init__(self,
-                 config: Configuration,
-                 data_reader: AbstractDataReader):
+                 ft_config: Configuration,
+                 data_reader: AbstractDataReader,
+                 embedding_type: TupleTokenizationMode,
+                 ignore_full_relative_path: bool,
+                 tokenize_all: bool,
+                 tokenize_number: bool):
         """
 
         Args:
-            config: config for FastText model
+            ft_config: config for FastText model
             data_reader: data_reader
         """
-        self.config = config
+        self.ft_config = ft_config
         self.data_reader = data_reader
+
+        self.embedding_type = embedding_type
+        self.ignore_full_relative_path = ignore_full_relative_path
+        self.tokenize_all = tokenize_all
+        self.tokenize_number = tokenize_number
 
         self.encoder_map_node = {}
         self.encoder_map_edge = {}
@@ -33,48 +42,29 @@ class TangentCFTBackEnd:
         self.module = None
 
     def __encode_tree_tuples(self,
-                             tree_tuples: List[str],
-                             embedding_type: TupleTokenizationMode,
-                             ignore_full_relative_path: bool,
-                             tokenize_all: bool,
-                             tokenize_number: bool) -> List[str]:
+                             tree_tuples: List[str]) -> List[str]:
         """
         Encode tree tuples. Each element of the tuple is tokenized according to config and encoded using encoder_map.
         (id from encoder map is transformed to unicode symbol in order to use it as a "character" in FastText model)
         Args:
             tree_tuples: OPT or SLT tree tuples (symbol 1, symbol 2, edge between them, full relative path from the root)
                 which elements are joined by a tab
-            embedding_type: TupleTokenizationMode
-            ignore_full_relative_path: whether to use last element of the tuple or not
-            tokenize_all: whether to encode each character in the tuple element separately or not
-            tokenize_number: whether to encode each digit of the number separately or not
-
         Returns:
             tree tuples represented as sequence of characters
         """
         encoded_tuples, update_map_node, update_map_edge, node_id, edge_id = \
             TupleEncoder.encode_tuples(self.encoder_map_node, self.encoder_map_edge, self.node_id, self.edge_id,
-                                       tree_tuples, embedding_type, ignore_full_relative_path, tokenize_all,
-                                       tokenize_number)
+                                       tree_tuples, self.embedding_type, self.ignore_full_relative_path, self.tokenize_all,
+                                       self.tokenize_number)
         self.node_id = node_id
         self.edge_id = edge_id
         self.encoder_map_node.update(update_map_node)
         self.encoder_map_edge.update(update_map_edge)
         return encoded_tuples
 
-    def __encode_train_data(self,
-                            embedding_type: TupleTokenizationMode,
-                            ignore_full_relative_path: bool,
-                            tokenize_all: bool,
-                            tokenize_number: bool) -> Dict[str, List[str]]:
+    def __encode_train_data(self) -> Dict[str, List[str]]:
         """
         Iterates over train dataset and encodes each retrieved formula as encoded tree tuples
-        Args:
-            embedding_type: TupleTokenizationMode
-            ignore_full_relative_path: whether to use FRP in encoding or not
-            tokenize_all: ???
-            tokenize_number: whether to encode each digit of the number separately or not
-
         Returns:
             {formula_id: [encoded tree tuple]}
         """
@@ -85,21 +75,13 @@ class TangentCFTBackEnd:
         logging.info("Encoding train data...")
         encoded_formulas = {}
         for formula in dictionary_formula_slt_tuple:
-            encoded_formulas[formula] = self.__encode_tree_tuples(dictionary_formula_slt_tuple[formula],
-                                                                  embedding_type,
-                                                                  ignore_full_relative_path,
-                                                                  tokenize_all,
-                                                                  tokenize_number)
+            encoded_formulas[formula] = self.__encode_tree_tuples(dictionary_formula_slt_tuple[formula])
         return encoded_formulas
 
     def train_model(self,
                     encoder_map_path: Union[os.PathLike, str],
                     ft_model_path: Union[os.PathLike, str],
-                    encoded_train_formulas: Union[os.PathLike, str] = None,
-                    embedding_type: TupleTokenizationMode = TupleTokenizationMode.Both_Separated,
-                    ignore_full_relative_path: bool = True,
-                    tokenize_all: bool = False,
-                    tokenize_number: bool = True) -> Tuple[np.ndarray, np.ndarray]:
+                    encoded_train_formulas: Union[os.PathLike, str] = None) -> Tuple[np.ndarray, np.ndarray]:
         """
         Train a TangentCFT model.
         Args:
@@ -107,11 +89,6 @@ class TangentCFTBackEnd:
             ft_model_path: path where to save trained fasttext model
             encoded_train_formulas: path to encoded train formulas, if such file does not exist,
                 then train formulas will be encoded and saved to this file
-            embedding_type: one of TupleTokenizationMode
-            ignore_full_relative_path: whether to use full relative path or not
-            tokenize_all: ??
-            tokenize_number: whether to tokenize numbers or not
-
         Returns:
             embeddings (n_formulas, emb_size), formula_ids (n_formulas): vectorized train dataset with formula_ids
         """
@@ -123,16 +100,13 @@ class TangentCFTBackEnd:
         if os.path.isfile(encoded_train_formulas):
             encoded_formulas = self.load_encoded_formulas(encoded_train_formulas)
         else:
-            encoded_formulas = self.__encode_train_data(embedding_type,
-                                                        ignore_full_relative_path,
-                                                        tokenize_all,
-                                                        tokenize_number)
+            encoded_formulas = self.__encode_train_data()
             if encoded_train_formulas:
                 self.save_encoded_formulas(encoded_formulas, encoded_train_formulas)
 
         self.__save_encoder_map(encoder_map_path)
 
-        self.module.train_model(self.config, list(encoded_formulas.values()))
+        self.module.train_model(self.ft_config, list(encoded_formulas.values()))
 
         if ft_model_path is not None:
             self.module.save_model(ft_model_path)
@@ -152,21 +126,20 @@ class TangentCFTBackEnd:
         self.module = TangentCFTModule(ft_model_path)
         self.__load_encoder_map(encoder_map_path)
 
+    def get_formula_emebedding(self,
+                               formula_tree_tuples: List[str]) -> np.ndarray:
+        encoded_tree_tuples = self.__encode_tree_tuples(formula_tree_tuples)
+        formula_embedding = self.module.get_query_embedding(encoded_tree_tuples)
+        return formula_embedding
+
     def retrieval(self,
                   dataset_embeddings: np.ndarray,
-                  formula_ids: np.ndarray,
-                  embedding_type: TupleTokenizationMode = TupleTokenizationMode.Both_Separated,
-                  ignore_full_relative_path: bool = True,
-                  tokenize_all: bool = False,
-                  tokenize_number: bool = True
-                  ):
+                  formula_ids: np.ndarray):
         logging.info("Formula Retrieval...")
         dictionary_query_tuples = self.data_reader.get_query()
         retrieval_result = {}
-        for query in tqdm(dictionary_query_tuples):
-            encoded_tuple_query = self.__encode_tree_tuples(dictionary_query_tuples[query], embedding_type,
-                                                            ignore_full_relative_path, tokenize_all, tokenize_number)
-            query_vec = self.module.get_query_embedding(encoded_tuple_query)
+        for query, query_tuples in tqdm(dictionary_query_tuples.items()):
+            query_vec = self.get_formula_emebedding(query_tuples)
             retrieval_result[query] = self.module.formula_retrieval(dataset_embeddings, formula_ids, query_vec)
         return retrieval_result
 
@@ -246,3 +219,7 @@ class TangentCFTBackEnd:
         with open(encoded_formulas_path, 'r', encoding='utf-8') as f:
             encoded_formulas = json.load(f)
         return encoded_formulas
+
+
+
+

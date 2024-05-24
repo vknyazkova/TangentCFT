@@ -1,6 +1,8 @@
 import argparse
 import logging
 
+import numpy as np
+
 from Embedding_Preprocessing.encoder_tuple_level import TupleTokenizationMode
 from Configuration.configuration import Configuration
 from DataReader.mse_data_reader import MSEDataReader
@@ -44,8 +46,12 @@ def main():
     parser.add_argument('--eds', type=str, help="Path to encoded dataset in the format of json "
                                                 "{document_name: [encoded formulas] or where it will be stored",
                         default=None)
+    parser.add_argument('--sembs', type=bool, action=argparse.BooleanOptionalAction,
+                        help="Save computed train embeddings", default=True)
 
     args = vars(parser.parse_args())
+    #
+    # python3 tangent_cft_front_end.py -ds "/Users/viktoriaknazkova/Desktop/me/study/github_repos/NTCIR-12_MathIR_Wikipedia_Corpus" -cid 1 --slt -em "slt_encode.tsv" --mp "slt_model.model" --qd "./TestQueries" --ri 1 --rf slt_ret.tsv --eds "./Embedding_Preprocessing/slt_encoded_train.json"
 
     train_model = args['t']
     do_retrieval = args['r']
@@ -63,18 +69,24 @@ def main():
     queries_directory_path = args['qd']
     embedding_type = TupleTokenizationMode(args['et'])
     encoded_dataset = args['eds']
+    save_embeds = args['sembs']
 
     map_file_path = "Embedding_Preprocessing/" + str(encoder_file_path)
     config_file_path = "Configuration/config/config_" + str(config_id)
     config = Configuration(config_file_path)
 
+    print(train_model, save_embeds, do_retrieval)
     if is_wiki:
         data_reader = WikiDataReader(dataset_file_path, read_slt=read_slt,
                                      queries_directory_path=queries_directory_path)
     else:
         data_reader = MSEDataReader(dataset_file_path, read_slt=read_slt)
 
-    system = TangentCFTBackEnd(config=config, data_reader=data_reader)
+    system = TangentCFTBackEnd(ft_config=config, data_reader=data_reader,
+                               embedding_type=embedding_type,
+                               ignore_full_relative_path=ignore_full_relative_path,
+                               tokenize_all=tokenize_all,
+                               tokenize_number=tokenize_number)
 
     if train_model:
         logging.info("Training Tangent_CFT model with the following parameters:"
@@ -89,21 +101,28 @@ def main():
         embeddings, formula_ids = system.train_model(
             encoder_map_path=map_file_path,
             ft_model_path=model_file_path,
-            encoded_train_formulas=encoded_dataset,
-            embedding_type=embedding_type,
-            ignore_full_relative_path=ignore_full_relative_path,
-            tokenize_all=tokenize_all,
-            tokenize_number=tokenize_number
+            encoded_train_formulas=encoded_dataset
         )
+
+        if save_embeds:
+            if read_slt:
+                if embedding_type == 3:
+                    name = 'slt'
+                elif embedding_type == 2:
+                    name = 'slt_type'
+                else:
+                    name = 'unknown'
+            else:
+                name = 'opt'
+
+            logging.info(f"Saving train embeddings to ./Combine_Embeddings/{name}_emneddings.npy")
+            np.save(f'./Combine_Embeddings/{name}_emneddings.npy', embeddings)
+            logging.info(f"Saving train embeddings id mapping to ./Combine_Embeddings/{name}_fids.npy")
+            np.save(f'./Combine_Embeddings/{name}_fids.npy', formula_ids)
 
         if do_retrieval:
             retrieval_result = system.retrieval(embeddings,
-                                                formula_ids,
-                                                embedding_type,
-                                                ignore_full_relative_path,
-                                                tokenize_all,
-                                                tokenize_number
-                                                )
+                                                formula_ids)
             system.create_result_file(retrieval_result, "Retrieval_Results/" + res_file, run_id)
     else:
 
@@ -123,14 +142,26 @@ def main():
         encoded_formulas = system.load_encoded_formulas(encoded_dataset)
         train_embeddings, formula_ids = system.module.index_collection(encoded_formulas)
 
+        if save_embeds:
+            if read_slt:
+                if embedding_type == 3:
+                    name = 'slt'
+                elif embedding_type == 2:
+                    name = 'slt_type'
+                else:
+                    name = 'unknown'
+            else:
+                name = 'opt'
+
+            logging.info(f"Saving train embeddings to ./Combine_Embeddings/{name}_emneddings.npy")
+            np.save(f'./Combine_Embeddings/{name}_emneddings.npy', train_embeddings)
+            logging.info(f"Saving train embeddings id mapping to ./Combine_Embeddings/{name}_fids.npy")
+            np.save(f'./Combine_Embeddings/{name}_fids.npy', formula_ids)
+
+
         if do_retrieval:
             retrieval_result = system.retrieval(train_embeddings,
-                                                formula_ids,
-                                                embedding_type,
-                                                ignore_full_relative_path,
-                                                tokenize_all,
-                                                tokenize_number
-                                                )
+                                                formula_ids)
             system.create_result_file(retrieval_result, "Retrieval_Results/" + res_file, run_id)
 
 

@@ -4,6 +4,7 @@ import logging
 
 import numpy as np
 from numpy.linalg import norm
+from tqdm import tqdm
 
 from Configuration.configuration import Configuration
 from tangent_cft_model import TangentCftModel
@@ -62,10 +63,11 @@ class TangentCFTModule:
         Returns:
             index, formula_ids: formula embeddings (n_formulas, emb_size), formulas ids (n_formulas)
         """
+        logging.info("Indexing dataset...")
         embeddings = []
         formula_ids = []
         idx = 0
-        for formula_id in encoded_formulas:
+        for formula_id in tqdm(encoded_formulas):
             try:
                 formula_embedding = self.__get_formula_embedding(encoded_formulas[formula_id])
                 embeddings.append(formula_embedding)
