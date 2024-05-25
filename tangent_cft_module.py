@@ -12,7 +12,10 @@ from tangent_cft_model import TangentCftModel
 
 class TangentCFTModule:
     def __init__(self,
+                 ft_config: Configuration,
                  ft_model_path: Union[os.PathLike, str] = None):
+
+        self.ft_config = ft_config
 
         self.model = TangentCftModel()
         if ft_model_path is not None:
@@ -20,15 +23,8 @@ class TangentCFTModule:
             self.model.load_model(ft_model_path)
 
     def train_model(self,
-                    configuration: Configuration,
                     encoded_formulas: List[List[str]]) -> None:
-        """
-        Train a TangentCftModel
-        Args:
-            configuration: Configuration object with fasttext training parameters
-            encoded_formulas: list of formulas, each represented as a list of encoded tree tuples
-        """
-        self.model.train(configuration, encoded_formulas)
+        self.model.train(self.ft_config, encoded_formulas)
 
     def save_model(self, ft_model_path: Union[os.PathLike, str]) -> None:
         self.model.save_model(ft_model_path)
@@ -50,7 +46,7 @@ class TangentCFTModule:
             except KeyError:
                 logging.debug(f"Key Error for {encoded_tuple}")
         if len(tuple_embeddings) == 0:
-            raise KeyError("Any formula tuple has no embeddings")
+            raise KeyError("All formula elements can't be encoded")
         return np.array(tuple_embeddings).mean(axis=0)
 
     def index_collection(self,

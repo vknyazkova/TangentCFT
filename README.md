@@ -7,7 +7,7 @@ The codebase is implemented in Python 3.6. Package versions used for development
 
 # Dataset
 To evaluate our embedding model we used [NTCIR-12 dataset](https://www.cs.rit.edu/~rlaz/NTCIR-12_MathIR_Wikipedia_Corpus.zip), focusing on formula retrieval task. The collection contains over 590000 mathematical formulas from Wikipedia with 20 formula queries with their relevant formulas. For comparison with previous approaches we used bpref score to evaluate the top-1000 relevant formulas. 
-Also one can easily use anydataset, such as [Math Stach Exchange] (https://math.stackexchange.com/), in form of csv file of latex formula and formula ids (separated by $$ sign) to train a new model. 
+Also one can easily use anydataset, such as [Math Stach Exchange] (https://math.stackexchange.com/), in form of csv file of latex formula and formula ids (separated by $$ sign) to train a new model.
 
 # Running TangentCFT
 Here are the steps to do the Tangent-CFT embeddings. 
@@ -27,32 +27,36 @@ vector_size,300
 ```
 ---
 The next step is to decide to train a cft model. Here is a command to train and do retrieval with SLT representation:
+
+[//]: # (```shell)
+
+[//]: # (python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1 -em slt_encoder.tsv --eds "Path/To/slt_encoded.json" --mp slt_model.model --rf slt_ret.tsv --qd "./TestQueries" --ri 1 )
+
+[//]: # (```)
 ```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1 -em slt_encoder.tsv --eds "Path/To/slt_encoded.json" --mp slt_model.model --rf slt_ret.tsv --qd "./TestQueries" --ri 1 
+python3 tangent_cft_front_end2.py -cid 1 -vocab "./Models/Vocabulary/slt_encoder.tsv" -mp "./Models/FastText/slt_model.model" --slt --no-t --etd "./EncodedDataset/slt_encoded_train.json" --r --rf "slt_ret.tsv" --ri 1 --td "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles"
 ```
-The command above, uses the configuration file, with id 1, use the NTCIR 12 dataset to train the model based on slt representation and saves the encoding map in slt_encoder.csv file, encoded train dataset to slt_type_encoded.json and the cft model in file slt_model. 
+The command above, uses the configuration file, with id 1, use the NTCIR 12 dataset to train the model based on slt representation and saves the encoding map in slt_encoder.tsv file, encoded train dataset to slt_encoded.json and the cft model in file slt_model.model 
 If either encoding map or encoded train dataset already exists, then these files are used instead of doing this steps again.
 Also, this command executes retrieval for test queries from --rf and saves the result in file slt_ret.tsv 
 
-Or if you want to skip retrieval step:
 ```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 1 -em slt_encoder.tsv --eds "Path/To/slt_encoded.json" --mp slt_model.model --no-r 
-```
----
-Next, use the following command to do the same for OPT representation:
-```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" --no-slt -cid 2 -em opt_encoder.tsv --eds "Path/To/opt_encoded.json" --mp opt_model.model --rf opt_ret.tsv --qd "./TestQueries" --ri 2 
-```
-Finally, to train the cft model on SLT Type representation and do the retrieval use the following command:
-```shell
-python3 tangent_cft_front_end.py -ds "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles" -cid 3 -em slt_type_encoder.tsv --eds "Path/To/slt_type_encoded.json" --mp slt_type_model.model --rf slt_type_ret.tsv --qd "./TestQueries" --et 2 --no-tn --ri 3 
+python3 tangent_cft_front_end.py -cid 2 -vocab "./Models/Vocabulary/opt_encoder.tsv" -mp "./Models/FastText/opt_model.model" --no-slt --etd "./EncodedDataset/opt_encoded_train.json" --r --rf "opt_ret.tsv" --ri 2 --td "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles"
 ```
 
-The following three commands are used to train model on each representation and do retrieval. However, Tangent-CFT model, combines the three vector representations. Therefore, after training, use the following command to combine the retrieval results:
+```shell
+python3 tangent_cft_front_end2.py -cid 3 -vocab "./Models/Vocabulary/slt_type_encoder.tsv" -mp "./Models/FastText/slt_type_model.model" --et 2 --slt --no-t --etd "./EncodedDataset/slt_type_encoded_train.json" --r --rf "slt_type_ret.tsv" --ri 3 --td "Your/Path/to/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles"
 ```
-python3 tangent_cft_combine_results.py
-```
-The retrieval result will be saved in file cft_res.
+
+[//]: # (The following three commands are used to train model on each representation and do retrieval. However, Tangent-CFT model, combines the three vector representations. Therefore, after training, use the following command to combine the retrieval results:)
+
+[//]: # (```)
+
+[//]: # (python3 tangent_cft_combine_results.py)
+
+[//]: # (```)
+
+[//]: # (The retrieval result will be saved in file cft_res.)
 
 **Checking the retrieval results.** After the model is trained and the retrieval is done, the results are saved the directory "Retrieval_Results". In each line of the result file, there is the query id followed by relevant formula id, its rank, the similarity score and run id. TangentCFT results on NTCIR-12 dataset is Retrieval_Results directory as the sample. To evaluate the results, the judge file of NTCIR-12 task, is located in the Evaluation directory with [Trec_eval tool](https://trec.nist.gov/trec_eval/). This file is **different** from the original NTCIR-12 judge file. There are some formula ids with special characters that in our model we have changed (normlized) their name, therefore, we normalized their name in judge file as well.
 
