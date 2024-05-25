@@ -6,7 +6,7 @@ from typing import List, Dict, Union, Tuple
 import numpy as np
 from tqdm import tqdm
 
-from tangent_cft_module2 import TangentCFTModule
+from tangent_cft_module import TangentCFTModule
 from tangent_cft_encoder import FormulaTreeEncoder
 
 

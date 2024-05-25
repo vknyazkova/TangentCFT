@@ -6,8 +6,8 @@ from Embedding_Preprocessing.encoder_tuple_level import TupleTokenizationMode
 from Configuration.configuration import Configuration
 from DataReader.wiki_data_reader2 import WikiDataReader
 
-from tangent_cft_backend import TangentCFTBackEnd
-from tangent_cft_module2 import TangentCFTModule
+from tangent_cft_back_end import TangentCFTBackEnd
+from tangent_cft_module import TangentCFTModule
 from tangent_cft_encoder import FormulaTreeEncoder
 
 import logging_config
