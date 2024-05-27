@@ -14,8 +14,8 @@ class TangentCFTParser:
         return MathExtractor.math_tokens(xml_content)
 
     @staticmethod
-    def parse(formula: str, mathml: bool = True, slt: bool = True) -> List[str]:
-        if not mathml:
+    def get_math_tree(formula: str, from_mathml: bool = True, slt: bool = True) -> SymbolTree:
+        if not from_mathml:
             if slt:
                 tree = MathExtractor.parse_from_tex(formula)
             else:
@@ -29,6 +29,11 @@ class TangentCFTParser:
                 opt_formula = MathExtractor.isolate_cmml(formula)
                 tree = MathExtractor.convert_to_semanticsymbol(opt_formula)
             tree = SymbolTree(tree)
+        return tree
+
+    @staticmethod
+    def parse(formula: str, mathml: bool = True, slt: bool = True) -> List[str]:
+        tree = TangentCFTParser.get_math_tree(formula, mathml, slt)
         return tree.get_pairs(window=2, eob=True)
 
 
@@ -60,56 +65,52 @@ def parse_ntcir_dataset(ntcir_math_folder: str, parsed_ntcir_folder: str):
 
 
 if __name__ == '__main__':
-#     parser = TangentCFTParser()
-#     latex_formulas = [
-#         '\\frac{\\partial \\mathbf{x}}{\\partial x}',
-#         '\\frac{x}{2}',
-#         '(x+2)^2'
-#     ]
-#     mathml_example = '''
-# <math display="inline" id="dash-yllion:0">
-#  <semantics>
-#   <msup>
-#    <mn>10</mn>
-#    <msup>
-#     <mn>2</mn>
-#     <mrow>
-#      <mi>n</mi>
-#      <mo>+</mo>
-#      <mn>2</mn>
-#     </mrow>
-#    </msup>
-#   </msup>
-#   <annotation-xml encoding="MathML-Content">
-#    <apply>
-#     <csymbol cd="ambiguous">superscript</csymbol>
-#     <cn type="integer">10</cn>
-#     <apply>
-#      <csymbol cd="ambiguous">superscript</csymbol>
-#      <cn type="integer">2</cn>
-#      <apply>
-#       <plus></plus>
-#       <ci>n</ci>
-#       <cn type="integer">2</cn>
-#      </apply>
-#     </apply>
-#    </apply>
-#   </annotation-xml>
-#   <annotation encoding="application/x-tex">
-#    10^{2^{n+2}}
-#   </annotation>
-#  </semantics>
-# </math>'''
-#     print(parser.parse(latex_formulas[0], mathml=False, slt=False))
-#     print(parser.parse(latex_formulas[0], mathml=False, slt=True))
-#     print(parser.parse(mathml_example, mathml=True, slt=False))
-#     print(parser.parse(mathml_example, mathml=True, slt=True))
+    parser = TangentCFTParser()
+    latex_formulas = [
+        '\\frac{\\partial \\mathbf{x}}{\\partial x}',
+        '\\frac{x}{2}',
+        '(x+2)^2'
+    ]
+    mathml_example = '''
+<math display="inline" id="dash-yllion:0">
+ <semantics>
+  <msup>
+   <mn>10</mn>
+   <msup>
+    <mn>2</mn>
+    <mrow>
+     <mi>n</mi>
+     <mo>+</mo>
+     <mn>2</mn>
+    </mrow>
+   </msup>
+  </msup>
+  <annotation-xml encoding="MathML-Content">
+   <apply>
+    <csymbol cd="ambiguous">superscript</csymbol>
+    <cn type="integer">10</cn>
+    <apply>
+     <csymbol cd="ambiguous">superscript</csymbol>
+     <cn type="integer">2</cn>
+     <apply>
+      <plus></plus>
+      <ci>n</ci>
+      <cn type="integer">2</cn>
+     </apply>
+    </apply>
+   </apply>
+  </annotation-xml>
+  <annotation encoding="application/x-tex">
+   10^{2^{n+2}}
+  </annotation>
+ </semantics>
+</math>'''
+    print(parser.parse(latex_formulas[0], mathml=False, slt=False))
+    print(parser.parse(latex_formulas[0], mathml=False, slt=True))
+    print(parser.parse(mathml_example, mathml=True, slt=False))
+    print(parser.parse(mathml_example, mathml=True, slt=True))
 #
 #     example_doc_path = '/Users/viktoriaknazkova/Desktop/me/study/github_repos/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles/wpmath0000001/Geometric_algebra.html'
 #     with open(example_doc_path, 'r') as f:
 #         example_doc = f.read()
 #     print(len(parser.extract_mathml(example_doc)))
-
-    ntcir_dataset = '/Users/viktoriaknazkova/Desktop/me/study/github_repos/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles'
-    parsed_ntcir_folder = '/Users/viktoriaknazkova/Documents/ntcir_parsed'
-    parse_ntcir_dataset(ntcir_dataset, parsed_ntcir_folder)
