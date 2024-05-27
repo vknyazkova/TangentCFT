@@ -47,7 +47,7 @@ class FormulaTreeEncoder:
 
     def fit_transform(self,
                       formula_tree_tuples: List[List[str]],
-                      verbose: bool = True) -> List[List[str]]:
+                      verbose: bool = False) -> List[List[str]]:
         encoded = []
         for formula in tqdm(formula_tree_tuples, disable=not verbose):
             encoded_tuples = self.__encode_tuples(formula)
@@ -56,7 +56,7 @@ class FormulaTreeEncoder:
 
     def transform(self,
                   formula_tree_tuples: List[List[str]],
-                  verbose: bool = True) -> List[List[str]]:
+                  verbose: bool = False) -> List[List[str]]:
         encoded = []
         for formula in tqdm(formula_tree_tuples, disable=not verbose):
             encoded_tuples = self.__encode_tuples(formula)
@@ -78,26 +78,6 @@ class FormulaTreeEncoder:
                 file.write("N" + "\t" + str(item) + "\t" + str(self.node_vocabulary[item]) + "\n")
             for item in self.edge_vocabulary:
                 file.write("E" + "\t" + str(item) + "\t" + str(self.edge_vocabulary[item]) + "\n")
-
-    def load_vocab(self, vocabulary_map_path):
-        logging.info(f"Loading vocabulary from {vocabulary_map_path}...")
-        with open(vocabulary_map_path, "r", encoding="utf-8") as file:
-            line = file.readline().strip("\n")
-            while line:
-                parts = line.split("\t")
-                encoder_type = parts[0]
-                symbol = parts[1]
-                value = int(parts[2])
-                if encoder_type == "N":
-                    self.node_vocabulary[symbol] = value
-                else:
-                    self.edge_vocabulary[symbol] = value
-                line = file.readline().strip("\n")
-
-            "The id shows the id that should be assigned to the next character to be encoded (a character that is not seen)" \
-            "Therefore there is a plus one in the following lines"
-            self.node_id = max(list(self.node_vocabulary.values())) + 1
-            self.edge_id = max(list(self.edge_vocabulary.values())) + 1
 
     @classmethod
     def load(cls, vocabulary_map_path):
@@ -141,12 +121,3 @@ class FormulaTreeEncoder:
                 node_id=node_id,
                 edge_id=edge_id
             )
-
-if __name__ == "__main__":
-    enc = FormulaTreeEncoder(embedding_type=TupleTokenizationMode(2),
-                             ignore_full_relative_path=True,
-                             tokenize_all=False,
-                             tokenize_number=False
-                             )
-    enc.load_vocab('/Users/viktoriaknazkova/Desktop/me/study/github_repos/TangentCFT/Models/Vocabulary/slt_type_encoder.tsv')
-    enc.save_vocabulary('/Users/viktoriaknazkova/Desktop/me/study/github_repos/TangentCFT/Models/Vocabulary/slt_type_encoder2.tsv')
