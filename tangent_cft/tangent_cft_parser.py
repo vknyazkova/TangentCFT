@@ -1,11 +1,10 @@
-import os
 from pathlib import Path
 from typing import List
 from tqdm import tqdm
 import unicodedata
 
-from TangentS.math_tan.math_extractor import MathExtractor
-from TangentS.math_tan.symbol_tree import SymbolTree
+from .TangentS.math_tan.math_extractor import MathExtractor
+from .TangentS.math_tan.symbol_tree import SymbolTree
 
 
 class TangentCFTParser:

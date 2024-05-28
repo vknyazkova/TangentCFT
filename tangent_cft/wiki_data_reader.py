@@ -4,7 +4,7 @@ import unicodedata
 
 from tqdm import tqdm
 
-from tangent_cft_parser import TangentCFTParser
+from .tangent_cft_parser import TangentCFTParser
 
 
 class WikiDataReader:

@@ -3,11 +3,11 @@ from typing import Optional, List, Dict
 import pandas as pd
 from chromadb import Client, Documents, EmbeddingFunction, Embeddings
 
-from tangent_cft_encoder import FormulaTreeEncoder
-from tangent_cft_module import TangentCFTModule
-from tangent_cft_back_end import TangentCFTBackEnd
-from Configuration.configuration import Configuration
-from embedding_functions import TangentCFTEmbedding
+from tangent_cft.tangent_cft_encoder import FormulaTreeEncoder
+from tangent_cft.tangent_cft_module import TangentCFTModule
+from tangent_cft.tangent_cft_back_end import TangentCFTBackEnd
+from tangent_cft.configuration import Configuration
+from tangent_cft.embedding_function import TangentCFTEmbedding
 
 
 dataset = {
@@ -92,8 +92,8 @@ if __name__ == '__main__':
     logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
     encoder = FormulaTreeEncoder.load('Models/Vocabulary/slt_type_encoder.tsv')
-    ft_config = Configuration('Configuration/config/config_3')
-    module = TangentCFTModule(ft_config, 'Models/FastText/slt_type_model.model')
+    ft_config = Configuration('config/config_3')
+    module = TangentCFTModule('Models/FastText/slt_type_model.model')
     system = TangentCFTBackEnd(tangent_cft_module=module, encoder=encoder)
 
     chroma_client = Client()

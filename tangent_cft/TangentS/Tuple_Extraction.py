@@ -1,4 +1,4 @@
-from TangentS.math_tan.math_extractor import MathExtractor
+from tangent_cft.TangentS.math_tan.math_extractor import MathExtractor
 
 
 def latex_math_to_slt_tuples(latex_formula):

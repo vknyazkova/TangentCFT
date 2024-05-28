@@ -1,6 +1,6 @@
 __author__ = 'KDavila'
 
-import TangentS.math_tan
+
 from .math_symbol import MathSymbol
 from .mathml import MathML
 from .exceptions import UnknownTagException

@@ -1,14 +1,14 @@
 import logging
 import os
 import json
-from typing import List, Dict, Union, Tuple
+from typing import List, Dict, Union
 
 import numpy as np
 from tqdm import tqdm
 
-from tangent_cft_module import TangentCFTModule
-from tangent_cft_encoder import FormulaTreeEncoder
-from Configuration.configuration import Configuration
+from .tangent_cft_module import TangentCFTModule
+from .tangent_cft_encoder import FormulaTreeEncoder
+from .configuration import Configuration
 
 
 class TangentCFTBackEnd:
@@ -21,22 +21,21 @@ class TangentCFTBackEnd:
     @classmethod
     def load(cls,
              encoder_map_path: str,
-             ft_config_path: str,
              ft_model_path: str):
         encoder = FormulaTreeEncoder.load(encoder_map_path)
-        ft_config = Configuration(ft_config_path)
-        module = TangentCFTModule(ft_config, ft_model_path)
+        module = TangentCFTModule(ft_model_path)
         return cls(tangent_cft_module=module, encoder=encoder)
 
     def train_model(self,
-                    train_formula_tree_tuples: Dict[str, List[str]] = None,
+                    ft_config: Configuration,
+                    train_formula_tree_tuples: List[List[str]] = None,
                     encoded: bool = False):
         if not encoded:
             logging.info("Encoding train data...")
-            encoded_formulas = self.encoder.fit_transform(list(train_formula_tree_tuples.values()))
+            encoded_formulas = self.encoder.fit_transform(train_formula_tree_tuples)
         else:
-            encoded_formulas = list(train_formula_tree_tuples.values())
-        self.module.train_model(encoded_formulas)
+            encoded_formulas = train_formula_tree_tuples
+        self.module.train_model(ft_config, encoded_formulas)
 
     def save_model(self,
                    ft_model_path: Union[os.PathLike, str],
@@ -47,7 +46,7 @@ class TangentCFTBackEnd:
     def get_formula_emebedding(self,
                                formula_tree_tuples: List[str]) -> np.ndarray:
         encoded_tree_tuples = self.encoder.transform([formula_tree_tuples])[0]
-        formula_embedding = self.module.get_query_embedding(encoded_tree_tuples)
+        formula_embedding = self.module.get_formula_embedding(encoded_tree_tuples)
         return formula_embedding
 
     def retrieval(self,

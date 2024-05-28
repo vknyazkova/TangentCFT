@@ -6,31 +6,29 @@ import numpy as np
 from numpy.linalg import norm
 from tqdm import tqdm
 
-from Configuration.configuration import Configuration
-from tangent_cft_model import TangentCftModel
+from .configuration import Configuration
+from .tangent_cft_model import TangentCftModel
 
 
 class TangentCFTModule:
     def __init__(self,
-                 ft_config: Configuration,
+
                  ft_model_path: Union[os.PathLike, str] = None):
-
-        self.ft_config = ft_config
-
         self.model = TangentCftModel()
         if ft_model_path is not None:
             logging.info("Loading pre-trained model from {}".format(ft_model_path))
             self.model.load_model(ft_model_path)
 
     def train_model(self,
+                    ft_config: Configuration,
                     encoded_formulas: List[List[str]]) -> None:
-        self.model.train(self.ft_config, encoded_formulas)
+        self.model.train(ft_config, encoded_formulas)
 
     def save_model(self, ft_model_path: Union[os.PathLike, str]) -> None:
         self.model.save_model(ft_model_path)
 
-    def __get_formula_embedding(self,
-                                encoded_formula: List[str]) -> np.ndarray:
+    def get_formula_embedding(self,
+                              encoded_formula: List[str]) -> np.ndarray:
         """
         Converts encoded formula tuples to formula embeddings.
         Args:
@@ -60,12 +58,13 @@ class TangentCFTModule:
             index, formula_ids: formula embeddings (n_formulas, emb_size), formulas ids (n_formulas)
         """
         logging.info("Indexing dataset...")
+
         embeddings = []
         formula_ids = []
         idx = 0
         for formula_id in tqdm(encoded_formulas):
             try:
-                formula_embedding = self.__get_formula_embedding(encoded_formulas[formula_id])
+                formula_embedding = self.get_formula_embedding(encoded_formulas[formula_id])
                 embeddings.append(formula_embedding)
                 formula_ids.append(formula_id)
                 idx += 1
@@ -75,17 +74,6 @@ class TangentCFTModule:
         formula_ids = np.array(formula_ids)
         return embeddings, formula_ids
 
-    def get_query_embedding(self,
-                            encoded_formula: List[str]) -> np.ndarray:
-        """
-        Get query embedding using TangentCftModel
-        Args:
-            encoded_formula: list of encoded tree tuples
-
-        Returns:
-            formula embedding: (emb_size)
-        """
-        return self.__get_formula_embedding(encoded_formula)
 
     @staticmethod
     def formula_retrieval(

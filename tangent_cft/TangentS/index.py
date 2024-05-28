@@ -32,7 +32,7 @@ import time
 
 from TangentS.utility.Stats import Stats
 #from TangentS.math_tan.version03_index import Version03Index
-from TangentS.math_tan.math_extractor import MathExtractor
+from tangent_cft.TangentS.math_tan.math_extractor import MathExtractor
 from TangentS.utility.control import Control
 from TangentS.math_tan.math_document import MathDocument
 #from symbol_tree import SymbolTree

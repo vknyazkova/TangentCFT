@@ -2,7 +2,7 @@ from typing import Dict, List
 import logging
 from tqdm import tqdm
 
-from Embedding_Preprocessing.encoder_tuple_level import TupleEncoder, TupleTokenizationMode
+from .Embedding_Preprocessing.encoder_tuple_level import TupleEncoder, TupleTokenizationMode
 
 
 class FormulaTreeEncoder:

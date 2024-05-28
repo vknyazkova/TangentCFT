@@ -5,7 +5,7 @@ import logging
 import numpy as np
 from gensim.models import FastText
 
-from Configuration.configuration import Configuration
+from .configuration import Configuration
 
 
 class TangentCftModel:
