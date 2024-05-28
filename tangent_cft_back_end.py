@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 from tangent_cft_module import TangentCFTModule
 from tangent_cft_encoder import FormulaTreeEncoder
+from Configuration.configuration import Configuration
 
 
 class TangentCFTBackEnd:
@@ -16,6 +17,16 @@ class TangentCFTBackEnd:
                  encoder: FormulaTreeEncoder):
         self.encoder = encoder
         self.module = tangent_cft_module
+
+    @classmethod
+    def load(cls,
+             encoder_map_path: str,
+             ft_config_path: str,
+             ft_model_path: str):
+        encoder = FormulaTreeEncoder.load(encoder_map_path)
+        ft_config = Configuration(ft_config_path)
+        module = TangentCFTModule(ft_config, ft_model_path)
+        return cls(tangent_cft_module=module, encoder=encoder)
 
     def train_model(self,
                     train_formula_tree_tuples: Dict[str, List[str]] = None,
