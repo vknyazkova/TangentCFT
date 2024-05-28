@@ -4,8 +4,8 @@ from chromadb import Documents, EmbeddingFunction, Embeddings
 from tqdm import tqdm
 import numpy as np
 
-from tangent_cft.tangent_cft_parser import TangentCFTParser
-from tangent_cft.tangent_cft_back_end import TangentCFTBackEnd
+from .tangent_cft_parser import TangentCFTParser
+from .tangent_cft_back_end import TangentCFTBackEnd
 
 
 class TangentCFTEmbedding(EmbeddingFunction[Documents]):
