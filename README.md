@@ -104,10 +104,11 @@ To train your model programmatically, use the following classes:
 **- tangent_cft_backend.TangentCFTBackEnd:** Train TangentCFT and perform retrieval.</br>
 
 Example code to parse a formula:
+
 ```python
 from tangent_cft.tangent_cft_parser import TangentCFTParser
 
-encoded_formula = TangentCFTParser.parse(formula='x^2', mathml=False, slt=True)
+encoded_formula = TangentCFTParser.parse2tree_tuples(formula='x^2', mathml=False, slt=True)
 ```
 
 Initialize your encoder:

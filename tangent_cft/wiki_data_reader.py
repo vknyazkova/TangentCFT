@@ -1,5 +1,5 @@
 import os
-from typing import Dict, List
+from typing import Dict, List, Union
 import unicodedata
 
 from tqdm import tqdm
@@ -13,7 +13,8 @@ class WikiDataReader:
         self.read_slt = read_slt
 
     def get_collection(self,
-                       collection_file_path) -> Dict[str, List[str]]:
+                       collection_file_path,
+                       tuples: bool = True) -> Dict[str, Union[str, List[str]]]:
         """
         This method read the NTCIR-12 formulae in the collection.
         To handle formulae with special characters line 39 normalizes the unicode data.
@@ -39,15 +40,19 @@ class WikiDataReader:
                         content = f.read()
                     mathml_formulas = TangentCFTParser.extract_mathml(content)
                     for i, mathml in enumerate(mathml_formulas):
-                        tuples = TangentCFTParser.parse(mathml, mathml=True, slt=self.read_slt)
-                        formulas_tree_tuples[file_name + ":" + str(i)] = tuples
+                        if tuples:
+                            parsed = TangentCFTParser.parse2tree_tuples(mathml, mathml=True, slt=self.read_slt)
+                        else:
+                            parsed = TangentCFTParser.parse2linearized_tree(mathml, mathml=True, slt=self.read_slt)
+                        formulas_tree_tuples[file_name + ":" + str(i)] = parsed
                 except Exception as e:
                     except_count += 1
         print(f'Number of exceptions during reading collection: {except_count}')
         return formulas_tree_tuples
 
     def get_query(self,
-                  queries_directory_path):
+                  queries_directory_path,
+                  tuples: bool = True) -> List[str]:
         """
         This method reads the NTCIR-12 the queries.
         Note that the Tangent-CFT does not support queries with Wildcard,
@@ -62,8 +67,11 @@ class WikiDataReader:
                     content = f.read()
                 mathml_formulas = TangentCFTParser.extract_mathml(content)
                 for i, mathml in enumerate(mathml_formulas):
-                    tuples = TangentCFTParser.parse(mathml, mathml=True, slt=self.read_slt)
-                    formulas_tree_tuples[j] = tuples
+                    if tuples:
+                        parsed = TangentCFTParser.parse2tree_tuples(mathml, mathml=True, slt=self.read_slt)
+                    else:
+                        parsed = TangentCFTParser.parse2linearized_tree(mathml, mathml=True, slt=self.read_slt)
+                    formulas_tree_tuples[j] = parsed
             except Exception as e:
                 print(e)
                 except_count += 1

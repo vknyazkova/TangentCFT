@@ -2,6 +2,7 @@ from pathlib import Path
 from typing import List
 from tqdm import tqdm
 import unicodedata
+import re
 
 from .TangentS.math_tan.math_extractor import MathExtractor
 from .TangentS.math_tan.symbol_tree import SymbolTree
@@ -31,9 +32,14 @@ class TangentCFTParser:
         return tree
 
     @staticmethod
-    def parse(formula: str, mathml: bool = True, slt: bool = True) -> List[str]:
+    def parse2tree_tuples(formula: str, mathml: bool = True, slt: bool = True) -> List[str]:
         tree = TangentCFTParser.get_math_tree(formula, mathml, slt)
         return tree.get_pairs(window=2, eob=True)
+
+    @staticmethod
+    def parse2linearized_tree(formula: str, mathml: bool = True, slt: bool = True) -> str:
+        tree = TangentCFTParser.get_math_tree(formula, mathml, slt)
+        return tree.tostring()
 
 
 def parse_ntcir_dataset(ntcir_math_folder: str, parsed_ntcir_folder: str):
@@ -104,10 +110,14 @@ if __name__ == '__main__':
   </annotation>
  </semantics>
 </math>'''
-    print(parser.parse(latex_formulas[0], mathml=False, slt=False))
-    print(parser.parse(latex_formulas[0], mathml=False, slt=True))
-    print(parser.parse(mathml_example, mathml=True, slt=False))
-    print(parser.parse(mathml_example, mathml=True, slt=True))
+    parsed = parser.parse2tree_tuples(latex_formulas[2], mathml=False, slt=True)
+    print(parsed)
+    import re
+
+    # print(re.findall(r'(?<=\[)(.*?)(?=[,\]\[])', '[V!r[=[O!divide[=[O!divide[&comma;],o[∑[M!()1x1[M!()1x1,w[V!y[-[V!y,o[¯]]],b[V!i]]],w[V!x[-[V!x,o[¯]]],b[V!i]]],o[V!n],u[V!i[=[N!1]]]],u[O!root,w[∑[M!()1x1[∑[M!()1x1,a[N!2],w[V!y[-[V!y,o[¯]]],b[V!i]]],o[V!n],u[V!i[=[N!1]]]],a[N!2],w[V!x[-[V!x,o[¯]]],b[V!i]]],o[V!n],u[V!i[=[N!1]]]]]]],o[∑[M!()1x1[M!()1x1,w[V!y[-[V!y,o[¯]]],b[V!i]]],w[V!x[-[V!x,o[¯]]],b[V!i]]],o[V!n],u[V!i[=[N!1]]]],u[M!()1x1[V!s[V!s,b[V!y]],b[V!x]],w[V!n[-[N!1]]]]]],b[V!x[V!y]]]'))
+    # print(parser.parse(latex_formulas[0], mathml=False, slt=True))
+    # print(parser.parse(mathml_example, mathml=True, slt=False))
+    # print(parser.parse(mathml_example, mathml=True, slt=True))
 #
 #     example_doc_path = '/Users/viktoriaknazkova/Desktop/me/study/github_repos/NTCIR-12_MathIR_Wikipedia_Corpus/MathTagArticles/wpmath0000001/Geometric_algebra.html'
 #     with open(example_doc_path, 'r') as f:
